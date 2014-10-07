@@ -1,6 +1,39 @@
 /**
  * Site header
  */
+ body, html {
+    background: $ucsc-blue;
+ }
+ section.header {
+    @include outer-container;
+    height: 6.875em;
+
+    .logo {
+        @include span-columns(4);
+        background: url("assets/images/logo.svg") no-repeat bottom left;
+        height: 6.875em;
+        overflow: auto;
+        text-indent: -9000;
+        background-size: 22.813em
+    }
+    .search-social {
+        @include span-columns(8);
+        text-align: right;
+        ul {
+            display: block;
+            list-style-type: none;
+        }
+        li img {
+            display: block;
+            width: 1.5em;
+            height: 1.5em;
+            margin: -.2em 0 0 .5em
+        }
+    }
+    .nav {
+        @include span-columns(8);
+    }
+ }
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
