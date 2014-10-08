@@ -5,42 +5,47 @@
     background: $ucsc-blue;
  }
  section.header {
-    @include outer-container;
-    height: 6.875em;
-
-    .logo {
-        @include span-columns(4);
-        background: url("assets/images/logo.svg") no-repeat bottom left;
-        height: 6.875em;
-        overflow: auto;
-        text-indent: -9000;
-        background-size: 22.813em
-    }
-    .search-social {
-        @include span-columns(8);
-        ul {
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+        .container {
             display: block;
-            list-style-type: none;
+            @include outer-container;
+            height: 6.875em;
         }
-        li img {
-            display: block;
-            width: 1.5em;
-            height: 1.5em;
-            float: right;
-            margin: .5em 0 0 .5em
+        .logo {
+            @include span-columns(4);
+            background: url("assets/images/logo.svg") no-repeat bottom left;
+            height: 6.875em;
+            overflow: auto;
+            text-indent: -9000;
+            background-size: 22.813em
         }
-        form {
-            display: block;
-            float: right;
-            input {
-                @include border-radius(5px);
-                border: 0;
+        .search-social {
+            @include span-columns(8);
+            ul {
                 display: block;
-                padding: 4px;
-                margin: .8em 0 0 1em;
-                color: #333;
+                list-style-type: none;
             }
-        }
+            li img {
+                display: block;
+                width: 1.5em;
+                height: 1.5em;
+                float: right;
+                margin: .5em 0 0 .5em
+            }
+            form {
+                display: block;
+                float: right;
+                input {
+                    @include border-radius(5px);
+                    border: 0;
+                    display: block;
+                    padding: 4px;
+                    margin: .8em 0 0 1em;
+                    color: #333;
+                }
+            }
     }
     .nav {
         @include span-columns(8);
