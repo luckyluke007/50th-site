@@ -14,25 +14,35 @@
             height: 6.875em;
         }
         .logo {
-            @include span-columns(4);
             background: url("assets/images/logo.svg") no-repeat bottom left;
             height: 6.875em;
             overflow: auto;
             text-indent: -9000;
-            background-size: 22.813em
+            background-size: 22.813em;
+            @include media ($mobile) {
+                @include span-columns(12);
+            }
+            @include media ($tablet) {
+                @include span-columns(12);
+            }
+            @include media ($portrait) {
+                @include span-columns(12);
+            }
+            @include media ($desktop) {
+                @include span-columns(4);
+            }
         }
         .search-social {
-            @include span-columns(8);
             ul {
-                display: block;
-                list-style-type: none;
-            }
+                    display: block;
+                    list-style-type: none;
+                }
             li img {
-                display: block;
-                width: 1.5em;
-                height: 1.5em;
-                float: right;
-                margin: .5em 0 0 .5em
+                    display: block;
+                    width: 1.5em;
+                    height: 1.5em;
+                    float: right;
+                    margin: .5em 0 0 .5em
             }
             form {
                 display: block;
@@ -46,18 +56,168 @@
                     color: #333;
                 }
             }
+            @include media ($mobile) {
+                @include span-columns(12);
+            }
+            @include media ($tablet) {
+                @include span-columns(12);
+            }
+            @include media ($portrait) {
+                @include span-columns(12);
+            }
+            @include media ($desktop) {
+                @include span-columns(7);
+            }
     }
     .nav {
-        @include span-columns(8);
+        @include span-columns(7);
+        border-bottom: 1px solid $ucsc-yellow;
+        padding-top: 2.25em;
+        /*Strip the ul of padding and list styling*/
+            ul {
+                list-style-type:none;
+                margin:0;
+                padding:0;
+            }
+
+            /*Create a horizontal list with spacing*/
+            li {
+                display:inline-block;
+                float: left;
+                margin-right: 1px;
+            }
+
+            /*Style for menu links*/
+            li a {
+                display:block;
+                margin: 0 2.92em 0 0;
+                font-family: $font-family-sans-serif;
+                color: #fff;
+                font-size: $font-size-base;
+                text-decoration: none;
+                text-transform: uppercase;
+                font-weight: 500;
+            }
+            li:last-child  a{
+                margin: 0;
+            }
+
+            /*Hover state for top level links*/
+            li:hover a {
+                color: $ucsc-yellow;
+            }
+
+            /*Style for dropdown links*/
+            li:hover ul a {
+                background: #f3f3f3;
+                color: #2f3036;
+                height: 40px;
+                line-height: 40px;
+            }
+
+            /*Hover state for dropdown links*/
+            li:hover ul a:hover {
+                background: #19c589;
+                color: #fff;
+            }
+
+            /*Hide dropdown links until they are needed*/
+            li ul {
+                display: none;
+            }
+
+            /*Make dropdown links vertical*/
+            li ul li {
+                display: block;
+                float: none;
+            }
+
+            /*Prevent text wrapping*/
+            li ul li a {
+                width: auto;
+                min-width: 100px;
+                padding: 0 20px;
+            }
+
+            /*Display the dropdown on hover*/
+            ul li a:hover + .hidden, .hidden:hover {
+                display: block;
+            }
+
+            /*Style 'show menu' label button and hide it by default*/
+            .show-menu {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                text-decoration: none;
+                color: #fff;
+                background: #19c589;
+                text-align: center;
+                padding: 10px 0;
+                display: none;
+            }
+
+            /*Hide checkbox*/
+            input[type=checkbox]{
+                display: none;
+            }
+
+            /*Show menu when invisible checkbox is checked*/
+            input[type=checkbox]:checked ~ #menu{
+                display: block;
+            }
+
+            /*Responsive Styles*/
+
+            @media screen and (max-width: $tablet){
+                /*Make dropdown links appear inline*/
+                ul {
+                    position: static;
+                    display: none;
+                }
+                /*Create vertical spacing*/
+                li {
+                    margin-bottom: 1px;
+                }
+                /*Make all menu links full width*/
+                ul li, li a {
+                    width: 100%;
+                }
+                /*Display 'show menu' link*/
+                .show-menu {
+                    display:block;
+                }
+            }
+
+        @include media ($mobile) {
+            @include span-columns(12);
+        }
+        @include media ($tablet) {
+            @include span-columns(12);
+        }
+        @include media ($portrait) {
+            @include span-columns(12);
+        }
+        @include media ($desktop) {
+            @include span-columns(7);
+        }
     }
  }
 
 .video-background {
     display: block;
-    width:100%;
+    width:auto;
+    width: 100%;
     position: absolute;
     index: -4;
+    margin: -5em 0;
+    video {
+        min-width: 100%;
+        min-height: 100%;
+        transform-origin: 50% 50%;
+        -webkit-transform-origin: 50% 50%;
+    }
 }
+
+// END MY STYLES // 
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;

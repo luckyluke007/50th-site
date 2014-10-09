@@ -42,7 +42,8 @@ $left_11: 91.667%;
 
 
 /* BREAKPOINTS */
-$desktop: 72em;
-$tablet: 48em;
-$portrait: 37.500em;
-$mobile: 37.438em;
+// Breakpoint variables
+$desktop:   new-breakpoint(min-width em(960) 12);
+$tablet:    new-breakpoint(min-width em(768) 12);
+$portrait:  new-breakpoint(min-width em(600) 12);
+$mobile:    new-breakpoint(max-width em(599) 12);
