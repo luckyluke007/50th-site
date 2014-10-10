@@ -40,7 +40,12 @@
                     width: 1.5em;
                     height: 1.5em;
                     float: right;
-                    margin: .5em 0 0 .5em
+                    margin: .5em 0 0 .5em;
+                    @include media ($tablet-max){
+                         width: 1.25em;
+                        height: 1.25em;
+                        float: right;
+                    }
             }
             form {
                 display: block;
@@ -53,6 +58,10 @@
                     margin: .8em 0 0 1em;
                     color: #333;
                 }
+                @include media ($tablet-max){
+                        float: right;
+                        margin: 0 .5em 0 0;
+                    }
             }
             @include media ($tablet) {
                 @include span-columns(12);
@@ -142,7 +151,7 @@
                 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
                 text-decoration: none;
                 color: #fff;
-                background: #19c589;
+                background: $ucsc-blue;
                 text-align: center;
                 padding: 10px 0;
                 display: none;
