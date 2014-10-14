@@ -8,13 +8,17 @@
         background-size: cover;
     }
  }
- section.header {
+ section.header, section.front-promo {
     width: 100%;
-    position: absolute;
     z-index: 1;
+    .container {
+        display: block;
+        @include outer-container;
+    }
+ }
+ section.header {
+    position: absolute;
         .container {
-            display: block;
-            @include outer-container;
             height: 6.875em;
         }
         .logo {
@@ -27,7 +31,7 @@
                 @include span-columns(12);
             }
             @include media ($desktop) {
-                @include span-columns(4);
+                @include span-columns(4 of 12);
             }
         }
         .search-social {
@@ -92,7 +96,7 @@
             /*Style for menu links*/
             li a {
                 display:block;
-                margin: 0 2.92em 0 0;
+                margin: 0 2.86em 0 0;
                 font-family: $font-family-sans-serif;
                 color: #fff;
                 font-size: $font-size-base;
@@ -137,7 +141,7 @@
             /*Prevent text wrapping*/
             li ul li a {
                 width: auto;
-                min-width: 100px;
+                min-width: 6.20em;
                 padding: 0 20px;
             }
 
@@ -182,6 +186,13 @@
                 /*Make all menu links full width*/
                 ul li, li a {
                     width: 100%;
+                    background: $ucsc-yellow;
+                    padding: .25em;
+                    text-align: center;
+                    color: $ucsc-blue;
+                }
+                ul li, li a:hover {
+                    color: $ucsc-red;
                 }
                 /*Display 'show menu' link*/
                 .show-menu {
@@ -198,7 +209,7 @@
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include span-columns(7);
+            @include span-columns(8 of 12);
         }
     }
  }
@@ -207,20 +218,62 @@
     display: block;
     width:auto;
     width: 100%;
+    max-height: 715px;
     position: absolute;
     z-index: 0;
-    margin: -5em 0;
+    margin: -15em 0;
     video {
         min-width: 100%;
         min-height: 100%;
         position: absolute;
-        transform-origin: 50% 50%;
-        -webkit-transform-origin: 50% 50%;
+        //transform-origin: 50% 50%;//
+        //-webkit-transform-origin: 50% 50%;//
         @include media ($tablet-max) {
             display: none;
         }
     }
 }
+
+section.front-promo {
+    top: 60%;
+    position: absolute;
+    color: $ucsc-white;
+    text-align: center;
+    .left-box {
+        @include border-radius-top(0.313em);
+        display: block;
+        background: $ucsc-blue;
+        @include media ($tablet) {
+            @include span-columns(12);
+        }
+        @include media ($desktop) {
+            @include span-columns(4 of 12);
+        }
+    }
+    .middle-box {
+        @include border-radius-top(0.313em);
+        display: block;
+        background: $ucsc-blue;
+        @include media ($tablet) {
+            @include span-columns(12);
+        }
+        @include media ($desktop) {
+            @include span-columns(4 of 12);
+        }
+    }
+    .right-box {
+        @include border-radius-top(0.313em);
+        display: block;
+        background: $ucsc-blue;
+        @include media ($tablet) {
+            @include span-columns(12);
+        }
+        @include media ($desktop) {
+            @include span-columns(4 of 12);
+        }
+    }
+}
+
 
 // END MY STYLES // 
 .site-header {
