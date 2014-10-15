@@ -14,3 +14,15 @@
       -ms-border-top-right-radius: $radius;
           border-top-left-radius: $radius;
 }
+
+@mixin h1 {
+  font-weight: 200;
+  font-size: $font-size-h1;
+  margin: .25em;
+  padding: .25m;
+}
+
+@mixin background-opacity($color, $opacity: 0.3) {
+    background: $color; /* The Fallback */
+    background: rgba($color, $opacity);
+}

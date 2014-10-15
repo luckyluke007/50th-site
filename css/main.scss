@@ -3,10 +3,7 @@
 ---
 @charset "utf-8";
 
-@import "mixin";
-@import "bourbon/bourbon";
-@import "neat/neat";
-@import "variables";
+@import "mixin", "bourbon/bourbon", "neat/neat", "variables";
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;

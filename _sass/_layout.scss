@@ -8,6 +8,9 @@
         background-size: cover;
     }
  }
+ h1 {
+    @include h1;
+ }
  section.header, section.front-promo {
     width: 100%;
     z-index: 1;
@@ -235,14 +238,14 @@
 }
 
 section.front-promo {
-    top: 43em;
+    top: 50em;
     position: absolute;
     color: $ucsc-white;
     text-align: center;
     .left-box {
         @include border-radius-top(0.313em);
         display: block;
-        background: $ucsc-blue;
+        @include background-opacity ($ucsc-blue, .8);
         @include media ($tablet) {
             @include span-columns(12);
         }
@@ -253,7 +256,7 @@ section.front-promo {
     .middle-box {
         @include border-radius-top(0.313em);
         display: block;
-        background: $ucsc-blue;
+        @include background-opacity ($ucsc-blue, .8);
         @include media ($tablet) {
             @include span-columns(12);
         }
@@ -264,7 +267,7 @@ section.front-promo {
     .right-box {
         @include border-radius-top(0.313em);
         display: block;
-        background: $ucsc-blue;
+        @include background-opacity ($ucsc-blue, .8);
         @include media ($tablet) {
             @include span-columns(12);
         }
