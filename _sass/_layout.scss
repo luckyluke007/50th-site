@@ -71,7 +71,7 @@
                 @include span-columns(12);
             }
             @include media ($desktop) {
-                @include span-columns(7);
+                @include span-columns(7 of 12);
             }
     }
     .nav {
@@ -221,7 +221,7 @@
     max-height: 715px;
     position: absolute;
     z-index: 0;
-    margin: -15em 0;
+    margin: -15em 0; 
     video {
         min-width: 100%;
         min-height: 100%;
@@ -235,7 +235,7 @@
 }
 
 section.front-promo {
-    top: 60%;
+    top: 43em;
     position: absolute;
     color: $ucsc-white;
     text-align: center;
@@ -273,6 +273,7 @@ section.front-promo {
         }
     }
 }
+
 
 
 // END MY STYLES // 
