@@ -5,6 +5,10 @@
           border-radius: $radius;
 }
 
+@mixin background-size($width, $height) {
+  background-size: $width $height;
+}
+
 @mixin border-radius-top($radius) {
   -webkit-border-top-left-radius: $radius;
   -webkit-border-top-right-radius: $radius;
@@ -27,17 +31,15 @@
     background: rgba($color, $opacity);
 }
 
-@mixin social-btn ($social-icon){
-      $get-url-image: "assets/images/#{$social-icon}.svg";
+@mixin social-btn{
       width: 1.5em;
       height: 1.5em;
       float: right;
-      margin: .25em 0 0 0;
+      margin: .5em 0 0 .25em;
       display: block;
       overflow: auto;
       text-indent: -9000px;
-      background: url($get-url-image) no-repeat center center;
-      background-size: 1.25em 1.25em;
+      background-size: 1.5em 1.5em;
       @include media($mobile) {
         float: right;
         width: 1.5em;

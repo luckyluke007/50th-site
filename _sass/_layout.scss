@@ -21,10 +21,11 @@
             height: 6.875em;
         }
         .logo {
+            display: block;
             background: url("assets/images/logo.svg") no-repeat bottom left;
             height: 6.875em;
             overflow: auto;
-            text-indent: -9000;
+            text-indent: -9000px;
             background-size: 22.813em;
             @include media ($mobile) {
                 @include span-columns(12);
@@ -53,42 +54,47 @@
                         //margin: 0 0 0 .35em;
                     //}
             a.facebook, a.facebook:active {
-                    @include social-btn(facebook);
+                    background: url("assets/images/facebook.svg") no-repeat center center;
+                    @include social-btn;
                 }
             a.facebook:hover{
-                    @include social-btn(facebook_ovr);
+                    background: url("assets/images/facebook_ovr.svg") no-repeat center center;
+                    @include social-btn;
+                    
                 }
             a.twitter, a.twiter:active {
-                    @include social-btn;
                     background: url("assets/images/twitter.svg") no-repeat center center;
+                    @include social-btn;
                 }
             a.twitter:hover{
-                    @include social-btn;
                     background: url("assets/images/twitter_ovr.svg") no-repeat center center;
+                    @include social-btn;
+                    
                 }
             a.instagram, a.instagram:active {
-                    @include social-btn;
                     background: url("assets/images/instagram.svg") no-repeat center center;
+                    @include social-btn;
                 }
             a.instagram:hover{
-                    @include social-btn;
                     background: url("assets/images/instagram_ovr.svg") no-repeat center center;
+                    @include social-btn;
                 }
             a.youtube, a.youtube:active{
-                    @include social-btn;
                     background: url("assets/images/youtube.svg") no-repeat center center;
+                    @include social-btn;
+                    
                 }
             a.youtube:hover{
-                    @include social-btn;
                     background: url("assets/images/youtube_ovr.svg") no-repeat center center;
+                    @include social-btn;
                 }
             a.linkedin, a.linkedin:active{
-                    @include social-btn;
                     background: url("assets/images/linkedin.svg") no-repeat center center;
+                    @include social-btn;
                 }
             a.linkedin:hover{
-                    @include social-btn;
                     background: url("assets/images/linkedin_ovr.svg") no-repeat center center;
+                    @include social-btn;
                 }
             }
             form {
