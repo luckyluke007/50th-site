@@ -27,14 +27,16 @@
     background: rgba($color, $opacity);
 }
 
-@mixin social-btn {
-      width: 2em;
-      height: 2em;
+@mixin social-btn ($social-icon){
+      $get-url-image: "assets/images/#{$social-icon}.svg";
+      width: 1.5em;
+      height: 1.5em;
       float: right;
       margin: .25em 0 0 0;
       display: block;
-      text-overflow: auto;
-      text-indent: -9000;
+      overflow: auto;
+      text-indent: -9000px;
+      background: url($get-url-image) no-repeat center center;
       background-size: 1.25em 1.25em;
       @include media($mobile) {
         float: right;
@@ -43,8 +45,5 @@
         margin: .45em 0 0 0;
         background-size: 1.25em 1.25em;
       }
-  }
-@mixin social-btn-ovr {
-      //background: url($bacbground_ovr) no-repeat center center;//
   }
 
