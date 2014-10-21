@@ -3,10 +3,6 @@
  */
  body, html {
     background: $ucsc-blue;
-    @include media ($tablet-max) {
-        background: url("assets/images/background-image.jpg") no-repeat top center;
-        background-size: cover;
-    }
  }
  h1 {
     @include h1;
@@ -30,6 +26,10 @@
             overflow: auto;
             text-indent: -9000;
             background-size: 22.813em;
+            @include media ($mobile) {
+                @include span-columns(12);
+                background-size: 20em;
+            }
             @include media ($tablet) {
                 @include span-columns(12);
             }
@@ -38,21 +38,70 @@
             }
         }
         .search-social {
+            @include span-columns(8 of 12);
             ul {
                     display: block;
                     list-style-type: none;
                 }
-            li img {
-                    display: block;
-                    width: 1.5em;
-                    height: 1.5em;
-                    float: right;
-                    margin: .5em 0 0 .5em;
-                    @include media ($tablet-max){
-                         width: 1.25em;
-                        height: 1.25em;
-                        float: right;
-                    }
+            li {
+                    display: block; 
+                    margin: 0 0 0 .25em;                 
+                    //@include media ($tablet){
+                       // width: 1.25em;
+                       // height: 1.25em;
+                        // float: right;
+                        //margin: 0 0 0 .35em;
+                    //}
+            a.facebook, a.facebook:active {
+                    @include social-btn;
+                    background: url("assets/images/facebook.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.facebook:hover{
+                    @include social-btn-ovr;
+                    background: url("assets/images/facebook_ovr.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.twitter, a.twiter:active {
+                    @include social-btn;
+                    background: url("assets/images/twitter.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.twitter:hover{
+                    @include social-btn-ovr;
+                    background: url("assets/images/twitter_ovr.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.instagram, a.instagram:active {
+                    @include social-btn;
+                    background: url("assets/images/instagram.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.instagram:hover{
+                    @include social-btn-ovr;
+                    background: url("assets/images/instagram_ovr.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.youtube, a.youtube:active{
+                    @include social-btn;
+                    background: url("assets/images/youtube.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.youtube:hover{
+                    @include social-btn-ovr;
+                    background: url("assets/images/youtube_ovr.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.linkedin, a.linkedin:active{
+                    @include social-btn;
+                    background: url("assets/images/linkedin.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
+            a.linkedin:hover{
+                    @include social-btn-ovr;
+                    background: url("assets/images/linkedin_ovr.svg") no-repeat center center;
+                    background-size: 1.5em 1.5em;
+                }
             }
             form {
                 display: block;
@@ -70,15 +119,19 @@
                         margin: 0 .5em 0 0;
                     }
             }
+            @include media ($mobile) {
+                @include span-columns(12);
+            }
             @include media ($tablet) {
                 @include span-columns(12);
             }
             @include media ($desktop) {
-                @include span-columns(7 of 12);
+                @include span-columns(8 of 12);
+                @include omega();
             }
     }
     .nav {
-        @include span-columns(7);
+        @include span-columns(8);
         border-bottom: 1px solid $ucsc-yellow;
         padding-top: 2.25em;
         /*Strip the ul of padding and list styling*/
@@ -99,7 +152,7 @@
             /*Style for menu links*/
             li a {
                 display:block;
-                margin: 0 2.86em 0 0;
+                margin: 0 2.75em 0 0;
                 font-family: $font-family-sans-serif;
                 color: #fff;
                 font-size: $font-size-base;
@@ -157,8 +210,9 @@
             .show-menu {
                 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
                 text-decoration: none;
-                color: #fff;
-                background: $ucsc-blue;
+                color: $ucsc-blue;
+                background: $ucsc-yellow;
+                font-size: $font-size-h3;
                 text-align: center;
                 padding: 10px 0;
                 display: none;
@@ -189,7 +243,7 @@
                 /*Make all menu links full width*/
                 ul li, li a {
                     width: 100%;
-                    background: $ucsc-yellow;
+                    background: $ucsc-white;
                     padding: .25em;
                     text-align: center;
                     color: $ucsc-blue;
@@ -212,16 +266,17 @@
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include span-columns(8 of 12);
+            @include span-columns(7);
+            @include shift (1);
         }
     }
  }
 
 .video-background {
     display: block;
-    width:auto;
+    width: auto;
     width: 100%;
-    max-height: 715px;
+    max-height: 800px;
     position: absolute;
     z-index: 0;
     margin: -15em 0; 
@@ -229,8 +284,6 @@
         min-width: 100%;
         min-height: 100%;
         position: absolute;
-        //transform-origin: 50% 50%;//
-        //-webkit-transform-origin: 50% 50%;//
         @include media ($tablet-max) {
             display: none;
         }
@@ -274,6 +327,15 @@ section.front-promo {
         @include media ($desktop) {
             @include span-columns(4 of 12);
         }
+    }
+    @include media ($mobile) {
+        top: 30em;
+    }
+    @include media ($tablet) {
+        top: 30em;
+    }
+    @include media ($tablet) {
+        top: 50em;
     }
 }
 
