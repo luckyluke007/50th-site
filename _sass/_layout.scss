@@ -7,9 +7,10 @@
  h1 {
     @include h1;
  }
- section.header, section.front-promo {
+ section.header, section.front-promo, section.content {
     width: 100%;
     z-index: 1;
+    display:block;
     .container {
         display: block;
         @include outer-container;
@@ -273,7 +274,7 @@
     max-height: 800px;
     position: absolute;
     z-index: 0;
-    margin: -15em 0; 
+    margin: -15em 0;
     video {
         min-width: 100%;
         min-height: 100%;
@@ -332,7 +333,32 @@ section.front-promo {
         top: 50em;
     }
 }
-
+//SUBPAGE//
+section.content {
+    margin: 8em 0 0 0; // space skip header //
+    position: absolute;
+        // TWO COLUMNS //
+        .left-column {
+            display: block;
+            @include media ($tablet) {
+                @include span-columns(12);
+            }
+            @include media ($desktop) {
+                @include span-columns(8 of 12);
+            }
+        .right-column {
+            display: block;
+            @include media ($tablet) {
+                @include span-columns(12);
+            }
+            @include media ($desktop) {
+                @include span-columns(4 of 12);
+                @include shift (1);
+            }
+        }
+        // END TWO COLUMNS //
+    }
+}
 
 
 // END MY STYLES // 
