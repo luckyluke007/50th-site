@@ -1,3 +1,7 @@
+#timeline-embed {
+    width: 100% !important;
+    height: 680px !important;
+}
 .vco-storyjs {
 }
 .vco-storyjs div * {
@@ -13,7 +17,7 @@
     font-style:normal;
     font-size:100%;
     line-height:1;
-    font-family:"Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     /*font-family:inherit;*/
     width:auto;
     float:none;
@@ -152,7 +156,7 @@ padding:0;
     vertical-align:top;
 }
 .vco-storyjs {
-    font-family:"Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     /*font-family:"Georgia", Times New Roman, Times, serif;*/
 }
 .vco-storyjs .twitter, .vco-storyjs .vcard, .vco-storyjs .messege, .vco-storyjs .credit, .vco-storyjs .caption, .vco-storyjs .zoom-in, .vco-storyjs .zoom-out, .vco-storyjs .back-home, .vco-storyjs .time-interval div, .vco-storyjs .time-interval-major div, .vco-storyjs .nav-container {
@@ -172,11 +176,11 @@ padding:0;
     /*font-family:"Georgia", Times New Roman, Times, serif !important;*/
 }
 .vco-storyjs .vco-feature h1, .vco-storyjs .vco-feature h2, .vco-storyjs .vco-feature h3, .vco-storyjs .vco-feature h4, .vco-storyjs .vco-feature h5, .vco-storyjs .vco-feature h6 {
-    font-family:"Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     /*font-family:"Georgia", Times New Roman, Times, serif;*/
 }
 .timeline-tooltip {
-    font-family:"Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     /*font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;*/
 }
 .thumbnail {
@@ -189,7 +193,7 @@ padding:0;
 }
 
 .vco-slider .slider-item .content .content-container .text .container .location {
-    font-family:"Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     display: block;
     width: 100%;
     font-size: 11px;
@@ -201,7 +205,7 @@ padding:0;
     font-weight: bold;
 }
 .vco-slider .slider-item .content .content-container .text .container .related-link {
-    font-family:"Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     display: block;
     width: 100%;
     font-size: 11px;
@@ -213,7 +217,7 @@ padding:0;
     font-weight: bold;
 }
 .vco-slider .slider-item .content .content-container .text .container .posted-by {
-    font-family:"Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     display: block;
     font-size: 11px;
     width: 100%;
@@ -242,7 +246,7 @@ background-size:352px 260px;
     font-weight:normal;
     line-height:20px;
     margin-bottom:10px;
-    color:#666666;
+    color:#fff;
 }
 .vco-storyjs p small {
     font-size:12px;
@@ -258,7 +262,7 @@ background-size:352px 260px;
     margin-bottom:10px;
 }
 .vco-storyjs .vco-feature p {
-    color:#666666;
+    color:#fff; /* #666666 */
 }
 .vco-storyjs .vco-feature blockquote, .vco-storyjs .vco-feature blockquote p {
     color:#000000;
@@ -274,8 +278,8 @@ background-size:352px 260px;
     word-wrap:break-word;
 }
 .vco-storyjs h1, .vco-storyjs h2, .vco-storyjs h3, .vco-storyjs h4, .vco-storyjs h5, .vco-storyjs h6 {
-    font-weight:normal;
-    color:#000000;
+    font-weight:400;
+    color:#fff;
     text-transform:none;
 }
 .vco-storyjs h1 a, .vco-storyjs h2 a, .vco-storyjs h3 a, .vco-storyjs h4 a, .vco-storyjs h5 a, .vco-storyjs h6 a {
@@ -317,7 +321,7 @@ background-size:352px 260px;
     font-size:16px;
     line-height:18px;
     margin-bottom:3.75px;
-    color:#999999;
+    color:#fff; /*#999999*/
 }
 .vco-storyjs h3, .vco-storyjs h4, .vco-storyjs h5, .vco-storyjs h6 {
     line-height:40px;
@@ -613,7 +617,7 @@ overflow:hidden;
     vertical-align:middle;
 }
 .vco-notouch .vco-slider .nav-previous:hover, .vco-notouch .vco-slider .nav-next:hover {
-    color:#333333;
+    color:#f1b521; /*#333333*/
     cursor:pointer;
 }
 .vco-notouch .vco-slider .nav-previous:hover .icon {
@@ -645,7 +649,7 @@ overflow:hidden;
     position:absolute;
     top:0px;
     width:100px;
-    color:#DBDBDB;
+    color:#00458c; /*#DBDBDB*/
     font-size:11px;
 }
 .vco-slider .nav-previous .nav-container, .vco-slider .nav-next .nav-container {
@@ -661,7 +665,7 @@ overflow:hidden;
     line-height:14px;
 }
 .vco-slider .nav-previous .date a, .vco-slider .nav-next .date a, .vco-slider .nav-previous .title a, .vco-slider .nav-next .title a {
-    color:#999999;
+    color:#cccccc; /*#999999*/
 }
 .vco-slider .nav-previous .date small, .vco-slider .nav-next .date small, .vco-slider .nav-previous .title small, .vco-slider .nav-next .title small {
     display:none;
@@ -834,7 +838,7 @@ overflow:hidden;
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow {
     position:relative;
     z-index:1;
-    background:#ffffff;
+    /*background:#ffffff;*/
 }
 .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow:before, .vco-slider .slider-item .content .content-container .media .media-wrapper .media-container .media-shadow:after {
     z-index:-1;
@@ -935,7 +939,7 @@ overflow:hidden;
     line-height:19px;
     margin-right:60px;
     padding-left:65px;
-    font-family:"Lucida Grande","Lucida Sans Unicode",sans-serif;
+    font-family:"Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     /*font-family:Arial, sans-serif;*/
     font-size:10px;
     color:#444;
@@ -1145,7 +1149,7 @@ overflow:hidden;
     max-width:70%;
 }
 .storyjs-embed {
-    background-color:#ffffff;
+    /*background-color:#ffffff;*/
     margin-bottom:20px;
     border:1px solid #cccccc;
     padding-top:20px;
@@ -1187,7 +1191,7 @@ overflow:hidden;
     height:100%;
     padding:0px;
     margin:0px;
-    background-color:#ffffff;
+    /*background-color:#ffffff;*/
     position:absolute;
     z-index:100;
     clear:both;
@@ -1233,7 +1237,7 @@ overflow:hidden;
     margin-top:15px;
     height:100%;
     width:100%;
-    background-color:#ffffff;
+    /*background-color:#ffffff;*/
 }
 .vco-storyjs div.vco-loading .vco-loading-container, .vco-storyjs div.vco-explainer .vco-loading-container, .vco-storyjs div.vco-loading .vco-explainer-container, .vco-storyjs div.vco-explainer .vco-explainer-container {
     display:table-cell;
@@ -1302,7 +1306,7 @@ overflow:hidden;
     height:auto;
     margin:0px;
     clear:both;
-    background: #F2F0E4;
+    /*background: #F2F0E4;*/
 }
 .vco-storyjs img, .vco-storyjs embed, .vco-storyjs object, .vco-storyjs video, .vco-storyjs iframe {
     max-width:100%;
@@ -1312,11 +1316,11 @@ overflow:hidden;
     /*border:1px solid #999999;*/
 }
 .vco-storyjs a {
-    color:#0088cc;
+    color:#fff;
     text-decoration:none;
 }
 .vco-storyjs a:hover {
-    color:#005580;
+    color:#f8c325;
     text-decoration:underline;
 }
 .vco-storyjs .vcard {
@@ -1717,7 +1721,7 @@ height:48px;
     z-index:30;
     width:100%;
     height:1px;
-    background:#ffffff;
+    /*background:#ffffff;*/
     filter:alpha(opacity=50);
     -khtml-opacity:0.5;
     -moz-opacity:0.5;
