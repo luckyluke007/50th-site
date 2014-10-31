@@ -1,0 +1,7 @@
+---
+layout: event
+title:  "Founders Celebrations 2015"
+date:   October 24-26, 2015
+categories: event
+---
+![Founders Celebrations 2015]({{site.url}}css/assets/images/founders.png)The ninth annual Founders Celebration will give an electrifying flourish to a yearlong celebration of UC Santa Cruz's 50th anniversary. This special event will continue the campus's tradition of honoring extraordinary individuals and their outstanding contributions to society while paying tribute to the campus's visionary originals, connecting UC Santa Cruz's unconventional roots to its evolving present.

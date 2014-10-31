@@ -4,6 +4,14 @@
  body, html {
     background: $ucsc-light-blue;
  }
+ a, a:active {
+    color: $ucsc-yellow;
+    text-decoration: none;
+    &:hover {
+    text-decoration: underline;
+    }
+ }
+
  h1 {
     color: $ucsc-white;
     @include h1;
@@ -343,6 +351,7 @@ section.front-promo {
 //SUBPAGE//
 section.content {
     margin: 10em 0 0 0; // space skip header //
+    color: $ucsc-white;
         // TWO COLUMNS //
         .left-column, .right-column {
             display: block;
@@ -360,7 +369,7 @@ section.content {
                 @include span-columns(12);
             }
             @include media ($desktop) {
-                @include span-columns(4 of 12);
+                @include span-columns(3 of 12);
                 @include shift (1);
             }
         .single-column {

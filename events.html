@@ -1,0 +1,24 @@
+---
+layout: default
+
+---
+<h1>Events</h1>
+  <!-- LEFT COLUMN -->
+  <div class="left-column">
+  <ul class="post-list">
+    {% for post in site.categories.event %}
+      <li>
+        <span class="post-meta">{{ event.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+  </div>
+  <!-- RIGHT COLUMN -->
+  <div class="right-column">
+    RIGHT COLUMN
+  </div>
