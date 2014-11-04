@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ecotopia Emerging? 
-Ernest Callenbach's Ecotopia and the Prospects for "Ecotopia""
+title:  'Ecotopia Emerging? 
+Ernest Callenbach&#39;s Ecotopia and the Prospects for "Ecotopia"'
 date: 2015-11-06
 categories: event
 ---
