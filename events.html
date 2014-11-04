@@ -6,9 +6,22 @@ layout: default
   <!-- LEFT COLUMN -->
   <div class="left-column">
   <ul class="post-list">
-    {% for post in site.categories.event %}
+    {% for post in site.categories.event reversed %}
       <li>
-        <span class="post-meta">{{ event.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <ul class="post-list">
+    {% for post in site.categories.eventnodate reversed %}
+      <li>
+        <span class="post-meta">{{ post.nodate }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

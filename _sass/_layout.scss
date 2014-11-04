@@ -12,9 +12,27 @@
     }
  }
 
- h1 {
+ h1, h2, h3, h4, h5 {
     color: $ucsc-white;
-    @include h1;
+    font-weight: 300;
+ }
+ h1 {
+    font-size: $font-size-h1
+ }
+ h2 {
+    font-size: $font-size-h2
+ }
+ h3 {
+    font-size: $font-size-h3
+ }
+ h4 {
+    font-size: $font-size-h4
+ }
+ h5 {
+    font-size: $font-size-h5
+ }
+ h6 {
+    font-size: $font-size-h6
  }
  .container {
         display: block;
@@ -290,14 +308,7 @@
     position: absolute;
     z-index: 0;
     margin: -15em 0;
-    video {
-        min-width: 100%;
-        min-height: 100%;
-        position: absolute;
-        @include media ($tablet-max) {
-            display: none;
-        }
-    }
+    
 }
 
 section.front-promo {
@@ -388,6 +399,13 @@ section.content {
         position: absolute;
         z-index: 1;
     }
+}
+// EVENTS//
+.event-type-host {
+    font-weight: 500;
+    @include span-columns(12);
+    margin-bottom: 1em;
+
 }
 
 //BIG VIDEOJS //
@@ -693,7 +711,8 @@ video {
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: 2em;
+        border-bottom: 1px $ucsc-white dotted;
     }
 }
 
