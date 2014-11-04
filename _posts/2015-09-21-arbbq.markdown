@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Arb-B-Q"
+date: 2015-09-21
+categories: event
+---
+<div class="event-type-host">Membership Picnic | Hosted by: Arboretum</div>
+This event is an informal celebration of the year's achievements and volunteers who contributed to its success. It is also when new members of the Friends of the UC Santa Cruz Arboretum Board are elected and officers selected. The event is a potluck.
+
+Date: September 21, 2015
+
+Point of contact: [Jessica Fiske Bailey](mailto:jfbailey@ucsc.edu)
