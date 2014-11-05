@@ -370,33 +370,56 @@ section.content {
     margin: 10em 0 0 0; // space skip header //
     color: $ucsc-white;
         // TWO COLUMNS //
-        .left-column, .right-column {
-            display: block;
-            padding: .5em;
-        }
+
         .left-column {
+            display: inline-block;
+            padding: .5em;
             @include media ($tablet) {
                 @include span-columns(12);
             }
             @include media ($desktop) {
                 @include span-columns(8 of 12);
             }
+        }
         .right-column {
+            display: inline-block;
+            padding: .5em;
+            .side-container {
+                @include span-columns(12);
+                display: block;
+                margin-bottom: 1em;
+                h3 {
+                    display: block;
+                    text-transform: uppercase;
+                    padding-bottom: .25em;
+                    border-bottom: .1em solid $ucsc-yellow;
+                    a, a:active, a:hover {
+                    text-decoration: none;
+                    }
+                }
+                img {
+                    margin-bottom: .5em;
+                }
+                ul {
+                    margin-left: 1.25em;
+                }
+
+            }
             @include media ($tablet) {
                 @include span-columns(12);
             }
             @include media ($desktop) {
-                @include span-columns(3 of 12);
-                @include shift (1);
+                @include span-columns(4 of 12);
             }
-        .single-column {
-                display: block;
-                padding: .5em;
-                @include span-columns(12);
-            }
+
         }
         // END TWO COLUMNS //
-    }
+        .single-column {
+            display: block;
+            padding: .5em;
+            @include span-columns(12);
+        }
+        
     // CONTENT REPONSIVE //
     @include media ($tablet) {
         position: none;
