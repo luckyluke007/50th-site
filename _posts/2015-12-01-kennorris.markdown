@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Ken Norris Center for Natural History Dedication'
-nodate: Winter 2015
+nodate: TBA
 categories: eventnodate
 ---
 <div class="event-type-host">Reception | Hosted by: Environmental Studies</div>

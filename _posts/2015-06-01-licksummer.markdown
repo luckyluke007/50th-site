@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Lick Observatory Summer Visitor Program'
-nodate: July & August 2015
+nodate: Jul & Aug 2015
 categories: eventnodate
 ---
 <div class="event-type-host">Telescope viewing and lecture | Hosted by: Lick Observatory, Mount Hamilton</div>

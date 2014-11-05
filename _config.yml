@@ -11,4 +11,6 @@ twitter_username: ucsc
 github_username:  ucsc
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet #kramdown
+redcarpet:
+	extensions:	['smart']

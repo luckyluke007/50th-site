@@ -2,7 +2,7 @@
 layout: post
 title:  'An Uncommon Place: Shaping the Santa Cruz Campus
 A Conversational Exhibition and Website About the Building of UCSC'
-nodate: February 2015
+nodate: Feb 2015
 categories: eventnodate
 ---
 <div class="event-type-host">Hosted by: Mary Porter Sesnon Art Gallery, Porter College</div>

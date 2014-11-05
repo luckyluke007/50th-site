@@ -5,7 +5,7 @@
     background: $ucsc-light-blue;
  }
  a, a:active {
-    color: $ucsc-yellow;
+    color: $ucsc-light-yellow;
     text-decoration: none;
     &:hover {
     text-decoration: underline;
@@ -33,6 +33,12 @@
  }
  h6 {
     font-size: $font-size-h6
+ }
+ .clear {
+    display: block;
+    @include span-columns(12);
+    clear: both;
+    float: none;
  }
  .container {
         display: block;
@@ -403,9 +409,23 @@ section.content {
 // EVENTS//
 .event-type-host {
     font-weight: 500;
-    @include span-columns(12);
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
+}
 
+.event-date {
+    display: block;
+    color: $ucsc-green !important;
+    text-align: center !important;
+    font-size: $font-size-h3;
+    line-height: 1em;
+    margin: .25em 0;
+    text-transform: uppercase;
+    font-weight: 500;
+    border-right: 1px $ucsc-white dotted;
+    @include span-columns(1.5);
+        @include media ($tablet-max){
+            @include span-columns(2);
+        }
 }
 
 //BIG VIDEOJS //
@@ -717,7 +737,6 @@ video {
 }
 
 .post-meta {
-    font-size: $small-font-size;
     color: $grey-color;
 }
 
