@@ -421,10 +421,22 @@ section.content {
     margin: .25em 0;
     text-transform: uppercase;
     font-weight: 500;
-    border-right: 1px $ucsc-white dotted;
     @include span-columns(1.5);
         @include media ($tablet-max){
             @include span-columns(2);
+        }
+}
+
+.event-content {
+    display: block;
+    color: $ucsc-white;
+    text-align: left;
+    @include span-columns(10.5);
+    img {
+        margin-bottom: 1em;
+    }
+        @include media ($tablet-max) {
+            @include span-columns(10);
         }
 }
 
@@ -732,7 +744,9 @@ video {
 
     > li {
         margin-bottom: 2em;
+        @include span-columns (12);
         border-bottom: 1px $ucsc-white dotted;
+        clear: both;
     }
 }
 

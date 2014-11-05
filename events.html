@@ -9,11 +9,12 @@ layout: default
     {% for post in site.categories.event reversed %}
       <li>
         <span class="post-meta event-date">{{ post.date | date: "%b" }}<br/ >{{ post.date | date: "%-d" }}</span>
+        <div class="event-content">
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         {{ post.excerpt }}
-        
+        </div>
       </li>
       <div class="clear"></div>
     {% endfor %}
@@ -23,12 +24,12 @@ layout: default
     {% for post in site.categories.eventnodate reversed %}
       <li>
         <span class="post-meta event-date">{{ post.nodate }}</span>
-
+        <div class="event-content">
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         {{ post.excerpt }}
-
+      </div>
       </li>
       <div class="clear"></div>
     {% endfor %}
