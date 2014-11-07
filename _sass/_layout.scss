@@ -158,7 +158,7 @@
     }
     .nav {
         @include span-columns(8);
-        border-bottom: 1px solid $ucsc-yellow;
+        border-bottom: 1px solid $ucsc-white;
         padding-top: 3.35em;
         /*Strip the ul of padding and list styling*/
             ul {
@@ -180,7 +180,7 @@
                 display:block;
                 margin: 0 2.85em 0 0;
                 font-family: $font-family-sans-serif;
-                color: #fff;
+                color: $ucsc-yellow;
                 font-size: $font-size-base;
                 text-decoration: none;
                 text-transform: uppercase;
@@ -192,7 +192,7 @@
 
             /*Hover state for top level links*/
             li:hover a {
-                color: $ucsc-yellow;
+                color: $ucsc-white;
             }
 
             /*Style for dropdown links*/
@@ -292,6 +292,7 @@
             @include span-columns(12);
         }
         @include media ($desktop) {
+            width: auto;
             @include span-columns(7);
             @include shift (1);
         }
@@ -354,6 +355,9 @@ section.front-promo {
         @include media ($desktop) {
             @include span-columns(4 of 12);
         }
+    }
+    h1 {
+            margin: .25em 0 .25em 0;
     }
     @include media ($mobile) {
         top: 30em;
