@@ -147,9 +147,9 @@
         slider.find("img").attr("draggable", "false");
 
         // API: start() Callback
-        setTimeout(function(){
-          slider.vars.start(slider);
-        }, 200);
+        //setTimeout(function(){
+         // slider.vars.start(slider);
+        //}, 200);
       },
       asNav: {
         setup: function() {
