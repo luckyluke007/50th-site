@@ -11,4 +11,4 @@ The collective, spread throughout the East Bay, has live-work housing, studios, 
 
 Date: TBA
 
-Point of contact: [Allison Garcia](mailto:acgarcia@ucsc.edu)ykk
+Point of contact: [Allison Garcia](mailto:acgarcia@ucsc.edu)
