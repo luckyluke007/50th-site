@@ -36,6 +36,10 @@
 	margin: 0;
 	padding: 0;
 	width: 100%;
+}
+.flexslider .slides > li {
+	display: none;
+	-webkit-backface-visibility: hidden;
 	h2 {
 		display: block;
 		padding: .1em .25em;
@@ -43,9 +47,14 @@
 		color: $ucsc-blue;
 		bottom: 22%;
 		background: $ucsc-light-yellow;
+		@include media ($mobile){
+			margin-bottom: 0;
+		}
+		@include media ($portrait){
+			margin-bottom: 0;
+		}
 		@include media($tablet){
 			position: none;
-			margin-left: 0;
 			margin-bottom: 0;
 		}
 		@include media($desktop){
@@ -62,9 +71,14 @@
 		bottom: 5%;
 		background: $ucsc-blue;
 		background: rgba(0,69,140,.9);
+		@include media ($mobile){
+			margin-bottom: 0;
+		}
+		@include media ($portrait){
+			margin-bottom: 0;
+		}
 		@include media($tablet){
 			position: none;
-			margin-left: 0;
 			margin-bottom: 0;
 		}
 		@include media($desktop){
@@ -72,10 +86,6 @@
 			margin: 0 0 0 1.3em;
 		}
 	}
-}
-.flexslider .slides > li {
-	display: none;
-	-webkit-backface-visibility: hidden;
 } /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides img {
 	width:100%;
