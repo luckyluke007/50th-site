@@ -264,12 +264,12 @@
                 }
                 /*Create vertical spacing*/
                 li {
-                    margin-bottom: 1px;
+                    margin-bottom: 0px;
                 }
                 /*Make all menu links full width*/
                 ul li, li a {
                     width: 100%;
-                    background: $ucsc-white;
+                    @include background-opacity ($ucsc-white, 1);
                     padding: .25em;
                     text-align: center;
                     color: $ucsc-blue;
@@ -298,8 +298,17 @@
         }
     }
     // SECTION HEADER //
+    @include media ($mobile) {
+          position: absolute;
+          z-index: 2;
+        }
+     @include media ($portrait) {
+          position: absolute;
+          z-index: 2;
+        }
      @include media ($tablet) {
-          position: none;
+          position: absolute;
+          z-index: 2;
         }
     @include media ($desktop) {
           position: absolute;
@@ -307,52 +316,44 @@
         }
  }
 
-.video-background {
-    display: block;
-    width: auto;
-    width: 100%;
-    max-height: 800px;
-    position: absolute;
-    z-index: 0;
-    margin: -15em 0;
-    
-}
-
 section.front-promo {
-    bottom: 70em;
     position: absolute;
     color: $ucsc-white;
     text-align: center;
     .left-box {
         @include border-radius-top(0.313em);
         display: block;
-        @include background-opacity ($ucsc-light-blue, .8);
+        
         @include media ($tablet) {
+            @include background-opacity ($ucsc-light-blue, 0);
             @include span-columns(12);
         }
         @include media ($desktop) {
+            @include background-opacity ($ucsc-light-blue, .8);
             @include span-columns(4 of 12);
         }
     }
     .middle-box {
         @include border-radius-top(0.313em);
         display: block;
-        @include background-opacity ($ucsc-light-blue, .8);
         @include media ($tablet) {
+            @include background-opacity ($ucsc-light-blue, 0);
             @include span-columns(12);
         }
         @include media ($desktop) {
+            @include background-opacity ($ucsc-light-blue, .8);
             @include span-columns(4 of 12);
         }
     }
     .right-box {
         @include border-radius-top(0.313em);
         display: block;
-        @include background-opacity ($ucsc-light-blue, .8);
         @include media ($tablet) {
+            @include background-opacity ($ucsc-light-blue, 0);
             @include span-columns(12);
         }
         @include media ($desktop) {
+            @include background-opacity ($ucsc-light-blue, .8);
             @include span-columns(4 of 12);
         }
     }
@@ -360,24 +361,34 @@ section.front-promo {
             margin: .25em 0 .25em 0;
     }
     @include media ($mobile) {
-        top: 30em;
+        top: 20em;
     }
     @include media ($portrait) {
-        top: 30em;
+        top: 20em;
     }
     @include media ($tablet) {
-        top: 50em;
+        top: 20em;
+    }
+    @include media ($desktop) {
+        top: 40em;
     }
 }
 //SUBPAGE//
 section.content {
-    margin: 10em 0 0 0; // space skip header //
+    
     color: $ucsc-white;
+    position: absolute;
         // TWO COLUMNS //
 
         .left-column {
             display: inline-block;
             padding: .5em;
+            @include media ($mobile) {
+                @include span-columns(12);
+            }
+            @include media ($portrait) {
+                @include span-columns(12);
+            }
             @include media ($tablet) {
                 @include span-columns(12);
             }
@@ -415,7 +426,6 @@ section.content {
             @include media ($desktop) {
                 @include span-columns(4 of 12);
             }
-
         }
         // END TWO COLUMNS //
         .single-column {
@@ -423,14 +433,18 @@ section.content {
             padding: .5em;
             @include span-columns(12);
         }
-        
-    // CONTENT REPONSIVE //
-    @include media ($tablet) {
-        position: none;
+    // SECTION RESPONSIVE
+    @include media ($mobile){
+        margin: 16em 0 0 0; // space skip header //
     }
-    @include media ($desktop) {
-        position: absolute;
-        z-index: 1;
+    @include media ($portrait){
+        margin: 16em 0 0 0; // space skip header //
+    }
+    @include media ($tablet){
+        margin: 16em 0 0 0; // space skip header //
+    }
+    @include media ($desktop){
+        margin: 10em 0 0 0; // space skip header //
     }
 }
 // EVENTS//
@@ -486,16 +500,16 @@ section.content {
     left:0;
     background: $ucsc-blue;
     @include media ($mobile){
-        display: none;
+        height: 100%;
     }
     @include media ($portrait){
-        display: none;
+        height: 100%;
     }
     @include media ($tablet){
-        display: none;
+        height: 100%;
     }
     @include media ($desktop){
-        display: block;
+        height:85%;
     }
 }
 #big-video-vid,#big-video-image{
@@ -590,10 +604,6 @@ section.content {
 }
 .vjs-control-bar {
     display: none;
-}
-video {
-    top:-15%;
-    opacity: .75;
 }
 
 //END BIG VIDEOJS//
