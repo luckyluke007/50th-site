@@ -329,7 +329,7 @@ section.front-promo {
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include background-opacity ($ucsc-light-blue, .8);
+            @include background-opacity ($ucsc-light-blue, .95);
             @include span-columns(4 of 12);
         }
     }
@@ -341,7 +341,7 @@ section.front-promo {
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include background-opacity ($ucsc-light-blue, .8);
+            @include background-opacity ($ucsc-light-blue, .95);
             @include span-columns(4 of 12);
         }
     }
@@ -353,7 +353,7 @@ section.front-promo {
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include background-opacity ($ucsc-light-blue, .8);
+            @include background-opacity ($ucsc-light-blue, .95);
             @include span-columns(4 of 12);
         }
     }
