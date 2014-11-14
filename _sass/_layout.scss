@@ -433,6 +433,24 @@ section.content {
             padding: .5em;
             @include span-columns(12);
         }
+        //END SINGLE COLUMN
+        .column-one {
+            display: block;
+            @include span-columns(3); 
+        }
+        .column-two {
+            display: block;
+            @include span-columns(3);
+        }
+        .column-three {
+            display: block;
+            @include span-columns(3);
+        }
+        .column-four {
+            display: block;
+            @include span-columns(3);
+        }
+        //END FOUR COLUMN
     // SECTION RESPONSIVE
     @include media ($mobile){
         margin: 16em 0 0 0; // space skip header //
@@ -494,26 +512,35 @@ section.content {
 #big-video-wrap{
     overflow:hidden;
     position:fixed;
-    height:85%;
     width:100%;
     top:0;
     left:0;
     background: $ucsc-blue;
     @include media ($mobile){
         height: 100%;
+        background: $ucsc-light-blue;
     }
     @include media ($portrait){
         height: 100%;
+        background: $ucsc-light-blue;
     }
     @include media ($tablet){
         height: 100%;
+        background: $ucsc-light-blue;
     }
     @include media ($desktop){
         height:85%;
+        background: $ucsc-blue;
     }
 }
 #big-video-vid,#big-video-image{
     position:absolute;
+}
+#big-video-image {
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-opacity: .5;
 }
 #big-video-control-container{
     position:fixed;
@@ -605,7 +632,20 @@ section.content {
 .vjs-control-bar {
     display: none;
 }
-
+video {
+    @include media($mobile){
+        top: 0;
+    }
+    @include media($portrait){
+        top: 0;
+    }
+    @include media($tablet){
+        top: 0;
+    }
+    @include media($desktop){
+        top:-15%;
+    }
+}
 //END BIG VIDEOJS//
 
 

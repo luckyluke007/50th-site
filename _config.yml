@@ -11,14 +11,8 @@ twitter_username: ucsc
 github_username:  ucsc
 
 # Build settings
-markdown: kramdown #kramdown
-
-kramdown:
- auto_ids:      true
- footnote_nr:   1
- entity_output: as_char
- toc_levels:    1..6
- smart_quotes:  lsquo,rsquo,ldquo,rdquo
- use_coderay:   false
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
 
 encoding:     "utf-8"

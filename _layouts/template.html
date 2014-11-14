@@ -5,9 +5,9 @@
 
 <section class="front-promo">
 	<div class="container">
-		<div class="left-box"><h1>THE PAST</h1><img src="{% asset_path the-past-photo.jpg %}" alt="The Past"></div>
-		<div class="middle-box"><h1>THE PRESENT</h1><img src="{% asset_path alumni-weekend.jpg %}" alt="Alumni Weekend"></div>
-		<div class="right-box"><h1> THE NEXT 50</h1><img src="{% asset_path the-next-50.jpg %}" alt="The Next 50"></div>
+		<div class="left-box"><a href="/timeline/"><h1>THE PAST</h1><img src="{% asset_path the-past-photo.jpg %}" alt="The Past"></a></div>
+		<div class="middle-box"><a href="/events.html"><h1>THE PRESENT</h1><img src="{% asset_path alumni-weekend.jpg %}" alt="Alumni Weekend"></a></div>
+		<div class="right-box"><a href="#"><h1> THE NEXT 50</h1><img src="{% asset_path the-next-50.jpg %}" alt="The Next 50"></a></div>
 	</div>
 </div>
 <div class="video-wrapper"></div>
@@ -20,12 +20,12 @@
 <!-- BigVideo -->
 <script src="js/bigvideo.js"></script>
 <script>
-     var BV = new $.BigVideo({useFlashForFirefox:false});
+     var BV = new $.BigVideo({useFlashForFirefox:true});
       BV.init();
       if (Modernizr.touch) {
-          BV.show('/css/assets/images/background-image.jpg');
+          BV.show('/css/assets/images/background-image.gif');
       } else {
-          BV.show('http://player.vimeo.com/external/111133095.hd.mp4?s=8572c463e14490ed38df427d088443bd',{doloop:true});
+          BV.show('http://player.vimeo.com/external/111133095.hd.mp4?s=8572c463e14490ed38df427d088443bd',{doLoop:true});
       }
     </script>
 <!--END BIG VIDEOJS-->

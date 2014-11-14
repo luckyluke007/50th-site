@@ -2,22 +2,81 @@
 layout: default
 ---
 
-<section class="content">
-  <div class="container">
-  <h1 class="page-heading">Posts</h1>
+<h1>Our Stories</h1>
+  <!-- LEFT COLUMN -->
+    <div class="column-one">
+    <h2>Looking Back</h2>
+    <ul class="post-list">
+      {% for post in site.categories.past reversed %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <div class="event-content">
+          <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h3>
+          {{ post.excerpt }}
+          </div>
+        </li>
+        <div class="clear"></div>
+      {% endfor %}
+    </ul>
+  </div>
+  <!-- END COLUMN ONE -->
+   <div class="column-two">
+    <h3>Photo</h3>
+    <ul class="post-list">
+      {% for post in site.categories.photo reversed %}
+        <li>
+          <span class="post-meta event-date">{{ post.nodate }}</span>
+          <div class="event-content">
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          {{ post.excerpt }}
+        </div>
+        </li>
+        <div class="clear"></div>
+      {% endfor %}
+    </ul>
+  </div>
+  <!-- END COLUMN TWO -->
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+   <div class="column-three">
+    <h3>Videos</h3>
+    <ul class="post-list">
+      {% for post in site.categories.videos reversed %}
+        <li>
+          <span class="post-meta event-date">{{ post.nodate }}</span>
+          <div class="event-content">
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          {{ post.excerpt }}
+        </div>
+        </li>
+        <div class="clear"></div>
+      {% endfor %}
+    </ul>
+  </div>
+  <!-- END COLUMN THREE -->
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
-</div>
-</section>
+  <div class="column-three">
+    <h3>Looking Forward</h3>
+    <ul class="post-list">
+      {% for post in site.categories.next50 reversed %}
+        <li>
+          <span class="post-meta event-date">{{ post.nodate }}</span>
+          <div class="event-content">
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          {{ post.excerpt }}
+        </div>
+        </li>
+        <div class="clear"></div>
+      {% endfor %}
+    </ul>
+  </div>
+  <!-- END COLUMN FOUR -->
+ 
+  
