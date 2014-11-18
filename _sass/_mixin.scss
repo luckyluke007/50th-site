@@ -49,3 +49,13 @@
       }
   }
 
+  @mixin h3-content {
+    h3 {
+        text-transform: uppercase;
+        display: block;
+        padding: 0 0 .25em 0;
+        border-bottom: .15em solid $ucsc-white;
+        @include span-columns(12);
+    }
+  }
+

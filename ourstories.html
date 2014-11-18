@@ -1,20 +1,50 @@
 ---
 layout: default
+title: Our Stories
 ---
+<!-- Add mousewheel plugin (this is optional) -->
+<script type="text/javascript" src="/js/fancyBox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+<!-- Add fancyBox -->
+<link rel="stylesheet" href="/js/fancyBox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/js/fancyBox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+<link rel="stylesheet" href="/js/fancyBox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/js/fancyBox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript" src="/js/fancyBox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+<link rel="stylesheet" href="/js/fancyBox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+<script type="text/javascript" src="/js/fancyBox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+<script type="text/javascript">
+            $(document).ready(function() {
+                $(".fancybox").fancybox({
+                    openEffect  : 'elastic',
+                    closeEffect : 'elastic'
+                });
+                $('.fancybox-media').fancybox({
+                    openEffect  : 'elastic',
+                    closeEffect : 'elastic',
+                    helpers : {
+                      media : {}
+                    }
+                  });
+            });
+        </script>
 
 <h1>Our Stories</h1>
   <!-- LEFT COLUMN -->
     <div class="column-one">
-    <h2>Looking Back</h2>
+    <h3>Looking Back</h3>
     <ul class="post-list">
-      {% for post in site.categories.past reversed %}
+      {% for post in site.categories.past reversed limit:5 %}
         <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <div class="event-content">
-          <h3>
+          <div class="ourstories-content">
+          <h4>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h3>
-          <img src="{% asset_path %} {{ post.image }}">
+          </h4>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{ post.img }}"></a>
           </div>
         </li>
         <div class="clear"></div>
@@ -29,9 +59,9 @@ layout: default
         <li>
           <span class="post-meta event-date">{{ post.nodate }}</span>
           <div class="event-content">
-          <h2>
+          <h4>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
+          </h4>
           {{ post.excerpt }}
         </div>
         </li>
@@ -44,14 +74,15 @@ layout: default
    <div class="column-three">
     <h3>Videos</h3>
     <ul class="post-list">
-      {% for post in site.categories.videos reversed %}
+      {% for post in site.categories.videos reversed limit:5 %}
         <li>
-          <span class="post-meta event-date">{{ post.nodate }}</span>
-          <div class="event-content">
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-          {{ post.excerpt }}
+          
+          <div class="ourstories-content">
+          <h4>
+            <a href="{{ post.video }}" class="fancybox-media">{{ post.title }}</a>
+          </h4>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a href="{{ post.video }}" class="fancybox-media" data-fancybox-title="{{ post.alt }}"><img src="{{ post.img }}" alt="{{ post.alt }}"></a>
         </div>
         </li>
         <div class="clear"></div>
@@ -67,9 +98,9 @@ layout: default
         <li>
           <span class="post-meta event-date">{{ post.nodate }}</span>
           <div class="event-content">
-          <h2>
+          <h4>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
+          </h4>
           {{ post.excerpt }}
         </div>
         </li>
@@ -78,5 +109,3 @@ layout: default
     </ul>
   </div>
   <!-- END COLUMN FOUR -->
- 
-  

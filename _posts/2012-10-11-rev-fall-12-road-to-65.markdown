@@ -3,7 +3,7 @@ layout: post
 title:  "The road to '65"
 date:   2012-10-12
 categories: past
-image: thumbs/the-past-photo.jpg
+img: /css/assets/images/regents-visit.jpg
 ---
 Editor's note: UCSC is turning 50 in 2015! How time flies. We're starting the celebration by presenting stories in each issue of Review of what was happening on campus 50 years ago. First up: In 1962, the founding University Librarian arrives on campus and begins creating McHenry Library.
 

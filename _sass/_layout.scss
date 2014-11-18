@@ -436,19 +436,44 @@ section.content {
         //END SINGLE COLUMN
         .column-one {
             display: block;
-            @include span-columns(3); 
+            @include h3-content;
+            @include media($tablet){
+                @include span-columns(12); 
+            }
+            @include media($desktop){
+                @include span-columns(3);
+                @include omega(4n);
+            }
         }
         .column-two {
             display: block;
-            @include span-columns(3);
+            @include h3-content;
+            @include media($tablet){
+                @include span-columns(12); 
+            }
+            @include media($desktop){
+                @include span-columns(3); 
+            }
         }
         .column-three {
             display: block;
-            @include span-columns(3);
+            @include h3-content;
+            @include media($tablet){
+                @include span-columns(12); 
+            }
+            @include media($desktop){
+                @include span-columns(3); 
+            }
         }
         .column-four {
             display: block;
-            @include span-columns(3);
+            @include h3-content;
+            @include media($tablet){
+                @include span-columns(12); 
+            }
+            @include media($desktop){
+                @include span-columns(3); 
+            }
         }
         //END FOUR COLUMN
     // SECTION RESPONSIVE
@@ -484,6 +509,26 @@ section.content {
         @include media ($tablet-max){
             @include span-columns(2);
         }
+}
+
+
+.ourstories-content {
+    display: block;
+    color: $ucsc-white;
+    text-align: left;
+    @include span-columns(12);
+    img {
+        margin-bottom: 1em;
+        @include border-radius(.25em);
+        border: .15em solid $ucsc-yellow;
+    }
+    @include media ($tablet-max) {
+        @include span-columns(12);
+    }
+    .post-meta {
+    font-size: $font-size-base;
+    color: $ucsc-green;
+    }
 }
 
 .event-content {
@@ -829,10 +874,6 @@ video {
         border-bottom: 1px $ucsc-white dotted;
         clear: both;
     }
-}
-
-.post-meta {
-    color: $grey-color;
 }
 
 .post-link {
