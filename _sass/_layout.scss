@@ -519,8 +519,7 @@ section.content {
     @include span-columns(12);
     img {
         margin-bottom: 1em;
-        @include border-radius(.25em);
-        border: .15em solid $ucsc-yellow;
+        @include border-radius(.3em);
     }
     @include media ($tablet-max) {
         @include span-columns(12);
@@ -542,6 +541,39 @@ section.content {
         @include media ($tablet-max) {
             @include span-columns(10);
         }
+}
+
+.caption {
+    display: block;
+    padding: .5em;
+    margin: 0 .5em .5em;
+    font-size: $font-size-base/1.12;
+    color: $ucsc-blue;
+    @include background-opacity ($ucsc-white, .8);
+    clear: both;
+    img {
+        display: block;
+        margin: 0 0 .50em;
+        clear: both;
+        width: 100%;
+        max-width: 50em;
+    }
+    @include media($mobile){
+        @include span-columns(12);
+        float: none;
+    }
+    @include media($portrait){
+        @include span-columns(4);
+        float: right;
+    }
+    @include media($tablet){
+        @include span-columns(4);
+        float: right;
+    }
+    @include media($desktop){
+        @include span-columns(4);
+        float: right;
+    }
 }
 
 //BIG VIDEOJS //

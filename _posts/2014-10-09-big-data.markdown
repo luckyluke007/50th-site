@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "UC Santa Cruz leads $11 million Center for Big Data in Translational Genomics"
+date:   2014-10-09
+categories: forward
+img: /css/assets/images/posts/big-data/big-genomics.jpg
+---
+###National Institutes of Health awards UC Santa Cruz funding for new research center as part of the NIH Big Data to Knowledge (BD2K) initiative
+
+<div class="caption"><img src="{% asset_path big-genomics.jpg %}" alt="Asia Society Hong Kong">(Photo by Elena Zhukova)</div>The National Institutes of Health (NIH) has awarded $11 million to UC Santa Cruz to create the technical infrastructure needed for the broad application of genomics in medicine and biomedical research. This grant from the [National Human Genome Research Institute](http://www.genome.gov/) (NHGRI) funds the Center for Big Data in Translational Genomics, a multi-institutional partnership based at UC Santa Cruz and led by David Haussler, professor of biomolecular engineering and director of the [UC Santa Cruz Genomics Institute](http://genomics.soe.ucsc.edu/).
+
+According to Haussler, the center's overarching goal is to help the biomedical community use genomic information to better understand human health and disease. To do this, scientists must be able to share and analyze genomic datasets that are orders of magnitude larger than those that can be handled by the existing infrastructure. Advances in DNA sequencing technology have made it increasingly affordable to sequence a person's entire genome, but managing genomic and related data from millions of individuals is a daunting challenge.
+
+"Sequencing technology has run ahead of our ability to handle the data. We need to rework the informatics systems and the way we represent and handle genomic data," Haussler said.
+
+Genetic contributions to disease
+
+At least half of all diseases have a substantial genomic component. Only by studying the genomes and related information from very large numbers of individuals will scientists have the statistical power to discover and understand the contribution to disease of individually rare but collectively common genetic variants, Haussler said.
+
+"It's hard for people to appreciate the size of these datasets. If you're talking about a million genomes, it's a stunning amount of data, and it's very difficult to move these large datasets, even over optical fiber," he said.
+
+Haussler and his team at UC Santa Cruz have extensive experience managing large amounts of genomic data. Charged with creating a repository for The Cancer Genome Atlas and other large projects for the National Cancer Institute, they built the [UCSC Cancer Genomics Hub](https://cghub.ucsc.edu/) (CGHub), the largest public database of cancer genome sequences in the world. CGHub was the first "NIH Trusted Partner" authorized to distribute genome sequence data to biomedical researchers. It currently holds more than 1.5 petabytes of data (1,675,348 gigabytes, at the latest count). Haussler's team also created the UCSC Genome Browser, the most popular web portal for accessing human DNA data.
+
+For the new center, Haussler has teamed up with other leading experts in genomics and data science, including principal investigators Laura van 't Veer, director of applied genomics at the UCSF Helen Diller Family Comprehensive Cancer Center, and David Patterson, professor of computer science at UC Berkeley. Other partners include researchers at Wellcome Trust Sanger Institute, Sage Bionetworks, Oregon Health and Science University, California Institute of Technology, the Ontario Institute for Cancer Research, King's College London, and McGill University.
+
+﻿Pilot projects
+
+The Center for Big Data in Translational Genomics will develop new protocols and tools for genomic data and test them in four pilot projects. According to Haussler, the genomics community must develop a standard, globally accepted set of specialized Internet protocols for handling genomic data efficiently. "It turns out that genomic information is quite complicated, so it's a massive undertaking, and we're very excited about building this new infrastructure," he said.
+
+The pilot projects will not only benefit from the technical infrastructure developed by the center, but will also help guide the development of that infrastructure by providing essential feedback. These projects include the [UK10K](http://www.uk10k.org/) project to identify rare genetic changes with harmful phenotypic consequences, led by team member Richard Durbin of the Sanger Institute; the [International Cancer Genome Consortium](https://icgc.org/)'s 2,000 tumor pan-cancer analysis project, co-led by team members Josh Stuart at UC Santa Cruz, Lincoln Stein at the Ontario Institute for Cancer Research, and others; the [I-SPY 2](http://ispy2.org/) adaptive breast cancer trial, co-led by PI van 't Veer at UCSF; and the Beat AML leukemia therapy project, led by team member Brian Druker at Oregon Health and Science University.
+
+Three of the four projects are cancer-related, not because other disease areas are considered less critical, but because cancer genomics is progressing unusually rapidly and represents a high-water mark for the representation and analysis of genomic information and its translation into clinical practice, Haussler said. "If you can build general informatics infrastructure for genomics in cancer, with thousands of potential driver mutations and more than 1,000 targeted treatment compounds in the current drug development pipelines, then this general infrastructure will be adaptable to other disease areas without needing to be scaled up," he said.
+
+Clinical applications
+
+Ultimately, the center aims to extend the platforms developed for genomic research into regular clinical practice. Analyzing the genomic information from individual patients is potentially an extremely powerful clinical tool, and the use of genomics in clinical practice could increase dramatically the amount of genomic data available for study.
+
+According to Haussler, however, changes are needed not only to the technical infrastructure, but also to the "social infrastructure" related to the sharing of genomic data. "We need to develop the legal, ethical, and social organization of shared consent so that we can share and learn from DNA sequences without threatening the privacy of individuals," he said.
+
+This is one of the goals of a new international nonprofit alliance Haussler cofounded, the [Global Alliance for Genomics and Health](http://genomicsandhealth.org/), which now includes nearly 200 of the world's largest medical centers, patient advocacy groups, and research institutions. "Right now, genomics data is being siloed away in the databases of individual medical centers. Only a tiny portion is being shared," Haussler said. "We want to create a new digital commons for responsible and confidential sharing of genomic and clinical data."
+
+The Center for Big Data in Translational Genomics is one of several centers that have been funded by the [NIH Big Data to Knowledge](http://news.ucsc.edu/2014/10/haussler-big-data.html) (BD2K) initiative, and it is the only BD2K center focused on genomics. The goal of the BD2K initiative is to develop innovative and transforming approaches that make big data and data science a prominent component of biomedical research. Centers focused in different big data areas will work together to achieve this goal.

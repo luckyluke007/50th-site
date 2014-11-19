@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "The road to '65"
-date:   2012-10-12
+date:   2012-10-11
 categories: past
-img: /css/assets/images/regents-visit.jpg
+img: /css/assets/images/posts/rev-fall-12-road-to-65/regents-visit.jpg
 ---
-Editor's note: UCSC is turning 50 in 2015! How time flies. We're starting the celebration by presenting stories in each issue of Review of what was happening on campus 50 years ago. First up: In 1962, the founding University Librarian arrives on campus and begins creating McHenry Library.
+###50 years ago: Countdown to UCSC's 50th anniversary
 
-Fifty years ago, in the fall of 1962, the Cuban Missile Crisis was escalating, and the United States and the Soviet Union came as close as they ever would to global nuclear war. 
+*Editor's note: UCSC is turning 50 in 2015! How time flies. We're starting the celebration by presenting stories in each issue of Review of what was happening on campus 50 years ago. First up: In 1962, the founding University Librarian arrives on campus and begins creating McHenry Library.*
+
+<div class="caption"><img src="{% asset_path regents-visit.jpg %}" alt="Regents Tour">Photo: Vester Dick</div>Fifty years ago, in the fall of 1962, the Cuban Missile Crisis was escalating, and the United States and the Soviet Union came as close as they ever would to global nuclear war. 
 
 Against that backdrop of worldwide disaster, a University of California campus was being born in Santa Cruz, getting ready for its opening three years later. 
 
