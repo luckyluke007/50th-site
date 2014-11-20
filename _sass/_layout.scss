@@ -3,6 +3,7 @@
  */
  body, html {
     background: $ucsc-light-blue;
+    height: 100%;
  }
  a, a:active {
     color: $ucsc-light-yellow;
@@ -323,7 +324,6 @@ section.front-promo {
     .left-box {
         @include border-radius-top(0.313em);
         display: block;
-        
         @include media ($tablet) {
             @include background-opacity ($ucsc-light-blue, 0);
             @include span-columns(12);
@@ -331,6 +331,10 @@ section.front-promo {
         @include media ($desktop) {
             @include background-opacity ($ucsc-light-blue, .95);
             @include span-columns(4 of 12);
+            -moz-transform:rotate(180deg);
+            -webkit-transform:rotate(180deg);
+            -o-transform:rotate(180deg);
+            -ms-transform:rotate(180deg);
         }
     }
     .middle-box {
@@ -343,6 +347,10 @@ section.front-promo {
         @include media ($desktop) {
             @include background-opacity ($ucsc-light-blue, .95);
             @include span-columns(4 of 12);
+            -moz-transform:rotate(180deg);
+            -webkit-transform:rotate(180deg);
+            -o-transform:rotate(180deg);
+            -ms-transform:rotate(180deg);
         }
     }
     .right-box {
@@ -355,6 +363,10 @@ section.front-promo {
         @include media ($desktop) {
             @include background-opacity ($ucsc-light-blue, .95);
             @include span-columns(4 of 12);
+            -moz-transform:rotate(180deg);
+            -webkit-transform:rotate(180deg);
+            -o-transform:rotate(180deg);
+            -ms-transform:rotate(180deg);
         }
     }
     h1 {
@@ -370,7 +382,11 @@ section.front-promo {
         top: 20em;
     }
     @include media ($desktop) {
-        top: 40em;
+        bottom: 0;
+        -moz-transform:rotate(180deg);
+        -webkit-transform:rotate(180deg);
+        -o-transform:rotate(180deg);
+        -ms-transform:rotate(180deg);
     }
 }
 //SUBPAGE//
