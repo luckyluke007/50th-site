@@ -452,37 +452,29 @@ section.content {
         //END SINGLE COLUMN
         .column-one {
             display: block;
+            padding: .5em;
             @include h3-content;
             @include media($tablet){
                 @include span-columns(12); 
             }
             @include media($desktop){
-                @include span-columns(3);
-                @include omega(4n);
+                @include span-columns(4.5);
             }
         }
         .column-two {
             display: block;
+            padding: .5em;
             @include h3-content;
             @include media($tablet){
                 @include span-columns(12); 
             }
             @include media($desktop){
-                @include span-columns(3); 
+                @include span-columns(4.5); 
             }
         }
         .column-three {
             display: block;
-            @include h3-content;
-            @include media($tablet){
-                @include span-columns(12); 
-            }
-            @include media($desktop){
-                @include span-columns(3); 
-            }
-        }
-        .column-four {
-            display: block;
+            padding: .5em;
             @include h3-content;
             @include media($tablet){
                 @include span-columns(12); 
