@@ -3,7 +3,7 @@ layout: post
 title:  "UC Santa Cruz ranked first for research influence in world university rankings"
 date:   2014-10-03
 categories: forward
-img: /css/assets/images/posts/ranking/the-logo.jpg
+img: /css/assets/images/posts/ranking/main.png
 ---
 
 <div class="caption"><img src="{% asset_path the-logo.jpg %}" alt="THE logo"></div>In the latest analysis of the world's top universities published by Times Higher Education (THE), UC Santa Cruz ranked first in research influence as measured by the number of times its faculty's published work is cited by scholars around the world.

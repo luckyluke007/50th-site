@@ -3,7 +3,7 @@ layout: post
 title:  "The road to '65"
 date:   2012-10-11
 categories: past
-img: /css/assets/images/posts/rev-fall-12-road-to-65/regents-visit.jpg
+img: /css/assets/images/posts/rev-fall-12-road-to-65/main.jpg
 ---
 ###50 years ago: Countdown to UCSC's 50th anniversary
 

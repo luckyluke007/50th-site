@@ -527,7 +527,6 @@ section.content {
     @include span-columns(12);
     img {
         margin-bottom: 1em;
-        @include border-radius(.3em);
     }
     @include media ($tablet-max) {
         @include span-columns(12);

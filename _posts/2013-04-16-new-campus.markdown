@@ -3,7 +3,7 @@ layout: post
 title:  "Road to '65: Creating a design for the new campus"
 date:   2013-04-16
 categories: past
-img: /css/assets/images/posts/new-campus/regents_tour.jpg
+img: /css/assets/images/posts/new-campus/main.jpg
 ---
 ###50 years ago: Countdown to UCSC's 50th anniversary
 

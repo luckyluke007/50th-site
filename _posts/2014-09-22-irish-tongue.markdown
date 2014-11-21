@@ -3,7 +3,7 @@ layout: post
 title:  "Linguists receive $260,000 grant to study endangered Irish language"
 date:   2014-09-22
 categories: forward
-img: /css/assets/images/posts/irish-tongue/padgett.jpg
+img: /css/assets/images/posts/irish-tongue/main.jpg
 ---
 
 <div class="caption"><img src="{% asset_path padgett.jpg %}">UC Santa Cruz Professor of Linguistics Jaye Padgett in Ireland</div>“Although we all have tongues, we are surprisingly bad at knowing precisely what they're doing or conveying that to others,” says UC Santa Cruz professor of linguistics Jaye Padgett.

@@ -37,7 +37,7 @@ title: Our Stories
     <div class="column-one">
     <h3>Looking Back</h3>
     <ul class="post-list">
-      {% for post in site.categories.past reversed limit:4 %}
+      {% for post in site.categories.past limit:4 %}
         <li>
           <div class="ourstories-content">
           <h4>
@@ -56,7 +56,7 @@ title: Our Stories
   <div class="column-two">
     <h3>Looking Forward</h3>
     <ul class="post-list">
-      {% for post in site.categories.forward reversed limit:4 %}
+      {% for post in site.categories.forward limit:4 %}
         <li>
           <div class="ourstories-content">
           <h4>

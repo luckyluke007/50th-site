@@ -3,7 +3,7 @@ layout: post
 title:  "UC Santa Cruz leads $11 million Center for Big Data in Translational Genomics"
 date:   2014-10-09
 categories: forward
-img: /css/assets/images/posts/big-data/big-genomics.jpg
+img: /css/assets/images/posts/big-data/main.jpg
 ---
 ###National Institutes of Health awards UC Santa Cruz funding for new research center as part of the NIH Big Data to Knowledge (BD2K) initiative
 
