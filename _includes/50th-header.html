@@ -4,6 +4,14 @@
 <link rel="stylesheet" href="/css/main.css">
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+
+<!-- SEARCH -->
+<script src="/js/lunr.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/mustache.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/date.format.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/URI.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body>
 <section class="header">
@@ -12,7 +20,7 @@
       {{ page.title }}
     </div>
     <div class="search-social">
-      <form><input type="textarea"></form>
+      <form action="/search" method="get"><input type="text" id="search-query" name="q" placeholder="search" autocomplete="off"></form>
       <ul>
         <li><a href="#" class="facebook">Facebook</a></li>
         <li><a href="#" class="twitter">Twitter</a></li>

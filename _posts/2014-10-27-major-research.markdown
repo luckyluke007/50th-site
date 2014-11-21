@@ -3,7 +3,7 @@ layout: post
 title:  "What is the role of a major research university?"
 date:   2014-10-27
 categories: forward
-img: /css/assets/images/posts/major-research/major-research.jpg
+img: /css/assets/images/posts/major-research/main.jpg
 ---
 
 <div class="caption"><img src="{% asset_path major-research.jpg %}">Paul Koch, Dean, Division of Physical and Biological Sciences</div>We're in the midst of a seemingly endless conversation about "the value of higher education" and the role of top research universities like UC Santa Cruz.

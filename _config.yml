@@ -16,3 +16,5 @@ rdiscount:
   extensions: [smart]
 
 encoding:     "utf-8"
+
+gems: ['jekyll-lunr-js-search']

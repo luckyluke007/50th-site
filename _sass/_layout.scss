@@ -454,6 +454,7 @@ section.content {
             display: block;
             padding: .5em;
             @include h3-content;
+            @include h4-content;
             @include media($tablet){
                 @include span-columns(12); 
             }
@@ -465,6 +466,7 @@ section.content {
             display: block;
             padding: .5em;
             @include h3-content;
+            @include h4-content;
             @include media($tablet){
                 @include span-columns(12); 
             }
@@ -476,6 +478,7 @@ section.content {
             display: block;
             padding: .5em;
             @include h3-content;
+            @include h4-content;
             @include media($tablet){
                 @include span-columns(12); 
             }
@@ -532,8 +535,10 @@ section.content {
         @include span-columns(12);
     }
     .post-meta {
-    font-size: $font-size-base;
-    color: $ucsc-green;
+        display: block;
+        font-size: $font-size-base;
+        color: $ucsc-white;
+        margin: 0 0 .75em 0;
     }
 }
 

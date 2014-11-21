@@ -53,9 +53,18 @@
     h3 {
         text-transform: uppercase;
         display: block;
-        padding: 0 0 .25em 0;
+        padding: 0;
         border-bottom: .15em solid $ucsc-white;
+        margin: 0 0 .75em 0;
         @include span-columns(12);
     }
   }
 
+@mixin h4-content {
+    h4 {
+        display: block;
+        padding: 0;
+        margin: 0 0 .5em 0;
+        @include span-columns(12);
+    }
+  }
