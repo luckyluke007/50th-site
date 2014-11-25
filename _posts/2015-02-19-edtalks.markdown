@@ -1,7 +1,0 @@
----
-layout: post
-title:  'UC Santa Cruz "Ed Talk" in downtown SC'
-date:   2015-02-19
-categories: event
----
-Professors Andy Fisher and Daniel Press will speak about Water issues in California.

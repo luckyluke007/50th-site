@@ -1,0 +1,7 @@
+---
+layout: post
+title:  'UC Santa Cruz "Ed Talk" in Watsonville'
+date:   2015-02-12
+categories: event
+---
+Professors Andy Fisher will speak about Water issues in California.
