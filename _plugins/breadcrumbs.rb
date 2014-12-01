@@ -1,55 +1,59 @@
-# Title: Asset path tag for Jekyll
-# Author: Sam Rayner http://samrayner.com
-# Description: Output a relative URL for assets based on the post or page
 #
-# Syntax {% asset_path [filename] %}
-#
-# Examples:
-# {% asset_path kitten.png %} on post 2013-01-01-post-title
-# {% asset_path pirate.mov %} on page page-title
-#
-# Output:
-# /assets/posts/post-title/kitten.png
-# /assets/page-title/pirate.mov
-#
-
+# Monkey patch Jekyll's Page and Post classes.
 module Jekyll
-  class AssetPathTag < Liquid::Tag
-    @filename = nil
 
-    def initialize(tag_name, markup, tokens)
-      #strip leading and trailing quotes
-      @filename = markup.strip.gsub(/^("|')|("|')$/, '')
-      super
+  class Page
+    def ancestors
+      get_pages(self.url)
     end
 
-    def render(context)
-      if @filename.empty?
-        return "Error processing input, expected syntax: {% asset_path [filename] %}"
-      end
+    ##
+    # Make ancestors available.
+    def to_liquid(attrs = ATTRIBUTES_FOR_LIQUID)
+      super(attrs + %w[
+        ancestors
+      ])
+    end
+  end
 
-      path = ""
-      page = context.environments.first["page"]
+  class Post
+    def ancestors
+      get_pages(self.url)
+    end
 
-      #if a post
-      if page["id"]
-        #loop through posts to find match and get slug
-        context.registers[:site].posts.each do |post|
-          if post.id == page["id"]
-            path = "posts/#{post.slug}"
-          end
-        end
-      else
-        path = page["url"]
-      end
-
-      #strip filename
-      path = File.dirname(path) if path =~ /\.\w+$/
-
-      #fix double slashes
-      "#{context.registers[:site].config['baseurl']}/css/assets/images/#{path}/#{@filename}".gsub(/\/{2,}/, '/')
+    ##
+    # Make ancestors available.
+    def to_liquid(attrs = ATTRIBUTES_FOR_LIQUID)
+      super(attrs + %w[
+        ancestors
+      ])
     end
   end
 end
 
-Liquid::Template.register_tag('asset_path', Jekyll::AssetPathTag)
+##
+# Returns ordered list 
+def get_pages(url)
+  a = []
+  while url != "/index.html"
+    pt = url.split("/")
+    if pt[-1] != "index.html"
+      # to to directory index
+      pt[-1] = "index.html"
+      url = pt.join("/")
+    else
+      # one level up
+      url = pt[0..-3].join("/") + "/index.html"
+    end
+    a << get_page_from_url(url)
+  end
+  a.reverse
+end
+
+##
+# Gets Page object that has given url. Very inefficient O(n) solution.
+def get_page_from_url(url)
+  (site.pages + site.posts).each do |page|
+    return page if page.url == url
+  end
+end
