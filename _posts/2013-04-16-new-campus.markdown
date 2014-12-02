@@ -9,7 +9,9 @@ img: /css/assets/images/posts/new-campus/main.jpg
 
 *Editor’s note: This second installment in our series of stories leading up to a celebration of UCSC’s 50th anniversary looks at the early architectural plans that were taking shape 50 years ago, in preparation for UCSC’s opening in 1965. This is a longer version of a story that appeared in the spring '13 issue of Review magazine.*
 
-<div class="caption"><img src="{% asset_path regents_tour.jpg %}" alt="Regents Tour">The Regents Committee onGrounds and Buildings meton January 17, 1963, at First Congregational Church onHigh Street, where they approved the campus’s original Long Range Development Plan. Dean McHenry, UCSC’s founding chancellor, is at the very bottom right. (Photo by Vester Dick)</div>It's hard to imagine what UC Santa Cruz might have become: a cluster of high-density buildings rising out of the Great Meadow like some unsightly crown.
+<div class="caption">
+{% img full-size /css/assets/images/posts/new-campus/regents_tour.jpg "Regents Tour" "Regents Tour" %}
+The Regents Committee onGrounds and Buildings meton January 17, 1963, at First Congregational Church onHigh Street, where they approved the campus’s original Long Range Development Plan. Dean McHenry, UCSC’s founding chancellor, is at the very bottom right. (Photo by Vester Dick)</div>It's hard to imagine what UC Santa Cruz might have become: a cluster of high-density buildings rising out of the Great Meadow like some unsightly crown.
 
 But thanks to a combination of two visionary UC administrators, a modernist landscape architect, and an influential team of California architects, those early plans to build a university in the middle of beautiful slope of grass died a quick death. Instead, the state's seventh UC campus became a daring experiment, not only in its academic form but also in its design.
 
@@ -17,7 +19,8 @@ It was UC President Clark Kerr and UCSC's first chancellor, Dean McHenry, who ch
 
 Instead of a large, impersonal university, McHenry and Kerr—old college roommates — envisioned 15-20 small residential colleges with individual identities where students would mingle closely with their professors while enjoying the benefits of a major research institution.
 
-<div class="caption"><img src="{% asset_path jetsons_tower.jpg %}" alt="Jetsons Tower">An artist’s rendering of the proposed tower near Science Hill included in UCSC’s early architectural plans. (Image courtesy of UCSC Physical Planning and Construction)</div>The New York Times called it "an experimental project widely regarded as one of the most exciting in education." The two men insisted the campus architecture reflect those same innovative ideals.
+<div class="caption">
+{% img full-size /css/assets/images/posts/new-campus/jetsons_tower.jpg "Jetsons Tower" "Jetsons Tower" %} An artist’s rendering of the proposed tower near Science Hill included in UCSC’s early architectural plans. (Image courtesy of UCSC Physical Planning and Construction)</div>The New York Times called it "an experimental project widely regarded as one of the most exciting in education." The two men insisted the campus architecture reflect those same innovative ideals.
 
 "California was full of the post-war optimism of the 1950s," said Frank Zwart (Cowell '71), UCSC's Campus Architect Emeritus. "Everything was possible and California was the wave of the future."
 

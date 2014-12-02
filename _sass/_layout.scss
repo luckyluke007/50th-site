@@ -496,6 +496,26 @@ section.content {
                 @include span-columns(3); 
             }
         }
+        .left-half {
+            display: block;
+            padding: .5em;
+            @include media($tablet){
+                @include span-columns(12); 
+            }
+            @include media($desktop){
+                @include span-columns(6);
+            }
+        }
+        .right-half {
+            display: block;
+            padding: .5em;
+            @include media($tablet){
+                @include span-columns(12); 
+            }
+            @include media($desktop){
+                @include span-columns(6);
+            }
+        }
         
         //END FOUR COLUMN
     // SECTION RESPONSIVE
@@ -512,7 +532,6 @@ section.content {
         margin: 10em 0 0 0; // space skip header //
     }
 }
-
 .full-size {
     display: block;
     width: 100%;
@@ -550,6 +569,15 @@ section.content {
     @include media ($tablet-max) {
         @include span-columns(12);
     }
+    .video-image {
+    display: block;
+    }
+    .play-btn {
+        display: block;
+        width: 4em;
+        position: absolute;
+        margin: 1em 0 0 1em
+    }
     .post-meta {
         display: block;
         font-size: $font-size-base;
@@ -584,22 +612,22 @@ section.content {
         margin: 0 0 .50em;
         clear: both;
         width: 100%;
-        max-width: 50em;
+        max-width: 800px;
     }
     @include media($mobile){
         @include span-columns(12);
         float: none;
     }
     @include media($portrait){
-        @include span-columns(4);
+        @include span-columns(5);
         float: right;
     }
     @include media($tablet){
-        @include span-columns(4);
+        @include span-columns(5);
         float: right;
     }
     @include media($desktop){
-        @include span-columns(4);
+        @include span-columns(5);
         float: right;
     }
 }

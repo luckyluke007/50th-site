@@ -4,7 +4,7 @@ title: Our Stories
 ---
 {% include fancybox.html %}
 <!-- LEFT COLUMN -->
-<div class="left-column">
+<div class="left-half">
   <h1>The Next 50</h1>
   <ul class="post-list">
       {% for post in site.categories.next limit:4 %}
@@ -16,7 +16,7 @@ title: Our Stories
   
   <!-- END COLUMN TWO -->
 
-   <div class="right-column">
+   <div class="right-half">
     <ul class="post-list">
       {% for post in site.categories.nextvideo reversed limit:2 %}
         <li>
@@ -24,7 +24,12 @@ title: Our Stories
           <h4>
             <a href="{{ post.nextvideo }}" class="fancybox-media">{{ post.title }}</a>
           </h4>
-          <a href="{{ post.nextvideo }}" class="fancybox-media" data-fancybox-title="{{ post.alt }}"><img src="{{ post.img }}" alt="{{ post.alt }}"></a>
+          <div class="video-image">
+              <a href="{{ post.nextvideo }}" class="fancybox-media" data-fancybox-title="{{ post.alt }}">
+              <img src="{% asset_path youtube-btn.svg %}"  alt="{{ post.alt }}" class="play-btn">
+              <img src="{{ post.img }}" alt="{{ post.alt }}">
+              </a>
+          </div>
         </div>
         </li>
         <div class="clear"></div>

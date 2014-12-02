@@ -6,7 +6,9 @@ categories: forward
 img: /css/assets/images/posts/major-research/main.jpg
 ---
 
-<div class="caption"><img src="{% asset_path major-research.jpg %}">Paul Koch, Dean, Division of Physical and Biological Sciences</div>We're in the midst of a seemingly endless conversation about "the value of higher education" and the role of top research universities like UC Santa Cruz.
+<div class="caption">
+{% img full-size /css/assets/images/posts/major-research/major-research.jpg "Paul Koch" "Paul Koch" %}
+Paul Koch, Dean, Division of Physical and Biological Sciences</div>We're in the midst of a seemingly endless conversation about "the value of higher education" and the role of top research universities like UC Santa Cruz.
 
 Should we pursue knowledge for its own sake? Or should we focus on creating "useful" knowledge and informed, clear-headed graduates?
 
