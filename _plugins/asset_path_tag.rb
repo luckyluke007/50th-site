@@ -47,7 +47,7 @@ module Jekyll
       path = File.dirname(path) if path =~ /\.\w+$/
 
       #fix double slashes
-      "#{context.registers[:site].config['baseurl']}css/assets/#{path}/#{@filename}".gsub(/\/{2,}/, '/')
+      "#{context.registers[:site].config['baseurl']}css/assets/images/#{path}/#{@filename}".gsub(/\/{2,}/, '/')
     end
   end
 end
