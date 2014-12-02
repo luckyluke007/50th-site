@@ -1,0 +1,34 @@
+---
+layout: default
+title: Our Stories
+---
+{% include fancybox.html %}
+<!-- LEFT COLUMN -->
+<div class="left-column">
+  <h1>The Next 50</h1>
+  <ul class="post-list">
+      {% for post in site.categories.next limit:4 %}
+      {{ post.content }}
+      {% endfor %}
+    </ul>
+  </div>
+  <!-- END COLUMN ONE -->
+  
+  <!-- END COLUMN TWO -->
+
+   <div class="right-column">
+    <ul class="post-list">
+      {% for post in site.categories.nextvideo reversed limit:2 %}
+        <li>
+          <div class="ourstories-content">
+          <h4>
+            <a href="{{ post.nextvideo }}" class="fancybox-media">{{ post.title }}</a>
+          </h4>
+          <a href="{{ post.nextvideo }}" class="fancybox-media" data-fancybox-title="{{ post.alt }}"><img src="{{ post.img }}" alt="{{ post.alt }}"></a>
+        </div>
+        </li>
+        <div class="clear"></div>
+      {% endfor %}
+    </ul>
+  </div>
+  <!-- END COLUMN TWO -->
