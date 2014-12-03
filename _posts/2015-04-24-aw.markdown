@@ -5,6 +5,6 @@ date:  2015-04-24
 categories: event
 search_omit: false
 ---
-![Alumni Weekend 2015 - COME HOME]({{site.url}}/css/assets/images/aw.jpg)When you chose UC Santa Cruz, you became part of a network of true originalsfrom the rebels and visionaries who founded the campus 50 years ago to the bold thinkers of today who are charting audacious paths of their own. This place is part of who you are&#150;and this year, it celebrates the momentous milestone of turning 50. 
+{% img full-size /css/assets/images/aw.jpg "Alumni Weekend 2015 - COME HOME" "Alumni Weekend 2015 - COME HOME" %} When you chose UC Santa Cruz, you became part of a network of true originalsfrom the rebels and visionaries who founded the campus 50 years ago to the bold thinkers of today who are charting audacious paths of their own. This place is part of who you are&#150;and this year, it celebrates the momentous milestone of turning 50. 
 
 Join us at Alumni Weekend to recognize and revel in this exceptional campus, reflect on its meaning to you, reconnect with old friends and meet new ones, get your neurons firing by attending a fascinating lecture, meet current students and find out what they&#39;re doing, and enjoy fine alumni wines and craft beers. Take a trip through time for personal growth, memory, and discovery … while celebrating and appreciating the place that helped launch your life&#39;rs journey.
