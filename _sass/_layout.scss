@@ -163,8 +163,25 @@ hr :after {
                     border: 0;
                     display: block;
                     padding: 4px;
-                    margin: .8em 0 0 1em;
-                    color: #333;
+                    margin: 1em 0 0 1em;
+                    color: $ucsc-white;
+                    background-color: $ucsc-yellow;
+                    -webkit-appearance: none;
+                }
+                ::-webkit-input-placeholder {
+                    color: $ucsc-white;
+                }
+
+                :-moz-placeholder { /* Firefox 18- */
+                    color: $ucsc-white;  
+                }
+
+                ::-moz-placeholder {  /* Firefox 19+ */
+                    color: $ucsc-white;  
+                }
+
+                :-ms-input-placeholder {  
+                    color: $ucsc-white;  
                 }
                 @include media ($tablet-max){
                         float: right;
@@ -781,6 +798,12 @@ video {
 }
 //END BIG VIDEOJS//
 
+.footer-container {
+    display: block;
+    @include span-columns(12);
+    margin: 2em 0;
+    
+}
 
 
 // END MY STYLES // 
@@ -870,13 +893,13 @@ video {
 }
 
 
-
 /**
  * Site footer
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    @include span-columns(12);
 }
 
 .footer-heading {
@@ -892,8 +915,7 @@ video {
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
+    color: $ucsc-white;
     @extend %clearfix;
 }
 

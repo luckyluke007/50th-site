@@ -66,7 +66,7 @@ title: Our Stories
     </ul>
     <h3>Photo Galleries</h3>
     <ul class="post-list">
-      {% for post in site.categories.photo limit:6 %}
+      {% for post in site.categories.photo limit:2 %}
         <li>
           <!--<span class="post-meta event-date">{{ post.nodate }}</span>-->
           <div class="ourstories-content">
@@ -78,6 +78,8 @@ title: Our Stories
         </li>
         <div class="clear"></div>
       {% endfor %}
+      <a href="photo-galleries.html">See more photos » </a> 
     </ul>
+    
   </div>
   <!-- END COLUMN TWO -->
