@@ -799,10 +799,8 @@ video {
 //END BIG VIDEOJS//
 
 .footer-container {
-    display: block;
     @include span-columns(12);
     margin: 2em 0;
-    
 }
 
 

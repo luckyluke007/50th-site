@@ -6,7 +6,23 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 <!-- SEARCH -->
+<script src="/js/lunr.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/mustache.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/date.format.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/URI.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
 
+<script type="text/javascript">
+  $(function() {
+    $('#search-query').lunrSearch({
+      indexUrl: '/search.json',             // URL of the `search.json` index data for your site
+      results:  '#search-results',          // jQuery selector for the search results container
+      entries:  '.entries',                 // jQuery selector for the element to contain the results list, must be a child of the results element above.
+      template: '#search-results-template'  // jQuery selector for the Mustache.js template
+    });
+  });
+</script>
 <!-- END SEARCH -->
 
 </head>
@@ -17,8 +33,8 @@
       {{ page.title }}
     </div>
     <div class="search-social">
-      <form action="/search.html" method="get">
-         <input type="search" name="q" id="q" placeholder="Enter keywords..."/>
+      <form action="/search" method="get">
+         <input type="text" name="q" id="search-query" placeholder="Enter keywords..." autocomplete="off"/>
       </form>
       <ul>
         <li><a href="https://www.facebook.com/ucsantacruz" class="facebook">Facebook</a></li>
