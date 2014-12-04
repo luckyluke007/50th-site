@@ -3,19 +3,23 @@ layout: default
 title: Search Results
 exclude_from_search: true
 ---
+
 <section id="search-results">
+  <div class="container">
+    <h1>Search Results</h1>
   <div class="entries">
   </div>
+</div>
 </section>
 {% raw %}
   <script id="search-results-template" type="text/mustache">
     {{#entries}}
       <article>
         <h3>
-          <a href="{{baseurl}}">{{title}}</a>
+          <a href="{{url}}">{{title}}</a>
         </h3>
-        <p>{{body}}</p>
       </article>
     {{/entries}}
   </script>
 {% endraw %}
+

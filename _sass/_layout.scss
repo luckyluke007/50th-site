@@ -358,6 +358,11 @@ hr :after {
         }
  }
 
+section.search-results {
+    display: block;
+    @include span-columns(12);
+}
+
 section.front-promo {
     color: $ucsc-white;
     text-align: center;
