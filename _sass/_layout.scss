@@ -799,8 +799,28 @@ video {
 //END BIG VIDEOJS//
 
 .footer-container {
-    @include span-columns(12);
-    margin: 2em 0;
+    border-top: 1px solid $ucsc-blue;
+    @include outer-container;
+    margin: 2em auto 0 auto;
+    opacity: .75;
+    -webkit-opacity: .75;
+    -moz-opacity: .75;
+    .col-one, .col-two, .col-three {
+        display: block;
+        padding: .75em .5em .75em .5em;
+        font-size: $font-size-base/.9;
+        @include media ($tablet) {
+            @include span-columns(12);
+        }
+        @include media ($desktop) {
+            @include span-columns(4);
+        }
+        h4 {
+            font-weight: 500;
+            text-transform: uppercase;
+        }
+    }
+
 }
 
 

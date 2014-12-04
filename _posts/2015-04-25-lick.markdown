@@ -4,7 +4,7 @@ title:  'Lick Observatory Reunion'
 date:   2015-04-25
 categories: event
 ---
-<div class="event-type-host">Lick Observatory, Mount Hamilton | Hosted by: PBSci</div>
+####Lick Observatory, Mount Hamilton | Hosted by: PBSci
 Bring Former students, faculty, and staff back to Lick Observatory for a Reunion. We will do a family tree of mentors and mentees as well as presentations from current and former astronomers.
 
 Date: Alumni Weekend, April 25-27, 2015

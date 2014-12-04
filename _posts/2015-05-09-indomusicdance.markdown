@@ -4,7 +4,7 @@ title:  'Traditional and New Indonesian Music and Dance'
 date:   2015-05-09
 categories: event
 ---
-<div class="event-type-host">Hosted by: Music Department</div>
+####Hosted by: Music Department
 UCSC West Javanese Gamelan presents
 MUSIC & DANCE FROM SUNDA & CIREBON
 directed by Undang Sumarna, drummer

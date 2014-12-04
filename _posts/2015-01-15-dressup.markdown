@@ -4,7 +4,7 @@ title:  "Campus Kick-Off - Dress like 1965 Day!"
 date:   2015-01-15
 categories: event
 ---
-<div class="event-type-host">Location: Quarry Plaza 12- 2 pm</div>
+####Location: Quarry Plaza 12- 2 pm
 Mad Men costume designer and alumna Tiffany White Stanton (Kresge '03, psychology) will prepare advice and tips to give you the perfect look. Dress up and then show up at Quarry Plaza to be photographed so she can determine who has most authentic 1965 costume.
 
 Point of contact: [Lisa Nielsen](mailto:lmnielse@ucsc.edu)
