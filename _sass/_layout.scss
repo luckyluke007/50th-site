@@ -624,8 +624,9 @@ section.content {
     padding: .5em;
     margin: 0 .5em .5em;
     font-size: $font-size-base/1.12;
-    color: $ucsc-blue;
-    @include background-opacity ($ucsc-white, .8);
+    color: $ucsc-white;
+    border-top: 1px solid $ucsc-white;
+    border-bottom: 1px solid $ucsc-white;
     clear: both;
     img {
         display: block;
@@ -810,7 +811,7 @@ video {
     .col-one, .col-two, .col-three {
         display: block;
         padding: .75em .5em .75em .5em;
-        font-size: $font-size-base/.9;
+        font-size: $font-size-small;
         @include media ($tablet) {
             @include span-columns(12);
         }
@@ -825,7 +826,7 @@ video {
     .copy-rights {
         display: block;
         text-align:center;
-        font-size: $font-size-base/1.10;
+        font-size: $font-size-small;
     }
 
 }

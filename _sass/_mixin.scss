@@ -9,6 +9,12 @@
   background-size: $width $height;
 }
 
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  -webkit-opacity: $opacity;
+  -moz-opacity: $opacity;
+}
+
 @mixin border-radius-top($radius) {
   -webkit-border-top-left-radius: $radius;
   -webkit-border-top-right-radius: $radius;
