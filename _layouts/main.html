@@ -12,7 +12,6 @@
 	</div>
 </div>
 {% include footer.html %}
-<div class="video-wrapper"></div>
 <!--BIG VIDEOJS-->
 <script src="js/modernizr.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -20,7 +19,13 @@
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/video.js"></script>
 <!-- BigVideo -->
-<script src="js/bigvideo.js"></script>
+<script src="/js/bigvideo.js"></script>
+<script>
+  $(document).ready(function(){
+    $('.vjs-loading-spinner').html('<img src="/css/assets/images/loading.png" alt="Loading...">');
+    });
+  
+</script>
 <script>
      var BV = new $.BigVideo({useFlashForFirefox:true});
       BV.init();
