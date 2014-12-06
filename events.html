@@ -28,35 +28,45 @@ title: Events
         </div>
       </section>
 
+
   <ul class="post-list">
-    {% for post in site.categories.event reversed %}
+    {% for event in site.data.events.events %}
       <li>
-        <span class="post-meta event-date">{{ post.date | date: "%b" }}<br/ >{{ post.date | date: "%-d" }}</span>
+        <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
         <div class="event-content">
+        {% if event.event.thumbnail != "" %}
+          <img src="{{ event.event.thumbnail }}" alt="No alt text" class="event-image" />
+        {% endif %}
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {{ post.excerpt }}
+          <a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a>
+        </h2>        
+        <p>
+        <span class="event-location">{{ event.event.location }}</span>
+        <span class="event-teaser">{{ event.event.teaser }}</span>
+        </p>
         </div>
       </li>
       <div class="clear"></div>
     {% endfor %}
   </ul>
 
-  <ul class="post-list">
-    {% for post in site.categories.eventnodate reversed %}
-      <li>
-        <span class="post-meta event-date">{{ post.nodate }}</span>
-        <div class="event-content">
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {{ post.excerpt }}
-      </div>
-      </li>
-      <div class="clear"></div>
-    {% endfor %}
-  </ul>
+
+<script>
+  // $.getJSON( "events.json", function( data ) {
+  //   var items = [];
+  //   console.log(data);
+  //   $.each( data, function( key, val ) {
+  //     items.push( "<li id='" + key + "'>" + val + "</li>" );
+  //   });
+   
+  //   $( "<ul/>", {
+  //     "class": "my-new-list",
+  //     html: items.join( "" )
+  //   }).appendTo( "body" );
+  // });
+</script>
+
+
   </div>
   <!-- RIGHT COLUMN -->
   <div class="right-column">

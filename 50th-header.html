@@ -1,0 +1,60 @@
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0" name="viewport"/>
+<link rel="stylesheet" href="/css/main.css">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<!-- SEARCH -->
+<script src="/js/lunr.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/mustache.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/date.format.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/URI.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript">
+  $(function() {
+    $('#search-query').lunrSearch({
+      indexUrl: '/search.json',             // URL of the `search.json` index data for your site
+      results:  '#search-results',          // jQuery selector for the search results container
+      entries:  '.entries',                 // jQuery selector for the element to contain the results list, must be a child of the results element above.
+      template: '#search-results-template'  // jQuery selector for the Mustache.js template
+    });
+  });
+</script>
+<!-- END SEARCH -->
+
+</head>
+<body>
+<section class="header">
+  <div class="container">
+    <div class="logo">
+      {{ page.title }}
+    </div>
+    <div class="search-social">
+      <form action="/search" method="get">
+         <input type="text" name="q" id="search-query" placeholder="Enter keywords..." autocomplete="off"/>
+      </form>
+      <ul>
+        <li><a href="https://www.facebook.com/ucsantacruz" class="facebook">Facebook</a></li>
+        <li><a href="https://twitter.com/ucsc" class="twitter">Twitter</a></li>
+        <li><a href="http://instagram.com/ucsc" class="instagram">Instragram</a></li>
+        <li><a href="https://www.youtube.com/user/UCSantaCruz" class="youtube">Youtube</a></li>
+        <li><a href="https://www.linkedin.com/groups?home=&gid=102708" class="linkedin">LinkedIn</a></li>
+      </ul>
+    </div>
+    <div class="nav">
+      <label for="show-menu" class="show-menu">Menu</label>
+      <input type="checkbox" id="show-menu" role="button">
+      <ul id="menu">
+        <li><a href="/">Home</a></li>
+        <li><a href="/events.html">Events</a></li>
+        <li><a href="/timeline/">Timeline</a></li>
+        <li><a href="/ourstories.html">Our Stories</a></li>
+        <li><a href="#">Participation</a></li>
+        <li><a href="#">Donate</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
