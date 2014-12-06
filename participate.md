@@ -3,6 +3,8 @@ layout: page
 title: Participation
 permalink: participation.html
 ---
+{% img full-size /css/assets/images/volunteer.jpg "Volunteers" "Volunteers" %}
+
 Whether you are near or far you can still join the fun and be an active part of our inspired community.
 
 ###50 for 50

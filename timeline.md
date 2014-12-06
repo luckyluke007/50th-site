@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Timeline
-permalink: /timeline/
+permalink: timeline.html
 ---
 <div id="timeline-embed"></div>
 <script type="text/javascript" src="../js/embed-timeline.js">&nbsp;</script>
