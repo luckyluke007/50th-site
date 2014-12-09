@@ -1,9 +1,0 @@
----
-layout: post
-title:  'Martin Luther King Convocation'
-date:   2015-01-28
-categories: event
----
-####Location: Civic Auditorium
-Professor emeriti Angela Davis will be our keynote speaker.
-
