@@ -1,11 +1,11 @@
 ---
 layout: post
 title: About Tiffany White Stanton
-permalink: kick-off/about-tiffany.html
+permalink: /kick-off/about-tiffany.html
 ---
 {% img full-size /css/assets/images/kick-off/mad-men-tiffany.jpg "Tiffany" "Tiffany" %}
 <div class="more-info">
-<a href="about-tiffany.html">About Tiffany White Stanton</a> | <a href="tips.html">Tips from Tiffany</a>
+<a href="index.html">Dress Like It's 1965</a> | <a href="about-tiffany.html">About Tiffany White Stanton</a> | <a href="tips.html">Tips from Tiffany</a> | <a href="photos.html">1965 campus photos</a>
 </div>
 
 *This article originally appeared in the [fall 2010 issue](http://review.ucsc.edu/fall10/) of [UC Santa Cruz Review magazine](http://review.ucsc.edu/).*

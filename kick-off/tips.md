@@ -4,6 +4,10 @@ title: Tips from Tiffany
 permalink: kick-off/tips.html
 ---
 
+<div class="more-info">
+<a href="index.html">Dress Like It's 1965</a> | <a href="about-tiffany.html">About Tiffany White Stanton</a> | <a href="tips.html">Tips from Tiffany</a> | <a href="photos.html">1965 campus photos</a>
+</div>
+
 ##What DID they wear in 1965?
 
 1. Nothing sells 1965 like high-waisted pants cinched with a belt! Guys and gals should tuck in those button-up shirts to show off their matching belt and shoes. 

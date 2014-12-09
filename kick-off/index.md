@@ -5,7 +5,7 @@ permalink: kick-off/index.html
 ---
 {% img full-size /css/assets/images/kick-off/main.jpg "Students in the '60 doing a bunny hop" "Students in the '60 doing a bunny hop" %}
 <div class="more-info">
-<a href="about-tiffany.html">About Tiffany White Stanton</a> | <a href="tips.html">Tips from Tiffany</a>
+<a href="index.html">Dress Like It's 1965</a> | <a href="about-tiffany.html">About Tiffany White Stanton</a> | <a href="tips.html">Tips from Tiffany</a> | <a href="photos.html">1965 campus photos</a>
 </div>
 
 ###Join us in Quarry Plaza for a fun 50th kick-off event. Come dressed up like it’s 1965, be photographed by a professional photographer, and compete for the best outfit.

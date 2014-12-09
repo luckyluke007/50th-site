@@ -454,6 +454,13 @@ section.content {
                 @include span-columns(12);
                 display: block;
                 margin-bottom: 1em;
+                .post-list {
+                    margin: 0;
+                    li {
+                        margin: .25em 0 .25em 0;
+                        border-bottom: 1px dotted rgba(255, 255, 255, .5)
+                    }
+                }
                 h3 {
                     display: block;
                     text-transform: uppercase;
@@ -587,6 +594,18 @@ section.content {
         }
 }
 
+.event-date-sidebar {
+    display: block;
+    color: $ucsc-green !important;
+    text-align: center !important;
+    font-size: $font-size-h4;
+    line-height: 1em;
+    margin: .25em 0 .75em;
+    text-transform: uppercase;
+    font-weight: 500;
+    @include span-columns(3);
+}
+
 .event-location {
     font-weight: 400;
     font-size: 1.1em;
@@ -635,6 +654,21 @@ section.content {
         color: $ucsc-white;
         margin: 0 0 .75em 0;
     }
+}
+.float-right {
+    display: block;
+    float: right;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+.post-link-sidebar {
+    display: block;
+    font-size: 1em;
+    @include span-columns(8);
 }
 
 .event-content {
@@ -1055,10 +1089,6 @@ video {
     }
 }
 
-.post-link {
-    display: block;
-    font-size: 24px;
-}
 
 
 
