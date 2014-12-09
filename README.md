@@ -9,12 +9,12 @@ http://jekyllrb.com
 ##Plugins used
 
 ###Search
-  https://github.com/slashdotdash/jekyll-lunr-js-search
+  * https://github.com/slashdotdash/jekyll-lunr-js-search
 
 ###Image and asset path
-  https://github.com/imathis/octopress/blob/master/plugins/image_tag.rb
-  https://github.com/samrayner/jekyll-asset-path-plugin
+  * https://github.com/imathis/octopress/blob/master/plugins/image_tag.rb
+  * https://github.com/samrayner/jekyll-asset-path-plugin
 
 ###Javascripts
-  Fancybox
-  Bigvideojs
+  * Fancybox
+  * Bigvideojs
