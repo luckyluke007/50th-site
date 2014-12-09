@@ -649,7 +649,14 @@ section.content {
             @include span-columns(10);
         }
 }
-
+.more-info {
+    display: block;
+    padding: .35em;
+    @include border-line;
+    @include span-columns(12);
+    float: left;
+    margin: .35em 0 .75em;
+}
 .caption {
     display: block;
     padding: .5em;
