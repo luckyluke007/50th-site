@@ -16,5 +16,5 @@ http://jekyllrb.com
   * https://github.com/samrayner/jekyll-asset-path-plugin
 
 ###Javascripts
-  * Fancybox
-  * Bigvideojs
+  * [Fancybox](http://fancybox.net)
+  * [Bigvideojs](http://dfcb.github.io/BigVideo.js/)
