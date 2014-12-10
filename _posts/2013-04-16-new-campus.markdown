@@ -4,6 +4,10 @@ title:  "Road to '65: Creating a design for the new campus"
 date:   2013-04-16
 categories: past
 img: /css/assets/images/posts/new-campus/main.jpg
+permalink: new-campus
+tags: 
+- ucsc50th
+- newcampus
 ---
 ###50 years ago: Countdown to UCSC's 50th anniversary
 
@@ -67,3 +71,4 @@ Merrill College architects Campbell & Wong set their stark buildings amid thick 
 All four of the early colleges seemed to satisfy the ideals set out by the founding architects — although neglected from the Long Range Development Plan design was an intramural sports stadium proposed for the quarry and a giant tower rising out of the redwoods near Science Hill — a feature that may have been better left unbuilt, according to Zwart, who saw sketches of possible designs for the edifice.
 
 "It had a real Jetsons quality to it," Zwart said.
+

@@ -4,6 +4,12 @@ title:  "2005-2014"
 date:   2013-11-24
 categories: photo
 img: /css/assets/images/posts/fifth-decade/main.jpg
+permalink: 2005-2014
+tags: 
+- ucsc50th
+- 2005-14
+- photos
+- ucsc
 ---
 
 ##In Harlem of the West: The San Francisco Fillmore Jazz Era

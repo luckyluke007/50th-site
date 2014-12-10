@@ -4,6 +4,12 @@ title:  "Pre Campus Photos"
 date:   2013-11-29
 categories: photo
 img: /css/assets/images/posts/pre-photos/main.jpg
+permalink: pre-photos
+tags: 
+- ucsc50th
+- pre-campus
+- ucsc
+- photos
 ---
 
 ##A Step To Higher Education
@@ -24,7 +30,7 @@ The banners read (l-r): "A Step To Higher Education," "UC Campus Santa Cruz," "H
 
 ***
 
-##Time magazine
+##Campus dedication
 {% img full-size /css/assets/images/posts/pre-photos/1964-campus-dedication.jpg  "Campus dedication" "Campus dedication" %}
 1964: Founding UCSC Chancellor Dean McHenry, standing, prepared to begin the dedication at the site of UCSC's first college, Cowell. The speakers that day included Governor Pat Brown and UC President Clark Kerr, both seated near McHenry.
 

@@ -4,6 +4,12 @@ title:  "Institute of Arts and Sciences"
 date:   2014-06-04
 categories: forward
 img: /css/assets/images/posts/arts-and-sciences/art-center.jpg
+permalink: arts-sciences
+tags: 
+- ucsc50th
+- arts
+- sciences
+- ucsc
 ---
 ###UCSC selects acclaimed New York firm to design Institute of Arts and Sciences
 
@@ -48,3 +54,4 @@ Construction cost of the new building is currently estimated between $32 million
 [The Institute of the Arts and Sciences](http://ias.ucsc.edu/) is one of the priority initiatives of UC Santa Cruz’s comprehensive fundraising campaign announced in the fall of 2013.
 
 [The Campaign for UC Santa Cruz](http://campaign.ucsc.edu) supports excellence across the university through increased private investment in the people and ideas shaping the future. It is bringing critical new resources to each academic division, and to signature initiatives in the Student Experience, Genomics and Health, Coastal Sustainability, the Institute of the Arts and Sciences, and Data Science Leadership.
+

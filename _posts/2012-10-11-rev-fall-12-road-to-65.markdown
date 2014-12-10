@@ -4,6 +4,10 @@ title:  "The road to '65"
 date:   2012-10-11
 categories: past
 img: /css/assets/images/posts/rev-fall-12-road-to-65/main.jpg
+permalink: the-road-65
+tags: 
+- ucsc50th
+- roadto65
 ---
 ###50 years ago: Countdown to UCSC's 50th anniversary
 

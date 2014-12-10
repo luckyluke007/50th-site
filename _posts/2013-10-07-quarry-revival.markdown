@@ -4,6 +4,11 @@ title:  "The road to '65: Countdown to UCSC's 50th anniversary / Quarry revival"
 date:   2013-10-07
 categories: past
 img: /css/assets/images/posts/quarry-revival/main.jpg
+permalink: countdown
+tags: 
+- ucsc50th
+- ucsc
+- quarryrevival
 ---
 ###50 years ago: Countdown to UCSC's 50th anniversary
 

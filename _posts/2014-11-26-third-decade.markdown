@@ -4,6 +4,12 @@ title:  "1985-1994"
 date:   2013-11-26
 categories: photo
 img: /css/assets/images/posts/third-decade/main.jpg
+permalink: 1985-1994
+tags: 
+- ucsc50th
+- 1985-94
+- photos
+- ucsc
 ---
 
 ##College Eight

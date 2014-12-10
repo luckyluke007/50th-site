@@ -4,6 +4,11 @@ title:  "Linguists receive $260,000 grant to study endangered Irish language"
 date:   2014-09-22
 categories: forward
 img: /css/assets/images/posts/irish-tongue/main.jpg
+permalink: language
+tags: 
+- ucsc50th
+- irish
+- language
 ---
 
 <div class="caption">
@@ -41,3 +46,4 @@ Padgett and Bennett have both published research on the sound system of Irish. M
 Apart from documentation and research, the researchers also plan to use their ultrasound data to create materials that will be useful to those who want to learn Irish, both within Ireland and around the world. 
 
 [WATCH](https://www.youtube.com/watch?v=RfpmulMD458) a short video of an Irish tongue moving.
+

@@ -4,6 +4,10 @@ title:  "Preparing for UCSC's 50th"
 date:   2014-03-17
 categories: past
 img: /css/assets/images/posts/preparing/main.jpg
+permalink: preparing
+tags: 
+- ucsc50th
+- preparing50
 ---
 ###The Road to '65
 

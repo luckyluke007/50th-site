@@ -4,6 +4,11 @@ title:  "What is the role of a major research university?"
 date:   2014-10-27
 categories: forward
 img: /css/assets/images/posts/major-research/main.jpg
+permalink: role-university
+tags: 
+- ucsc50th
+- ucsc
+- research
 ---
 
 <div class="caption">

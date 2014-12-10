@@ -453,7 +453,7 @@ section.content {
             .side-container {
                 @include span-columns(12);
                 display: block;
-                margin-bottom: 1em;
+                margin-bottom: 1.5em;
                 .post-list {
                     margin: 0;
                     li {
@@ -472,6 +472,10 @@ section.content {
                 }
                 img {
                     margin-bottom: .5em;
+                    @include span-columns(4);
+                    float: right;
+                    border: .15em solid $ucsc-yellow;
+                    margin-left: .35em;
                 }
                 ul {
                     margin-left: 1.25em;
@@ -690,6 +694,12 @@ section.content {
     @include span-columns(12);
     float: left;
     margin: .35em 0 .75em;
+}
+.iframe-youtube {
+    display: block;
+    width: 100%;
+    max-width: 700px;
+    height: 394px;
 }
 .caption {
     display: block;

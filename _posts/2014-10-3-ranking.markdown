@@ -4,6 +4,12 @@ title:  "UC Santa Cruz ranked first for research influence in world university r
 date:   2014-10-03
 categories: forward
 img: /css/assets/images/posts/ranking/main.png
+permalink: rankings
+tags: 
+- ucsc50th
+- first
+- research
+- rankings
 ---
 
 <div class="caption">

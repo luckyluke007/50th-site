@@ -21,3 +21,5 @@ gems: ['jekyll-lunr-js-search']
 
 lunr_search:
   excludes: [rss.xml, atom.xml]
+
+permalink: "/:title"

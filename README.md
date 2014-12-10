@@ -18,3 +18,7 @@ http://jekyllrb.com
 ###Javascripts
   * [Fancybox](http://fancybox.net)
   * [Bigvideojs](http://dfcb.github.io/BigVideo.js/)
+
+
+###Short URLs
+http://joshualande.com/short-urls-jekyll/
