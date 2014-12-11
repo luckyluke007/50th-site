@@ -741,8 +741,20 @@ section.content {
 */
 
 /*vjs test*/
-.vjs-loading-spinner{display:none;position:absolute;top:50%;left:50%;font-size:7em;line-height:1;width:1em;height:1em;margin-left:-.5em;margin-top:-.5em;opacity:.75;/*-webkit-animation:spin 1.5s infinite linear;-moz-animation:spin 1.5s infinite linear;-o-animation:spin 1.5s infinite linear;animation:spin 1.5s infinite linear*/}
-.vjs-default-skin .vjs-loading-spinner:before{/*content:"\e01e";font-family:VideoJS;*/position:absolute;top:0;left:0;width:1em;height:1em;text-align:center;text-shadow:0 0 .1em #000}
+.vjs-loading-spinner {
+    display:none;
+    position:absolute;
+    top:50%;
+    left:50%;
+    font-size:7em;
+    line-height:1;
+    width:1em;
+    height:1em;
+    margin-left:-.5em;
+    margin-top:-.5em;
+    opacity:.75;
+    /*-webkit-animation:spin 1.5s infinite linear;-moz-animation:spin 1.5s infinite linear;-o-animation:spin 1.5s infinite linear;animation:spin 1.5s infinite linear*/}
+    .vjs-default-skin .vjs-loading-spinner:before{/*content:"\e01e";font-family:VideoJS;*/position:absolute;top:0;left:0;width:1em;height:1em;text-align:center;text-shadow:0 0 .1em #000}
 /*end test*/
 .video-wrapper {
     display: block;
@@ -771,7 +783,8 @@ section.content {
     }
     @include media ($desktop){
         height:85%;
-        background: $ucsc-blue;
+        background: $ucsc-blue url('/css/assets/images/loading_bg.gif') no-repeat;
+        background-size: cover;
     }
 }
 #big-video-vid,#big-video-image{
