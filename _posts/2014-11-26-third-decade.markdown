@@ -41,3 +41,5 @@ In this photo, the library stacks at McHenry have toppled, leaving a massive cle
 At that time, little was known about the anatomy of gorillas, and the information Zihlman would glean enabled her to do male-female and primate comparisons that made up the core of her research.
 
 (Photo: R.R. Jones)
+
+{% include social-sharing.html %}

@@ -51,3 +51,5 @@ Garrett, a graduate of UCSC's Merrill College, visited the campus during the spr
 A month later, the UCSC genome bioinformatics group — led by faculty member David Haussler (pictured) — released the first working draft of the human genome sequence on the web. Scientists downloaded half a trillion bytes of information from the UCSC genome server in the first 24 hours.
 
 (Photo: Elena Zhukova)
+
+{% include social-sharing.html %}

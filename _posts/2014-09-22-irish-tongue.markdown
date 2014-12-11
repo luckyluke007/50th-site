@@ -47,3 +47,4 @@ Apart from documentation and research, the researchers also plan to use their ul
 
 [WATCH](https://www.youtube.com/watch?v=RfpmulMD458) a short video of an Irish tongue moving.
 
+{% include social-sharing.html %}

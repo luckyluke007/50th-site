@@ -48,3 +48,5 @@ To prepare for UCSC's upcoming 50th anniversary, we have created an online timel
 
 First UCSC photobomb?
 Who are those cute little boys photobombing the gentlemen in this picture? Help us solve the mystery! If you know, write us at [review@ucsc.edu](mailto:review@ucsc.edu), and we'll put the answer in the next issue of Review.
+
+{% include social-sharing.html %}

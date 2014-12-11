@@ -99,3 +99,5 @@ Ron Yerxa
 Help us plan the celebration!
 
 For information, visit [50years.ucsc.edu](http://50years.ucsc.edu).
+
+{% include social-sharing.html %}

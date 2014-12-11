@@ -36,3 +36,5 @@ Finally, our campus has a strong track record of championing independent student
 Unsurprisingly, independent research turns out to be a strong predictor of success in graduate school. The Physical and Biological Sciences Division is investing in these opportunities. We offer science undergraduates up to $1,500 grants to support their independent work. Last year, we awarded a total of $20,000 to help students work on projects as varied as materials science and developmental biology; this year, we will award $30,000. That is about 10 percent of what we need.
 
 These "real-world" learning experiences, coupled with our general-education requirements and extracurricular activities, help students figure out what they care about and how to have an impact. That's self-discovery, and that's part of our mission, too.
+
+{% include social-sharing.html %}

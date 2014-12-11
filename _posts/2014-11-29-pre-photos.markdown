@@ -37,3 +37,5 @@ The banners read (l-r): "A Step To Higher Education," "UC Campus Santa Cruz," "H
 See [special anniversary feature](http://50years.ucsc.edu/dedication/) on the 1964 dedication.
 
 (Photo: Vester Dick; Courtesy of Covello & Covello)
+
+{% include social-sharing.html %}

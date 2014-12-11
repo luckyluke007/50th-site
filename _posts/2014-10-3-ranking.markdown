@@ -25,3 +25,5 @@ In describing their methodology, THE editors called the evaluation of research i
 THE has also ranked UC Santa Cruz 11th among the [top 100 universities under 50 years old](http://www.timeshighereducation.co.uk/world-university-rankings/2014/one-hundred-under-fifty). UCSC's overall ranking in the THE World University Rankings for 2014-15 was 109th. It is one of eight UC campuses among the top 150 universities worldwide.
 
 In another ranking published recently, the [Academic Ranking of World Universities](http://news.ucsc.edu/2014/08/arwu-rankings.html) (ARWU), UC Santa Cruz is ranked 93rd among the world's best universities and in the top 50 in the United States. Known as the "Shanghai ranking," ARWU is an annual study by the Shanghai Ranking Consultancy that looks at more than 1,200 universities in the world and publishes data on what it deems are the top 500.
+
+{% include social-sharing.html %}

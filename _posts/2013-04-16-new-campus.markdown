@@ -72,3 +72,4 @@ All four of the early colleges seemed to satisfy the ideals set out by the found
 
 "It had a real Jetsons quality to it," Zwart said.
 
+{% include social-sharing.html %}

@@ -57,3 +57,5 @@ More recently, Time magazine featured Sullivan on its 2014 list of the "100 Most
 In this photo, Sullivan is shown with fellow astronaut Sally Ride during that 1984 flight aboard the Challenger space shuttle.
 
 (Photo: Courtesy of NASA)
+
+{% include social-sharing.html %}

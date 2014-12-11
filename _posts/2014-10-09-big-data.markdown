@@ -48,3 +48,5 @@ According to Haussler, however, changes are needed not only to the technical inf
 This is one of the goals of a new international nonprofit alliance Haussler cofounded, the [Global Alliance for Genomics and Health](http://genomicsandhealth.org/), which now includes nearly 200 of the world's largest medical centers, patient advocacy groups, and research institutions. "Right now, genomics data is being siloed away in the databases of individual medical centers. Only a tiny portion is being shared," Haussler said. "We want to create a new digital commons for responsible and confidential sharing of genomic and clinical data."
 
 The Center for Big Data in Translational Genomics is one of several centers that have been funded by the [NIH Big Data to Knowledge](http://news.ucsc.edu/2014/10/haussler-big-data.html) (BD2K) initiative, and it is the only BD2K center focused on genomics. The goal of the BD2K initiative is to develop innovative and transforming approaches that make big data and data science a prominent component of biomedical research. Centers focused in different big data areas will work together to achieve this goal.
+
+{% include social-sharing.html %}

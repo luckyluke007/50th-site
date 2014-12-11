@@ -14,3 +14,5 @@ tags:
 ---
 
 <iframe src="//www.youtube.com/embed/IsNigSEvdJg" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
+
+{% include social-sharing.html %}

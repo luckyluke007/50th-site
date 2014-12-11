@@ -55,3 +55,5 @@ In August 2009, UC Santa Cruz is one of 25 campuses profiled in the cover story 
 Faber, a University Professor of astronomy and astrophysics at UCSC, was honored along with 11 other recipients of the National Medal of Science and 11 recipients of the National Medal of Technology and Innovation. These are the highest honors bestowed by the U.S. government upon scientists, engineers, and inventors. Chancellor George Blumenthal accompanied Faber to the ceremony.
 
 (Photo: Ryan Morris/National Science & Technology Medals Foundation)
+
+{% include social-sharing.html %}

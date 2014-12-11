@@ -38,3 +38,5 @@ Clark proceeded with making plans for the building of McHenry Library. He became
 Today's library-recently renovated-includes a caf&#233;, collaborative study areas, a large information commons containing more than 60 computer stations, a "laptop bar" with stools for optimum studying, and full wireless coverage. 
 
 Though McHenry Library has embraced the digital information age, it remains, as it began, a place for study, contemplation, and discovery- just as its founders envisioned it. 
+
+{% include social-sharing.html %}
