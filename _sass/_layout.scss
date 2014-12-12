@@ -21,6 +21,7 @@
  h1 {
     font-size: $font-size-h1;
     line-height: 1em;
+    padding: 0 .25em 0 .25em;
     @include media ($tablet){
         margin: .25em 0 .25em 0;
     }
@@ -371,7 +372,7 @@ section.front-promo {
         padding-bottom: .75em;
     }
     .left-box {
-        @include border-radius-top(0.313em);
+        @include border-radius(0.313em);
         display: block;
         @include media ($tablet) {
             @include background-opacity ($ucsc-light-blue, 0);
@@ -383,7 +384,7 @@ section.front-promo {
         }
     }
     .middle-box {
-        @include border-radius-top(0.313em);
+        @include border-radius(0.313em);
         display: block;
         @include media ($tablet) {
             @include background-opacity ($ucsc-light-blue, 0);
@@ -395,7 +396,7 @@ section.front-promo {
         }
     }
     .right-box {
-        @include border-radius-top(0.313em);
+        @include border-radius(0.313em);
         display: block;
         @include media ($tablet) {
             @include background-opacity ($ucsc-light-blue, 0);
@@ -905,7 +906,6 @@ video {
     display: block;
     padding: .5em 0 .5em 0;
     border-top: 1px solid $ucsc-white;
-    border-bottom: 1px solid $ucsc-white;
     margin-bottom: 2em;
 }
 a.social-twitter {
@@ -946,6 +946,7 @@ a.social-linkedin:hover {
     margin: 2em auto 0 auto;
     text-align: left;
     background-color: $ucsc-light-blue;
+    @include border-radius (0.313em);
     .col-one, .col-two, .col-three {
         display: block;
         padding: .75em .5em .75em .5em;
