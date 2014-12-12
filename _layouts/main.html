@@ -16,10 +16,9 @@ exclude_from_search: true
 </div>
 {% include footer.html %}
 <!--BIG VIDEOJS-->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
-<script src="js/jquery-ui.min.js"></script>
-<script src="js/video.js"></script>
+<script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script>
+<script src="/js/jquery-ui.min.js"></script>
+<script src="/js/video.js"></script>
 <!-- BigVideo -->
 <script src="/js/bigvideo.js"></script>
 <!--
@@ -43,7 +42,7 @@ exclude_from_search: true
       } else {
           BV.show([
             { type: "video/mp4", src:"http://player.vimeo.com/external/111870439.hd.mp4?s=335e76ce19dac43b573a5d4619349fe7"},
-            { type: "video/ogg", src:"videos/timelapse.ogg"}
+            { type: "video/ogg", src:"/videos/timelapse.ogg"}
             ]);
       }
     </script>
