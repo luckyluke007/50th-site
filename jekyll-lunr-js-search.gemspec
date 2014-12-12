@@ -1,4 +1,4 @@
-lib = File.expand_path('../lib', __FILE__)
+lib = File.expand_path('../_plugins', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'jekyll_lunr_js_search/version'
 
@@ -11,12 +11,12 @@ Gem::Specification.new do |s|
   s.authors       = ['Ben Smith']
   s.email         = 'ben@10consulting.com'
   s.files         = [
-    'lib/jekyll-lunr-js-search.rb', 
-    'lib/jekyll_lunr_js_search/indexer.rb', 
-    'lib/jekyll_lunr_js_search/page_renderer.rb',
-    'lib/jekyll_lunr_js_search/search_entry.rb',
-    'lib/jekyll_lunr_js_search/search_index_file.rb',
-    'lib/jekyll_lunr_js_search/version.rb',
+    '_plugins/jekyll-lunr-js-search.rb', 
+    '_plugins/jekyll_lunr_js_search/indexer.rb', 
+    '_plugins/jekyll_lunr_js_search/page_renderer.rb',
+    '_plugins/jekyll_lunr_js_search/search_entry.rb',
+    '_plugins/jekyll_lunr_js_search/search_index_file.rb',
+    '_plugins/jekyll_lunr_js_search/version.rb',
   ]
   s.homepage      = 'https://github.com/slashdotdash/jekyll-lunr-js-search'
   s.require_paths = ['lib']

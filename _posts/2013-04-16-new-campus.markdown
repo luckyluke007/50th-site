@@ -71,5 +71,3 @@ Merrill College architects Campbell & Wong set their stark buildings amid thick 
 All four of the early colleges seemed to satisfy the ideals set out by the founding architects — although neglected from the Long Range Development Plan design was an intramural sports stadium proposed for the quarry and a giant tower rising out of the redwoods near Science Hill — a feature that may have been better left unbuilt, according to Zwart, who saw sketches of possible designs for the edifice.
 
 "It had a real Jetsons quality to it," Zwart said.
-
-{% include social-sharing.html %}

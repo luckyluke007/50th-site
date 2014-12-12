@@ -13,5 +13,3 @@ tags:
 - 50thanniversary
 ---
 <iframe src="//www.youtube.com/embed/NMc0PTUW-mo?list=UUWOt6UqtvLP33EeIax7zHKw" frameborder="0" class="iframe-youtube" allowfullscreen></iframe>
-
-{% include social-sharing.html %}

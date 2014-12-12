@@ -67,5 +67,3 @@ Adams had a very special relationship with UC Santa Cruz and its founding chance
 1969: This photo, taken in "Stevenson Dorm 8" in January of that year, perfectly captures the floor-to-ceiling artwork (and sometimes ceiling artwork), informal guitar strumming, and an abundance of conversation that could be found in many student residences on campus during UC Santa Cruz's fourth year.
 
 (Photo: Hans Namuth)
-
-{% include social-sharing.html %}

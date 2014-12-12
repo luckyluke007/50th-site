@@ -783,7 +783,7 @@ section.content {
     }
     @include media ($desktop){
         height:85%;
-        background: $ucsc-blue url('/css/assets/images/loading_bg.gif') no-repeat;
+        background: $ucsc-blue url('/css/assets/images/loading_bg.svg') no-repeat;
         background-size: cover;
     }
 }

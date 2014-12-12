@@ -1,5 +1,8 @@
+---
+exclude_from_search: true
+---
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 {% include 50th-header.html %}
 
 
@@ -20,21 +23,35 @@
 <script src="js/video.js"></script>
 <!-- BigVideo -->
 <script src="/js/bigvideo.js"></script>
+<!--
 <script>
   $(document).ready(function(){
     $('.vjs-loading-spinner').html('<img src="/css/assets/images/loading.png" alt="Loading...">');
     });
   
 </script>
+-->
 <script>
-     var BV = new $.BigVideo({useFlashForFirefox:true});
+      var opts = {
+        doLoop: true,
+        preload:'auto',
+        useFlashForFirefox:false
+      }
+     var BV = new $.BigVideo(opts);
       BV.init();
       if (Modernizr.touch) {
           BV.show('/css/assets/images/background-image.gif');
       } else {
-          BV.show('http://player.vimeo.com/external/111870439.hd.mp4?s=335e76ce19dac43b573a5d4619349fe7',{doLoop:true});
+          BV.show([
+            { type: "video/mp4", src:"http://player.vimeo.com/external/111870439.hd.mp4?s=335e76ce19dac43b573a5d4619349fe7"},
+            { type: "video/ogg", src:"videos/timelapse.ogg"}
+            ]);
       }
     </script>
 <!--END BIG VIDEOJS-->
+
+<!-- SEARCH -->
+
+
 </body>
 </html>
