@@ -20,6 +20,7 @@ encoding:     "utf-8"
 gems: ['jekyll-lunr-js-search']
 
 lunr_search:
+  js: 'js'
   excludes: [rss.xml, atom.xml]
 
 permalink: "/:title"
