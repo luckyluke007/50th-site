@@ -42,6 +42,22 @@
     background: rgba($color, $opacity);
 }
 
+@mixin social-sharing {
+    display: block;
+    width: 2em;
+    height: 2em;
+    text-decoration: none;
+    background-size: 4em;
+    text-overflow: auto;
+    text-indent: -9000px;
+    float: left;
+    margin: 0 .35em;
+}
+
+@mixin social-sharing-hover {
+    background-position: -2em;
+}
+
 @mixin social-btn{
       width: 1.5em;
       height: 1.5em;

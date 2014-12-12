@@ -3,11 +3,11 @@
     {% for tag in page.tags %}
         {% capture tagStr %}{{ tagStr }},{{ tag }}{% endcapture %}
     {% endfor %}
-<hr />
-<h4>Share This Page</h4>
 <div class="social-share">
-    <a class="social-share-element social-twitter" id="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=UCSantaCruz&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter">Twitter</a>
-    <a class="social-share-element" id="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook">Facebook</a>
-    <a class="social-share-element" id="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus">g+</a>
-    <a class="social-share-element" id="social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&title={{ page.title }}&url={{ url }}&source=http%3a%2f%2f50year.ucsc.edu" target="_blank" title="Share this post on LinkedIn">LinkedIn</a>
+	<h4>Share This Page</h4>
+    <a class="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}&via=UCSantaCruz&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter">Twitter</a>
+    <a class="social-facebook" href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ url }}" target="_blank" title="Share this post on Facebook">Facebook</a>
+    <a class="social-google" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" title="Share this post on Google Plus">g+</a>
+    <a class="social-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&title={{ page.title }}&url={{ url }}&source=http%3a%2f%2f50year.ucsc.edu" target="_blank" title="Share this post on LinkedIn">LinkedIn</a>
+    <div class="clear"></div>
 </div>
