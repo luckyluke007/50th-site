@@ -1,2 +1,6 @@
 source 'https://rubygems.org'
-gemspec
+
+gem 'rake'
+gem 'jekyll'
+gem 'rdiscount'
+gem 'jekyll-lunr-js-search'
