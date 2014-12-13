@@ -1,10 +1,6 @@
----
-exclude_from_search: true
----
 <!DOCTYPE html>
 <html lang="en-US">
 {% include 50th-header.html %}
-
 
 <section class="front-promo">
 	<div class="container">
@@ -33,7 +29,7 @@ exclude_from_search: true
       var opts = {
         doLoop: true,
         preload:'auto',
-        useFlashForFirefox:false
+        useFlashForFirefox:true
       }
      var BV = new $.BigVideo(opts);
       BV.init();
@@ -42,7 +38,7 @@ exclude_from_search: true
       } else {
           BV.show([
             { type: "video/mp4", src:"http://player.vimeo.com/external/111870439.hd.mp4?s=335e76ce19dac43b573a5d4619349fe7"},
-            { type: "video/ogg", src:"/videos/timelapse.ogg"}
+            //{ type: "video/ogg", src:"/videos/timelapse.ogg"}
             ]);
       }
     </script>
