@@ -1,7 +1,9 @@
 language: ruby
-cache: bundler
 rvm:
 - 2.1.2
+cache:
+  directories:
+  - vendor/bundle
 install:
   - bundle install
   - bundle exec rake fetch
