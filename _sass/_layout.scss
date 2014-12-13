@@ -900,20 +900,6 @@ video {
     @include media($desktop){
         top:-15%;
     }
-#big-video-vid_flash_api {
-    @include media($mobile){
-        top: 0;
-    }
-    @include media($portrait){
-        top: 0;
-    }
-    @include media($tablet){
-        top: 0;
-    }
-    @include media($desktop){
-        top:-15%;
-    }
-}
 //END BIG VIDEOJS//
 .social-share {
     display: block;
