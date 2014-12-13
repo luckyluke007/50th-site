@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Press Kit
-permalink: /press/
+permalink: /presskit/
 ---
 
 ## Press release
