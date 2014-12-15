@@ -5,11 +5,13 @@ date:   2014-7-16
 categories: videos
 img: /css/assets/images/dedication.jpg
 alt: Founders Rock Video
-video: http://youtu.be/NMc0PTUW-mo?list=UUWOt6UqtvLP33EeIax7zHKw
+video: https://www.youtube.com/watch?v=0LfakJersWE
 permalink: dedication
 tags: 
-- ucsc50th
+- ucsc50
 - 50thdedication
 - 50thanniversary
 ---
-<iframe src="//www.youtube.com/embed/NMc0PTUW-mo?list=UUWOt6UqtvLP33EeIax7zHKw" frameborder="0" class="iframe-youtube" allowfullscreen></iframe>
+
+
+<iframe src="//www.youtube.com/embed/0LfakJersWE" class="iframe-youtube" frameborder="0" allowfullscreen></iframe>
