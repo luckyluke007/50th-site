@@ -907,38 +907,37 @@ video {
     padding: .5em 0 .5em 0;
     border-top: 1px solid $ucsc-white;
     margin-bottom: 2em;
-}
-a.social-twitter {
-    background: url('/css/assets/images/share/twitter.svg') no-repeat;
-    @include social-sharing;
-}
-a.social-twitter:hover {
-    @include social-sharing-hover;
-}
+    a.social-twitter {
+        background: url('/css/assets/images/share/twitter.svg') no-repeat;
+        @include social-sharing;
+    }
+    a.social-twitter:hover {
+        @include social-sharing-hover;
+    }
 
-a.social-facebook {
-    background: url('/css/assets/images/share/facebook.svg') no-repeat;
-    @include social-sharing;
-}
-a.social-facebook:hover {
-    @include social-sharing-hover;
-}
+    a.social-facebook {
+        background: url('/css/assets/images/share/facebook.svg') no-repeat;
+        @include social-sharing;
+    }
+    a.social-facebook:hover {
+        @include social-sharing-hover;
+    }
 
-a.social-google {
-    background: url('/css/assets/images/share/google.svg') no-repeat;
-    @include social-sharing;
+    a.social-google {
+        background: url('/css/assets/images/share/google.svg') no-repeat;
+        @include social-sharing;
+    }
+    a.social-google:hover {
+        @include social-sharing-hover;
+    }
+    a.social-linkedin {
+        background: url('/css/assets/images/share/linkedin.svg') no-repeat;
+        @include social-sharing;
+    }
+    a.social-linkedin:hover {
+        @include social-sharing-hover;
+    }
 }
-a.social-google:hover {
-    @include social-sharing-hover;
-}
-a.social-linkedin {
-    background: url('/css/assets/images/share/linkedin.svg') no-repeat;
-    @include social-sharing;
-}
-a.social-linkedin:hover {
-    @include social-sharing-hover;
-}
-
 
 .footer-container {
     border-top: 1px solid $ucsc-blue;
