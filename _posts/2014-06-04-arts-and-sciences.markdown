@@ -6,7 +6,7 @@ categories: forward
 img: /css/assets/images/posts/arts-and-sciences/main.jpg
 permalink: arts-sciences
 tags: 
-- ucsc50th
+- ucsc50
 - arts
 - sciences
 - ucsc
@@ -15,7 +15,7 @@ tags:
 
 
 <div class="caption">{% img full-size /css/assets/images/posts/arts-and-sciences/twbta.jpg "Asia Society Hong Kong" "Asia Society Hong Kong" %}
-Asia Society Hong Kong, designed by Tod Williams Billie Tsien Architecture (Photo by Michael Moran).</div>The University of California, Santa Cruz, announced today that the award-winning New York firm, Tod Williams Billie Tsien Architects, has been selected to design the campus’s new [Institute of the Arts and Sciences](http://ias.ucsc.edu/).
+Asia Society Hong Kong, designed by Tod Williams Billie Tsien Architecture (Photo by Michael Moran).</div>{% include article-sharing.html %}The University of California, Santa Cruz, announced today that the award-winning New York firm, Tod Williams Billie Tsien Architects, has been selected to design the campus’s new [Institute of the Arts and Sciences](http://ias.ucsc.edu/).
 
 Conceived as more than a museum, the Institute will be the first of its kind at a research university, focusing on both the arts and the sciences and their relationship to other disciplines. Designed to function as an intellectual hub, it will provide space for site-specific installations, exhibits, seminars, residencies by artists and scholars, and hands-on research by students and faculty.
 

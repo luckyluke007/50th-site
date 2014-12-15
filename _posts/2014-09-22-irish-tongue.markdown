@@ -6,14 +6,14 @@ categories: forward
 img: /css/assets/images/posts/irish-tongue/main.jpg
 permalink: language
 tags: 
-- ucsc50th
+- ucsc50
 - irish
 - language
 ---
 
 <div class="caption">
 {% img full-size /css/assets/images/posts/irish-tongue/padgett.jpg %}
-UC Santa Cruz Professor of Linguistics Jaye Padgett in Ireland</div>“Although we all have tongues, we are surprisingly bad at knowing precisely what they're doing or conveying that to others,” says UC Santa Cruz professor of linguistics Jaye Padgett.
+UC Santa Cruz Professor of Linguistics Jaye Padgett in Ireland</div>{% include article-sharing.html %}“Although we all have tongues, we are surprisingly bad at knowing precisely what they're doing or conveying that to others,” says UC Santa Cruz professor of linguistics Jaye Padgett.
 
 Tongue motion, it turns out, is crucial to the documentation of endangered languages.
 

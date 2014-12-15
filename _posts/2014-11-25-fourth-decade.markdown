@@ -6,7 +6,7 @@ categories: photo
 img: /css/assets/images/posts/fourth-decade/main.jpg
 permalink: 1995-2004
 tags: 
-- ucsc50th
+- ucsc50
 - ucsc
 - 1995-04
 - photos

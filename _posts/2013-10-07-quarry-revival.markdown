@@ -6,7 +6,7 @@ categories: past
 img: /css/assets/images/posts/quarry-revival/main.jpg
 permalink: countdown
 tags: 
-- ucsc50th
+- ucsc50
 - ucsc
 - quarryrevival
 ---
@@ -16,7 +16,7 @@ tags:
 
 <div class="caption">
 {% img full-size /css/assets/images/posts/quarry-revival/quarry.jpg "Quarry Revival" "Quarry Revival" %}
-Upper Quarry Amphitheater c. 1965 (photo by Robert Brandeis)</div>On a January day in 1963, then-Campus Engineer Lou Fackler set out with a car full of dignitaries for a tour of what was to be UC's newest campus. But Fackler, who'd been on the job only a week, took a wrong turn and ended up in an abandoned limestone quarry in the upper campus— where his car, and his VIPs, promptly got stuck in the mud.
+Upper Quarry Amphitheater c. 1965 (photo by Robert Brandeis)</div>{% include article-sharing.html %}On a January day in 1963, then-Campus Engineer Lou Fackler set out with a car full of dignitaries for a tour of what was to be UC's newest campus. But Fackler, who'd been on the job only a week, took a wrong turn and ended up in an abandoned limestone quarry in the upper campus— where his car, and his VIPs, promptly got stuck in the mud.
 
 There's a good chance those sitting in the car that day would have had a hard time envisioning what that ragged hole in the ground would become: an award-winning outdoor amphitheater that has played host to a presidential stump speech by Gov. Jerry Brown, a teach-in featuring former U.S. ambassador Joe Wilson, a talk by Intel CEO Andy Grove, and, for a time, a nude psychology class.
 

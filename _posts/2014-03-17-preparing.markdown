@@ -6,7 +6,7 @@ categories: past
 img: /css/assets/images/posts/preparing/main.jpg
 permalink: preparing
 tags: 
-- ucsc50th
+- ucsc50
 - preparing50
 ---
 ###The Road to '65
@@ -17,7 +17,7 @@ tags:
 
 <div class="caption">
 {% img full-size /css/assets/images/posts/preparing/brown-kerr.jpg "Founders Rock" "Founders Rock" %}
-Governor Edmund G. "Pat" Brown, UC President Clark Kerr, and Santa Cruz Sentinel editor Gordon "Scotchy" Sinclair affixing the plaque commemorating the founding of UC Santa Cruz to Founder's Rock at the campus dedication in 1964.</div>For a good-sized chunk of limestone, UC Santa Cruz's Founders' Rock is pretty easy to miss.
+Governor Edmund G. "Pat" Brown, UC President Clark Kerr, and Santa Cruz Sentinel editor Gordon "Scotchy" Sinclair affixing the plaque commemorating the founding of UC Santa Cruz to Founder's Rock at the campus dedication in 1964.</div>{% include article-sharing.html %}For a good-sized chunk of limestone, UC Santa Cruz's Founders' Rock is pretty easy to miss.
 
 Even though it's hip high and sits about four feet from a sidewalk between Cowell College and the Humanities 1 building, most people walking by don't give the grey, lichen-spotted rock a second glance.
 

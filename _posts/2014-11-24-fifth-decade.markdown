@@ -6,7 +6,7 @@ categories: photo
 img: /css/assets/images/posts/fifth-decade/main.jpg
 permalink: 2005-2014
 tags: 
-- ucsc50th
+- ucsc50
 - 2005-14
 - photos
 - ucsc

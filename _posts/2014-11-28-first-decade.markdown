@@ -6,7 +6,7 @@ categories: photo
 img: /css/assets/images/posts/first-decade/main.jpg
 permalink: 1965-1974
 tags: 
-- ucsc50th
+- ucsc50
 - ucsc
 - photos
 - 1965-74

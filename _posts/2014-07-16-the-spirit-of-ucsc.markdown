@@ -8,7 +8,7 @@ alt: The Spirit of UCSC - Video
 nextvideo: https://www.youtube.com/watch?v=IsNigSEvdJg&feature=youtu.be
 permalink: the-spirit
 tags: 
-- ucsc50th
+- ucsc50
 - thespiritucsc
 - ucsc
 ---

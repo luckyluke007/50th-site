@@ -6,7 +6,7 @@ categories: photo
 img: /css/assets/images/posts/second-decade/main.jpg
 permalink: 1975-1984
 tags: 
-- ucsc50th
+- ucsc50
 - 1975-84
 - photos
 - ucsc

@@ -6,7 +6,7 @@ categories: past
 img: /css/assets/images/posts/new-campus/main.jpg
 permalink: new-campus
 tags: 
-- ucsc50th
+- ucsc50
 - newcampus
 ---
 ###50 years ago: Countdown to UCSC's 50th anniversary
@@ -15,7 +15,7 @@ tags:
 
 <div class="caption">
 {% img full-size /css/assets/images/posts/new-campus/regents_tour.jpg "Regents Tour" "Regents Tour" %}
-The Regents Committee onGrounds and Buildings meton January 17, 1963, at First Congregational Church onHigh Street, where they approved the campus’s original Long Range Development Plan. Dean McHenry, UCSC’s founding chancellor, is at the very bottom right. (Photo by Vester Dick)</div>It's hard to imagine what UC Santa Cruz might have become: a cluster of high-density buildings rising out of the Great Meadow like some unsightly crown.
+The Regents Committee onGrounds and Buildings meton January 17, 1963, at First Congregational Church onHigh Street, where they approved the campus’s original Long Range Development Plan. Dean McHenry, UCSC’s founding chancellor, is at the very bottom right. (Photo by Vester Dick)</div>{% include article-sharing.html %}It's hard to imagine what UC Santa Cruz might have become: a cluster of high-density buildings rising out of the Great Meadow like some unsightly crown.
 
 But thanks to a combination of two visionary UC administrators, a modernist landscape architect, and an influential team of California architects, those early plans to build a university in the middle of beautiful slope of grass died a quick death. Instead, the state's seventh UC campus became a daring experiment, not only in its academic form but also in its design.
 

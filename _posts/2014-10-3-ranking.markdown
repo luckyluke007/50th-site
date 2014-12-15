@@ -6,15 +6,16 @@ categories: forward
 img: /css/assets/images/posts/ranking/main.png
 permalink: rankings
 tags: 
-- ucsc50th
+- ucsc50
 - first
 - research
 - rankings
 ---
 
+
 <div class="caption">
 {% img full-size /css/assets/images/posts/ranking/the-logo.jpg "Times Higher Education (THE)" "Times Higher Education (THE)" %}
-</div>In the latest analysis of the world's top universities published by Times Higher Education (THE), UC Santa Cruz ranked first in research influence as measured by the number of times its faculty's published work is cited by scholars around the world.
+</div>{% include article-sharing.html %}In the latest analysis of the world's top universities published by Times Higher Education (THE), UC Santa Cruz ranked first in research influence as measured by the number of times its faculty's published work is cited by scholars around the world.
 
 Published as part of the [THE World University Rankings 2014-15](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking), the analysis, conducted by Thomson Reuters, measured overall research influence based on the average number of citations per paper, using a database of more than 50 million citations to 6 million journal articles published over five years, from 2008 to 2012.
 

@@ -6,7 +6,7 @@ categories: past
 img: /css/assets/images/posts/rev-fall-12-road-to-65/main.jpg
 permalink: the-road-65
 tags: 
-- ucsc50th
+- ucsc50
 - roadto65
 ---
 ###50 years ago: Countdown to UCSC's 50th anniversary
@@ -15,7 +15,7 @@ tags:
 
 <div class="caption">
 {% img full-size /css/assets/images/posts/rev-fall-12-road-to-65/regents-visit.jpg "Regents Tour" "Regents Tour" %}
-Photo: Vester Dick</div>Fifty years ago, in the fall of 1962, the Cuban Missile Crisis was escalating, and the United States and the Soviet Union came as close as they ever would to global nuclear war. 
+Photo: Vester Dick</div>{% include article-sharing.html %}Fifty years ago, in the fall of 1962, the Cuban Missile Crisis was escalating, and the United States and the Soviet Union came as close as they ever would to global nuclear war. 
 
 Against that backdrop of worldwide disaster, a University of California campus was being born in Santa Cruz, getting ready for its opening three years later. 
 

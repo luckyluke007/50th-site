@@ -67,6 +67,33 @@ hr :after {
     clear: both;
     float: none;
  }
+ form {
+    width: auto;
+    ::-webkit-input-placeholder {
+        color: $ucsc-white;
+    }
+
+    :-moz-placeholder { /* Firefox 18- */
+        color: $ucsc-white;  
+    }
+
+    ::-moz-placeholder {  /* Firefox 19+ */
+        color: $ucsc-white;  
+    }
+
+    :-ms-input-placeholder {  
+        color: $ucsc-white;  
+    }
+ }
+ input {
+    display:block;
+    background: $ucsc-yellow;
+    color: $ucsc-white;
+    padding: .25em;
+    -webkit-appearance: none;
+    @include border-radius (.35em);
+    border: 0;
+ }
  .container {
         display: block;
         @include outer-container;
@@ -702,7 +729,7 @@ section.content {
     max-width: 700px;
     height: 394px;
 }
-.caption {
+.caption{
     display: block;
     padding: .5em;
     margin: 0 .5em .5em;
@@ -902,7 +929,7 @@ video {
     }
 }    
 //END BIG VIDEOJS//
-.social-share {
+.social-share, .article-sharing {
     display: block;
     padding: .5em 0 .5em 0;
     border-top: 1px solid $ucsc-white;
@@ -937,6 +964,30 @@ video {
     a.social-linkedin:hover {
         @include social-sharing-hover;
     }
+}
+
+.article-sharing {
+    padding: .5em;
+    margin: 0 .5em .5em;
+    clear: both;
+    border-top: 0px;
+    @include media($mobile){
+        @include span-columns(12);
+        float: none;
+    }
+    @include media($portrait){
+        @include span-columns(5);
+        float: right;
+    }
+    @include media($tablet){
+        @include span-columns(5);
+        float: right;
+    }
+    @include media($desktop){
+        @include span-columns(5);
+        float: right;
+    }
+
 }
 
 .footer-container {

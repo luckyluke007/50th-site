@@ -6,7 +6,7 @@ categories: photo
 img: /css/assets/images/posts/pre-photos/main.jpg
 permalink: pre-photos
 tags: 
-- ucsc50th
+- ucsc50
 - pre-campus
 - ucsc
 - photos

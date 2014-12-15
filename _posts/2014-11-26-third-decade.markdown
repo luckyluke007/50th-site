@@ -6,7 +6,7 @@ categories: photo
 img: /css/assets/images/posts/third-decade/main.jpg
 permalink: 1985-1994
 tags: 
-- ucsc50th
+- ucsc50
 - 1985-94
 - photos
 - ucsc
