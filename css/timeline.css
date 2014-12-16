@@ -1592,7 +1592,7 @@ height:48px;
 }
 .vco-timeline .vco-navigation .vco-toolbar {
     position:absolute;
-    top:45px;
+    top:5px !important;
     left:0px;
     z-index:202;
     background-color:#f1b521;
@@ -1699,13 +1699,13 @@ height:48px;
     cursor:move;
     top:0px;
     left:0px;
-    height:150px;
+    height:100px;
     width:100%;
     background-color:#e9e9e9;
 }
 .vco-timeline .vco-navigation .timenav-background .timenav-interval-background {
     position:absolute;
-    top:151px;
+    top:101px;
     left:0px;
     background:#F2F0E4;
     width:100%;
@@ -2245,7 +2245,7 @@ height:48px;
 .vco-timeline .vco-navigation .timenav .time {
     position:absolute;
     left:0px;
-    top:150px;
+    top:100px;
     height:50px;
     background-color:#ffffff;
     line-height:0px;
