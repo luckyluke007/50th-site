@@ -31,7 +31,7 @@ Share career insights and plug in to what students are doing. Assist students an
 - ###Smith Renaissance Society
 The Smith Renaissance Society serves the college dreams of independent students who are current or former foster youth, runaways, juvenile offenders, orphans, or homeless youths. This program provides institutional support to independent students, its services extending from academic and emotional advising, to help navigating the university system and to authorizing priority enrollment in courses. Alumni are able to participate in the program as a mentor to a student. For more information [click here](http://smithsociety.ucsc.edu/index.html), or contact [Bill Dickinson](mailto:wcdcamb@aol.com) to learn more.
 
-###Social Media
+##Social Media
 
 <div class="tagboard-embed" tgb-slug="ucscalumni/191639" tgb-auto-load="true"></div>
 <script src="https://tagboard.com/public/js/embed.js"></script>

@@ -7,6 +7,9 @@ UC Santa Cruz 50th anniversary is a unique and powerful time to consider making 
 
 Donor support allows UC Santa Cruz to attract and retain the best students and faculty, enhance academic programs, and support high impact research. With challenges as pressing as climate change and devastating disease, UC Santa Cruz’s educational mission is more critical than ever.
 
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&cid=1722" class="give-btn">GIVE NOW</a>
+<div class="clear"></div>
+
 There are many giving opportunities:
 
 - Help us restore and reopen [The Quarry Amphitheater](http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/), an iconic hub for student intellectual, cultural and social gatherings.

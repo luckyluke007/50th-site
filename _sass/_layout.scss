@@ -85,15 +85,7 @@ hr :after {
         color: $ucsc-white;  
     }
  }
- input {
-    display:block;
-    background: $ucsc-yellow;
-    color: $ucsc-white;
-    padding: .25em;
-    -webkit-appearance: none;
-    @include border-radius (.35em);
-    border: 0;
- }
+ 
  .container {
         display: block;
         @include outer-container;
@@ -596,6 +588,34 @@ section.content {
         margin: 10em 0 0 0; // space skip header //
     }
 }
+input {
+    display:block;
+    background: $ucsc-yellow;
+    color: $ucsc-white;
+    padding: .5em;
+    -webkit-appearance: none;
+    @include border-radius (.35em);
+    border: 0;
+}
+
+a.give-btn, a.give-btn:active {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    background: $ucsc-red;
+    @include border-radius(.35em);
+    border-bottom: 1px solid $ucsc-blue;
+    padding: .35em;
+    text-align: center;
+    text-decoration: none;
+    font-size: $font-size-h4;
+    margin: .35em auto .35em auto;
+    clear: both;
+}
+a.give-btn:hover {
+    background: $ucsc-blue;
+}
+
 .full-size {
     display: block;
     width: 100%;
