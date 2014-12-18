@@ -21,6 +21,7 @@ title: Our Stories
         <div class="clear"></div>
       {% endfor %}
     </ul>
+    <a href="/looking-back.html" style="float:right;"> » See more stories</a>
   </div>
   <!-- END COLUMN ONE -->
 
@@ -40,6 +41,7 @@ title: Our Stories
         <div class="clear"></div>
       {% endfor %}
     </ul>
+    <a href="/looking-forward.html" style="float:right;">» See more stories</a>
   </div>
   <!-- END COLUMN FOUR -->
 
@@ -54,7 +56,7 @@ title: Our Stories
           </h4>
           <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
           <div class="video-image">
-            <a href="{{ post.video }}" class="fancybox-media" data-fancybox-title="{{ post.alt }}">
+            <a href="{{ post.url | prepend: site.baseurl }}" class="fancybox-media" data-fancybox-title="{{ post.alt }}">
               <img src="{% asset_path youtube-btn.svg %}" alt="Play {{ post.alt }}" class="play-btn">
               <img src="{{ post.img }}" alt="{{ post.alt }}">
             </a>
