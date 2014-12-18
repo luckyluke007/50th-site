@@ -6,20 +6,34 @@ permalink: /presskit/
 
 ## Press release
 
-The article on our news site kicking off the celebration of UCSC's 50th year.
+<div class="post-list">
+      {% for post in site.categories.press-release %}
+       
+          <div class="ourstories-content">
+          <h4>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h4>
+          <p>{{ post.excerpt }}</p>
+          </div>
+       
+        <div class="clear"></div>
+      {% endfor %}
+ </div>
+
+***
 
 ## Origin story
 
-###[The birth of UC Santa Cruz: Audacious and academic](/the-birth/)
-{% img full-size /css/assets/images/post/dancing.jpg "Students dancing in the Field House, 1966" "Students dancing in the Field House, 1966" %}
+####[The birth of UC Santa Cruz: Audacious and academic](/the-birth/)
+[{% img full-size /css/assets/images/posts/birth-story/main.jpg "Students dancing in the Field House, 1966" "Students dancing in the Field House, 1966" %}](/the-birth/)
+
+***
 
 ## Photos
 
 A selection of photos from the past 50 years.
 
-## 50 years in a single page
-
-A PDF with all of the information about our 50th anniversary.
+***
 
 ## Upcoming events
 
