@@ -3,22 +3,26 @@ layout: post
 title:  "The birth of UC Santa Cruz: Audacious and academic"
 date:   2014-12-10
 categories: past
-img: /css/assets/images/posts/preparing/main.jpg
-permalink: preparing
+author: Peggy Townsend
+img: /css/assets/images/posts/birth-story/main.jpg
+permalink: the-birth
 tags: 
 - ucsc50
 - ucsantacruz
 - thebirth
 ---
-<div class="caption"> {% img full-size /css/assets/images/post/dancing "Students dancing in the Field House, 1966" "Students dancing in the Field House, 1966" %}Students dancing in the Field House, 1966</div>When Todd Newberry arrived in 1965 to teach biology at the new UC Santa Cruz campus, he stopped at the first important-looking building he saw on High Street. It turned out to be a Congregational Church.
+By Peggy Townsend
+
+<div class="caption"> {% img full-size /css/assets/images/posts/birth-story/dancing.jpg "Students dancing in the Field House, 1966" "Students dancing in the Field House, 1966" %} Students dancing in the Field House, 1966</div>{% include article-sharing.html %}When Todd Newberry arrived in 1965 to teach biology at the new UC Santa Cruz campus, he stopped at the first important-looking building he saw on High Street. It turned out to be a Congregational Church.
 
 He kept driving, crossing a cattle guard and passing a collection of rundown ranch buildings. "I thought: 'This is it? My God,'" Newberry remembered.
 
 That introduction to the UC system's fledgling university may have been a bit unsettling for the newly hired professor but, in a way, it was also symbolic of what UC Santa Cruz was: an unconventional place that pushed against the stodginess of educational institutions, a place where innovation—no matter how messy—was part of the campus's DNA.
 
-It was, as then-UC President Clark Kerr said, "the most significant educational experiment in the history of the University of California."
+<div class="caption"> {% img full-size /css/assets/images/posts/birth-story/todd.jpg "Todd Newberry, professor of biology, founding faculty, in a lab, 1966" "Todd Newberry, professor of biology, founding faculty, in a lab, 1966" %} Todd Newberry, professor of biology, founding faculty, in a lab, 1966</div>It was, as then-UC President Clark Kerr said, "the most significant educational experiment in the history of the University of California."
 
-Rage against the machine
+##Rage against the machine
+
 UC Santa Cruz was born, along with UC Irvine and UC San Diego, as the answer to California's post-war baby boom, which was expected to flood the UC system with 215,000 students by the year 2000—four times the enrollment in 1961.
 
 The campus's location on a scenic sweep of coastal meadow and forest was chosen in March 1961 not only for its staggering beauty but also for its ease of acquisition and the fact its owner, the Cowell Foundation, was willing to donate back a good chunk of the $2 million price tag. The frank and practical Dean McHenry, then UC dean of academic planning, was named chancellor of the new campus a short time later.
@@ -29,11 +33,11 @@ Using Oxford and Cambridge as their models, the two devised a plan for the new c
 
 By the time construction began at Santa Cruz, the Free Speech Movement's Mario Savio had famously called upon the 800 protesters occupying UC Berkeley's Sproul Hall to throw their bodies onto the gears and wheels of the university "machine" and grind it to a halt.
 
-That idea of starting an intimate university free of the heavy bonds of bureaucracy and entrenched thought, along with the beauty of the campus, attracted an impressive list of early faculty who had trained at universities like Harvard, Princeton, Yale, Stanford, and Cambridge.
+<div class="caption"> {% img full-size /css/assets/images/posts/birth-story/holmes.jpg "Mary Holmes, professor of art history, teaching in the East Field House, ca. 1966" "Mary Holmes, professor of art history, teaching in the East Field House, ca. 1966" %} Mary Holmes, professor of art history, teaching in the East Field House, ca. 1966</div>That idea of starting an intimate university free of the heavy bonds of bureaucracy and entrenched thought, along with the beauty of the campus, attracted an impressive list of early faculty who had trained at universities like Harvard, Princeton, Yale, Stanford, and Cambridge.
 
 "I was teaching at the University of Connecticut," said John Dizikes, a Harvard-educated professor of history who arrived at UC Santa Cruz for its inaugural year. "Several friends said, "For God's sake, don't go there, you'll end up doing the plumbing." Of course they were right, but what they didn't realize was that it was incredibly exciting to start a place where we were relatively free to do new things."
 
-Among Chancellor McHenry's most important hires were two men who would help set the tone for UC's grand and, what some called "eccentric," venture. Byron Stookey Jr., a quiet and gangly Harvard graduate, was named director of academic planning, and a respected, horseback-riding historian named Page Smith was appointed as Cowell College's first provost.
+<div class="caption"> {% img full-size /css/assets/images/posts/birth-story/smith-page.jpg "Historian Page Smith, Cowell College's first provost, with students in 1966" "Historian Page Smith, Cowell College's first provost, with students in 1966" %} Historian Page Smith, Cowell College's first provost, with students in 1966</div>Among Chancellor McHenry's most important hires were two men who would help set the tone for UC's grand and, what some called "eccentric," venture. Byron Stookey Jr., a quiet and gangly Harvard graduate, was named director of academic planning, and a respected, horseback-riding historian named Page Smith was appointed as Cowell College's first provost.
 
 Together, Stookey and Smith pressed to build a daring intellectual community where learning would become fun and exciting again, where boundaries would be pushed, and what they called "orderly disorder" would rule.
 
@@ -41,8 +45,9 @@ Or as Stookey said: "In order to foster student initiative and individualism, we
 
 Before classes even began in October 1965, Smith raised the first flag of independence by persuading the new faculty to toss out letter grades in favor of a pass/fail system.
 
-A scruffy utopia
-UC Santa Cruz's first 652 students were class presidents, high school newspaper editors, award winners, and valedictorians. Students, the majority of them white, arrived in button-down shirts and pleated skirts having finished a heavy list of required readings: James Joyce's A Portrait of the Artist as a Young Man, Oscar Lewis's The Children of Sanchez, and Friedrich Nietzsche's On the Genealogy of Morals.
+##A scruffy utopia
+
+<div class="caption"> {% img full-size /css/assets/images/posts/birth-story/trailer.jpg "Pioneer class members in the Anarchy Hall trailer, 1966" "Pioneer class members in the Anarchy Hall trailer, 1966" %} Pioneer class members in the Anarchy Hall trailer, 1966</div>UC Santa Cruz's first 652 students were class presidents, high school newspaper editors, award winners, and valedictorians. Students, the majority of them white, arrived in button-down shirts and pleated skirts having finished a heavy list of required readings: James Joyce's A Portrait of the Artist as a Young Man, Oscar Lewis's The Children of Sanchez, and Friedrich Nietzsche's On the Genealogy of Morals.
 
 But instead of hallowed halls, what they found were piles of lumber, three buildings that still carried the aroma of putty and paint, and wagon-wheel clusters of 40-foot trailers that would serve as dorm rooms. Cost overruns had delayed construction of the first college, Cowell.
 
@@ -84,8 +89,9 @@ During that first year, a date might turn out to be a Holmes lecture on Mesopota
 
 The course would prove problematic, however, when a full fifth of the class failed the final exam. After an opportunity to re-take the test, 27 letters of dismissal were sent out and administrators got busy redesigning the course.
 
-Audacious and academic
-By 1967, Cowell, Stevenson, and Crown colleges had been completed, and the vision of a campus governed by flexibility and experimentation was in full swing. Although at least one student likened the campus to a headless horseman without any kind of obvious direction, most thrived under the system. And, without the burden of grades, students said they felt free to sample new subjects and pursue their passions.
+##Audacious and academic
+
+<div class="caption"> {% img full-size /css/assets/images/posts/birth-story/reynolds-jock.jpg "Pioneer class member Jock Reynolds playing baseball, 1966 (photos courtesy of UC Santa Cruz Special Collections)" "Pioneer class member Jock Reynolds playing baseball, 1966 (photos courtesy of UC Santa Cruz Special Collections)" %} Pioneer class member Jock Reynolds playing baseball, 1966 (photos courtesy of UC Santa Cruz Special Collections)</div>By 1967, Cowell, Stevenson, and Crown colleges had been completed, and the vision of a campus governed by flexibility and experimentation was in full swing. Although at least one student likened the campus to a headless horseman without any kind of obvious direction, most thrived under the system. And, without the burden of grades, students said they felt free to sample new subjects and pursue their passions.
 
 "Because there was so little emphasis on grades, so little emphasis on careers, I think it really opened up people to the possibilities," said Thiermann, whose first taste of photography at UC Santa Cruz would lead him to a career as a filmmaker.
 
@@ -103,7 +109,7 @@ Newberry, already a popular teacher, sent his introductory biology class on a bi
 
 The academic also mixed with the audacious.
 
-One year, four preceptors covered every inch of an empty room underneath the Cowell dining hall with supermarket posters advertising fruits and vegetables. They dubbed it "The Fruit Room" and invited the entire college to a party there—a combination art installation and "happening." A series of sculpture based on poses from the Kama Sutra appeared unannounced on the hills of campus. A human chess game saw Art Professor Holmes riding up on a horse dressed as the red queen, while History Professor Jasper Rose once led the entire World Civilization class in a performance of Handel's Messiah.
+<div class="caption"> {% img full-size /css/assets/images/posts/birth-story/chessgame.jpg "Cowell College human chess game, 1967" "Cowell College human chess game, 1967" %} Cowell College human chess game, 1967</div>One year, four preceptors covered every inch of an empty room underneath the Cowell dining hall with supermarket posters advertising fruits and vegetables. They dubbed it "The Fruit Room" and invited the entire college to a party there—a combination art installation and "happening." A series of sculpture based on poses from the Kama Sutra appeared unannounced on the hills of campus. A human chess game saw Art Professor Holmes riding up on a horse dressed as the red queen, while History Professor Jasper Rose once led the entire World Civilization class in a performance of Handel's Messiah.
 
 Culture Festivals at Cowell College featured Greek costumes, a dramatic reading of Fyodor Dostoyevsky's The Grand Inquisitor, and screenings of the movie Oedipus Rex.
 
@@ -117,7 +123,8 @@ A talented athlete, Reynolds had planned to be a marine biologist—until he too
 
 Reynolds would go on to become a notable artist and director of the Yale University Art Gallery, and, by 1968, UC Santa Cruz had more applicants per opening than any other UC campus, including Berkeley and UCLA.
 
-Times are a changin'
+##Times are a changin'
+
 The Vietnam War, the Civil Rights movement, and the sexual revolution were reshaping not only the political landscape of the late '60s but also American culture.
 
 Martin Luther King Jr. and Robert Kennedy had been assassinated. The anti-war movement was growing. Hair was getting longer and skirts were getting shorter. Some 6.5 million American women were on the pill.

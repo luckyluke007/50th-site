@@ -4,7 +4,7 @@ title:  "UC Santa Cruz leads UC effort to study effects of climate change on eco
 date:   2014-12-10
 categories: forward
 img: /css/assets/images/posts/climate-change/main.jpg
-arthur: By Tim Stephens
+arthor: By Tim Stephens
 permalink: climate-change
 tags: 
 - ucsc50

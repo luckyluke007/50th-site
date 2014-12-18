@@ -5,7 +5,7 @@ date:   2012-10-11
 categories: next
 permalink: next-50
 tags: 
-- ucsc50th
+- ucsc50
 - next50
 ---
 Breakthroughs aren’t achieved by adhering to the status quo. And for 50 years, UC Santa Cruz has been blazing a trail of bold, progressive, fearless inquiry that benefits both the individual and the planet.

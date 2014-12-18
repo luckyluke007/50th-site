@@ -10,7 +10,8 @@ The article on our news site kicking off the celebration of UCSC's 50th year.
 
 ## Origin story
 
-The story of our birth.
+###[The birth of UC Santa Cruz: Audacious and academic](/the-birth/)
+{% img full-size /css/assets/images/post/dancing.jpg "Students dancing in the Field House, 1966" "Students dancing in the Field House, 1966" %}
 
 ## Photos
 

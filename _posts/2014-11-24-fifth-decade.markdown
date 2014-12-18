@@ -11,12 +11,13 @@ tags:
 - photos
 - ucsc
 ---
+##UC Santa Cruz astronomer Sandra Faber — The National Medal of Science
+{% img full-size /css/assets/images/posts/fifth-decade/2013-obama-faber.jpg "UC Santa Cruz astronomer Sandra Faber — The National Medal of Science" "Sandra Faber and Barrack Obama" %}
+2013: President Barack Obama presented UC Santa Cruz astronomer Sandra Faber with the National Medal of Science in a White House ceremony in February.
 
-##In Harlem of the West: The San Francisco Fillmore Jazz Era
-{% img full-size /css/assets/images/posts/fifth-decade/2006-jazz-detective.jpg "In Harlem of the West: The San Francisco Fillmore Jazz Era" "Lewis Watts" %}
-2006: Long before San Francisco's Fillmore District attracted bands like the Grateful Dead and Jefferson Airplane, it was home in the 1940s and '50s to a booming jazz scene with clubs and virtuoso players.
+Faber, a University Professor of astronomy and astrophysics at UCSC, was honored along with 11 other recipients of the National Medal of Science and 11 recipients of the National Medal of Technology and Innovation. These are the highest honors bestowed by the U.S. government upon scientists, engineers, and inventors. Chancellor George Blumenthal accompanied Faber to the ceremony.
 
-In Harlem of the West: The San Francisco Fillmore Jazz Era, the acclaimed book he coauthored, UC Santa Cruz professor of art Lewis Watts unearthed the community’s glorious past.
+(Photo: Ryan Morris/National Science & Technology Medals Foundation)
 
 ***
 
@@ -38,20 +39,4 @@ In August 2009, UC Santa Cruz is one of 25 campuses profiled in the cover story 
 
 (Photo: Carolyn Lagattuta)
 
-***
 
-##Newsweek Ranking
-{% img full-size /css/assets/images/posts/fifth-decade/2009-newsweek-ranking.jpg "Newsweek Ranking" "The iconic Porter Wave" %}
-In August 2009, UC Santa Cruz is one of 25 campuses profiled in the cover story of Newsweek magazine's fall special issue on U.S. colleges. The article describes UCSC as the place to go for "Overachievers Who Need to Stop and Look Around." This photo, of the iconic Porter Wave sculpture, is featured in the UCSC story.
-
-(Photo: Carolyn Lagattuta)
-
-***
-
-##UC Santa Cruz astronomer Sandra Faber — The National Medal of Science
-{% img full-size /css/assets/images/posts/fifth-decade/2013-obama-faber.jpg "UC Santa Cruz astronomer Sandra Faber — The National Medal of Science" "Sandra Faber and Barrack Obama" %}
-2013: President Barack Obama presented UC Santa Cruz astronomer Sandra Faber with the National Medal of Science in a White House ceremony in February.
-
-Faber, a University Professor of astronomy and astrophysics at UCSC, was honored along with 11 other recipients of the National Medal of Science and 11 recipients of the National Medal of Technology and Innovation. These are the highest honors bestowed by the U.S. government upon scientists, engineers, and inventors. Chancellor George Blumenthal accompanied Faber to the ceremony.
-
-(Photo: Ryan Morris/National Science & Technology Medals Foundation)
