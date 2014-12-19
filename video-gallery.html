@@ -1,0 +1,27 @@
+---
+layout: default
+title: Video Gallery
+---
+{% include fancybox.html %}
+<h1>{{ page.title }}</h1>
+   <div class="left-column">
+    
+    <ul class="post-list">
+      {% for post in site.categories.videos %}
+        <li>
+          <!--<span class="post-meta event-date">{{ post.nodate }}</span>-->
+          <div class="ourstories-content">
+          <h3>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h3>
+          {{ post.content }}
+        </div>
+        </li>
+        <div class="clear"></div>
+      {% endfor %}
+    </ul>
+    {% include social-sharing.html %}
+  </div>
+ <div class="right-column">
+  {% include post-sidebar.html %}
+ </div>

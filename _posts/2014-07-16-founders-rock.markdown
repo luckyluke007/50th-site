@@ -15,3 +15,5 @@ tags:
 
 
 <iframe src="//www.youtube.com/embed/0LfakJersWE" class="iframe-youtube" frameborder="0" allowfullscreen></iframe>
+
+A commerative slideshow to celebrate 50 years of innovative and original thinking at UC Santa Cruz

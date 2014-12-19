@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "50 Years Young"
+date:   2015-01-01
+categories: videos
+img: /css/assets/images/posts/50-years-young/main.jpg
+alt: The Spirit of UCSC - Video
+nextvideo: https://www.youtube.com/embed/Jt8pgr52iQY
+permalink: 50-years-young
+tags: 
+- ucsc50
+- 50yearsyoung
+- ucsantacruz
+---
+
+<iframe src="//www.youtube.com/embed/Jt8pgr52iQY" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
+
+For 50 years UC Santa Cruz has been blazing a trail of bold, progressive inquiry. Never afraid to be different, always proud to be an original. Join us as we celebrate these 50 amazing years and get ready for the next. Let's get the party started—turn it up!
