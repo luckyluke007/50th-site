@@ -15,6 +15,7 @@ For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquir
 ####Study led by UC Santa Cruz postdoc indicates some supernovae would leave no remnant black hole behind
 
 September 29, 2014
+
 By Linda Vu
 
 Massive primordial stars, between 55,000 and 56,000 times the mass of our Sun, may have died unusually. In death, these objects—among the universe’s first generation of stars—would have exploded as supernovae and burned completely, leaving no remnant black hole behind.
