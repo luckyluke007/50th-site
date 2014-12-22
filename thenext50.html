@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Our Stories
+title: The Next 50
 ---
 {% include fancybox.html %}
 <!-- LEFT COLUMN -->
 <div class="left-half">
   <h1>The Next 50</h1>
   <ul class="post-list">
-      {% for post in site.categories.next limit:4 %}
+      {% for post in site.categories.next %}
       {{ post.content }}
       {% endfor %}
     </ul>
