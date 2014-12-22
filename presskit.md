@@ -33,17 +33,17 @@ permalink: /presskit/
 
 A selection of photos from the past 50 years.
 
-###[Pre Campus Photo](/press-photos/index.html)
+####[View Pre Campus Photo](/press-photos/index.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-pre-campus.zip)
 
-###[1965-1974](/press-photos/1965-1974.html)
+####[View 1965-1974 photos](/press-photos/1965-1974.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-1965-74.zip)
 
-###[1975-1984](/press-photos/1975-1984.html)
+####4[View 1975-1984 photos](/press-photos/1975-1984.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-1975-84.zip)
 
-###[1985-1994](/press-photos/1985-1994.html)
+####[View 1985-1994 photos](/press-photos/1985-1994.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-1985-94.zip)
 
-###[1995-2004](/press-photos/1995-2004.html)
+####[View 1995-2004 photos](/press-photos/1995-2004.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-1995-04.zip)
 
-###[2005-2015](/press-photos/2005-2015.html)
+####[View 2005-2014 photos](/press-photos/2005-2014.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-2005-14.zip)
 
 
 ***
