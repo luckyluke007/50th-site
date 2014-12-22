@@ -1,6 +1,7 @@
 ---
 layout: default-black
 title: Who says
+img: /css/assets/images/whosays/star.jpg
 permalink: /whosays/
 ---
 
@@ -20,7 +21,7 @@ By Linda Vu
 
 Massive primordial stars, between 55,000 and 56,000 times the mass of our Sun, may have died unusually. In death, these objects—among the universe’s first generation of stars—would have exploded as supernovae and burned completely, leaving no remnant black hole behind.
 
-Astrophysicists at the UC Santa Cruz and the University of Minnesota came to this conclusion after running a number of supercomputer simulations at the Department of Energy’s (DOE) [National Energy Research Scientific Computing Center (NERSC)](http://www.nersc.gov) and [Minnesota Supercomputing Institute](https://www.msi.umn.edu). They relied extensively on CASTRO, a compressible astrophysics code developed at the DOE’s [Lawrence Berkeley National Laboratory’s (Berkeley Lab’s) Computational Research Division (CRD)](http://crd.lbl.gov). Their findings were recently published in the [Astrophysical Journal (ApJ)](http://iopscience.iop.org/0004-637X/790/2/162).
+{% include article-sharing.html %}Astrophysicists at the UC Santa Cruz and the University of Minnesota came to this conclusion after running a number of supercomputer simulations at the Department of Energy’s (DOE) [National Energy Research Scientific Computing Center (NERSC)](http://www.nersc.gov) and [Minnesota Supercomputing Institute](https://www.msi.umn.edu). They relied extensively on CASTRO, a compressible astrophysics code developed at the DOE’s [Lawrence Berkeley National Laboratory’s (Berkeley Lab’s) Computational Research Division (CRD)](http://crd.lbl.gov). Their findings were recently published in the [Astrophysical Journal (ApJ)](http://iopscience.iop.org/0004-637X/790/2/162).
 
 First-generation stars are especially interesting because they produced the first heavy elements (chemical elements other than hydrogen and helium). In death, they sent their chemical creations into space, paving the way for subsequent generations of stars, solar systems and galaxies. With a greater understanding of how these first stars died, scientists hope to glean some insights about how the universe as we know it came to be. 
 
