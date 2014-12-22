@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Campus Coordinating Committee
-permalink: /committees/campus-committee.html
+permalink: /committees/campus.html
 ---
 The Campus Coordinating Committee will set the framework and broad guidelines for the official 50th Anniversary commemoration.
 
