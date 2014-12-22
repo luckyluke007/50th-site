@@ -88,7 +88,21 @@ hr :after {
         color: $ucsc-white;  
     }
  }
- 
+ a.btn, a.btn:active {
+    display: block;
+    @include span-columns(5);
+    background: $ucsc-yellow;
+    color: $ucsc-white;
+    @include border-radius(.35em);
+    border-bottom: 1px solid $ucsc-blue;
+    padding: .35em;
+    margin: .50em .50em .50em 0;
+    text-align: center;
+    text-decoration: none;
+ }
+ a.btn:hover {
+    background: $ucsc-blue;
+ }
  .container {
         display: block;
         @include outer-container;

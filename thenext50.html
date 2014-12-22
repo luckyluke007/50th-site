@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Our Stories
+title: The Next 50
 ---
 {% include fancybox.html %}
 <!-- LEFT COLUMN -->
 <div class="left-half">
   <h1>The Next 50</h1>
   <ul class="post-list">
-      {% for post in site.categories.next limit:4 %}
+      {% for post in site.categories.next limit:1 %}
       {{ post.content }}
       {% endfor %}
     </ul>
@@ -34,7 +34,5 @@ title: Our Stories
         </li>
       {% endfor %}
     </ul>
-    <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=761&cid=1722" class="give-btn">GIVE NOW</a>
-    <div class="clear"></div>
   </div>
   <!-- END COLUMN TWO -->
