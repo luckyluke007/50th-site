@@ -33,6 +33,19 @@ permalink: /presskit/
 
 A selection of photos from the past 50 years.
 
+###[Pre Campus Photo](/press-photos/index.html)
+
+###[1965-1974](/press-photos/1965-1974.html)
+
+###[1975-1984](/press-photos/1975-1984.html)
+
+###[1985-1994](/press-photos/1985-1994.html)
+
+###[1995-2004](/press-photos/1995-2004.html)
+
+###[2005-2015](/press-photos/2005-2015.html)
+
+
 ***
 
 ## Upcoming events
