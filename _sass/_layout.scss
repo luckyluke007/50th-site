@@ -73,19 +73,19 @@ hr :after {
  form {
     width: auto;
     ::-webkit-input-placeholder {
-        color: $ucsc-white;
+        color: $ucsc-blue;
     }
 
     :-moz-placeholder { /* Firefox 18- */
-        color: $ucsc-white;  
+        color: $ucsc-blue;  
     }
 
     ::-moz-placeholder {  /* Firefox 19+ */
-        color: $ucsc-white;  
+        color: $ucsc-blue;  
     }
 
     :-ms-input-placeholder {  
-        color: $ucsc-white;  
+        color: $ucsc-blue;  
     }
  }
  
@@ -208,24 +208,24 @@ a.btn:hover {
                     display: block;
                     padding: 4px;
                     margin: 1em 0 0 1em;
-                    color: $ucsc-white;
-                    background-color: $ucsc-yellow;
+                    color: $ucsc-blue;
+                    background-color: $ucsc-white;
                     -webkit-appearance: none;
                 }
                 ::-webkit-input-placeholder {
-                    color: $ucsc-white;
+                    color: $ucsc-blue;
                 }
 
                 :-moz-placeholder { /* Firefox 18- */
-                    color: $ucsc-white;  
+                    color: $ucsc-blue;  
                 }
 
                 ::-moz-placeholder {  /* Firefox 19+ */
-                    color: $ucsc-white;  
+                    color: $ucsc-blue;  
                 }
 
                 :-ms-input-placeholder {  
-                    color: $ucsc-white;  
+                    color: $ucsc-blue;  
                 }
                 @include media ($tablet-max){
                         float: right;
@@ -648,8 +648,8 @@ section.content {
 
 input {
     display:block;
-    background: $ucsc-yellow;
-    color: $ucsc-white;
+    background: $ucsc-white;
+    color: $ucsc-blue;
     padding: .5em;
     -webkit-appearance: none;
     @include border-radius (.35em);
