@@ -11,7 +11,7 @@ Whether you are near or far you can still join the fun and be an active part of 
 
 ###50 for 50
 
-	Volunteer 50 hours of service in your community and give a  gift that truly matters. Help us celebrate a meaningful milestone in a meaningful way—in a true UC Santa Cruz way. [Get involved](http://50for50.ucsc.edu)
+Volunteer 50 hours of service in your community and give a  gift that truly matters. Help us celebrate a meaningful milestone in a meaningful way—in a true UC Santa Cruz way. [Get involved](http://50for50.ucsc.edu)
 
 ###Banana Slugs near you
  In locations around the country, UC Santa Cruz alumni and friends get together to enjoy each other's company, network, and participate in events and activities. You can volunteer to help plan events in your area, or just join the fun! [More information](http://alumni.ucsc.edu/volunteer/volunteer_opportunities/regionalevents/index.html)
