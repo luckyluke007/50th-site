@@ -18,7 +18,7 @@ max_age:
   "public/*": 6000
   "*": 300
 
-s3_endpoint: us-west-2
+s3_endpoint: us-east-1
 s3_reduced_redundancy: true
 
 concurrency_level: 100
