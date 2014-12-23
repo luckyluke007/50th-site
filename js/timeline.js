@@ -5901,9 +5901,9 @@ if (typeof VMM.Slider != 'undefined') {
             buildSlide();
             
             // 12/21/12 rt: Assign appropriate colors to slide-tags
-            $("span.slide-tag:contains('UCSC EVENTS & MILESTONES')").addClass('world_color');
+            $("span.slide-tag:contains('UCSC EVENTS & MILESTONES')").addClass('ucsc_color');
             $("span.slide-tag:contains('WORLD EVENTS')").addClass('user_color');
-            $("span.slide-tag:contains('YOUR UCSC HISTORY')").addClass('ucsc_color');
+            $("span.slide-tag:contains('YOUR UCSC HISTORY')").addClass('world_color');
             
             clearTimeout(timer.pushque);
             clearTimeout(timer.render);
