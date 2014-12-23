@@ -9,7 +9,9 @@ permalink: /whosays/
 
 For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. No university in the world has a faculty research citation rate higher than ours.
 
-{% img full-size /css/assets/images/whosays/star.jpg "Sun Image" "Sun Image" %}
+{% img half-size /css/assets/images/whosays/star.jpg "Sun Image" "Sun Image" %}
+
+***
 
 ##Simulations reveal unusual death for ancient stars
 

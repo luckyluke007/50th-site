@@ -33,7 +33,8 @@
     }
  }
  h2 {
-    font-size: $font-size-h2
+    font-size: $font-size-h2;
+    line-height: 30px;
  }
  h3 {
     font-size: $font-size-h3
@@ -677,6 +678,12 @@ a.give-btn:hover {
 .full-size {
     display: block;
     width: 100%;
+}
+
+.half-size {
+    display: block;
+    width: 50%;
+    float: right;
 }
 // EVENTS//
 .event-type-host {
