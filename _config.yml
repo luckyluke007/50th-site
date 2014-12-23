@@ -1,7 +1,7 @@
 # Site settings
-title: UC Santa Cruz 50th Anniversary
+title: UC Santa Cruz celebrates 50 years
 email: pio@ucsc.edu
-description: UC Santa Cruz 50th Anniversary - Events Information | News | Photo Galleries | Timeline
+description: UC Santa Cruz celebrates 50 years - Events Information | News | Photo Galleries | Timeline
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://50years.ucsc.edu" # the base hostname & protocol for your site
 
