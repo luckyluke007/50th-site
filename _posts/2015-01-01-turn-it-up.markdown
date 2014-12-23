@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "50 Years Young"
+title:  "UC Santa Cruz: 50 Years Young"
 date:   2015-01-01
 categories: videos
 img: /css/assets/images/posts/50-years-young/main.jpg
@@ -15,7 +15,7 @@ tags:
 
 ###UC Santa Cruz has never been afraid to be different, always proud to be an original. And with the 50th anniversary in 2015, there's never been a better time to come together. Join us as we celebrate these amazing 50 years. Let’s get the party started—turn it up!
 
-<iframe src="//www.youtube.com/embed/Jt8pgr52iQY" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
+<iframe src="//player.vimeo.com/video/114791145" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="iframe-youtube"></iframe>
 
 <h3 style="color:#f8c325;">Save the date: April 23-26, 2015—Alumni Weekend 2015 is going to be epic.</h3>
 
