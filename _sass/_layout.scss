@@ -91,7 +91,6 @@ hr :after {
  
  a.btn, a.btn:active {
     display: block;
-    @include span-columns(5);
     background: $ucsc-yellow;
     border-bottom: 1px solid $ucsc-blue;
     color: $ucsc-white;
@@ -100,6 +99,13 @@ hr :after {
     margin: .50em 0 .50em 0;
     text-align: center;
     text-decoration: none;
+    clear: both;
+    @include media($tablet) {
+        @include span-columns(12);
+    }
+    @include media($desktop) {
+        @include span-columns(4);
+    }
  }
 a.btn:hover {
     background: $ucsc-blue;
@@ -606,6 +612,40 @@ section.content {
         margin: 10em 0 0 0; // space skip header //
     }
 }
+.timeline {
+    @include span-columns(12);
+    display: block;
+    
+    .yourevent {
+    display: block;
+    margin: -.65em 0 0 .35em;
+        span {
+        display: block;
+        padding: .75em 0 0 0;
+        }
+    @include media($desktop){
+        @include span-columns(12);
+        text-align: center;
+        }
+    @include media($desktop){
+        @include span-columns(9);
+        text-align: left;
+        }
+    }
+    
+    h1 {
+    display: block;
+    
+    text-align: left;
+    @include media ($tablet) {
+        @include span-columns(12);
+        }
+    @include media ($desktop) {
+        @include span-columns(2);
+        }
+    }
+}
+
 input {
     display:block;
     background: $ucsc-yellow;
