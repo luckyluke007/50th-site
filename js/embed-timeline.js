@@ -3,7 +3,7 @@ var timeline_config = {
  height: "100%",
  start_at_slide:   '0',  //OPTIONAL START AT SPECIFIC SLIDE
  start_zoom_adjust: '1',
- source: 'https://docs.google.com/spreadsheet/pub?key=0Anlb3LlNjL9HdHZxcnFFWkFZT2Ztam9Zbmd0RkR5dnc&output=html',
+ source: 'https://docs.google.com/spreadsheet/pub?key=0Anlb3LlNjL9HdGRoRjRxMkkza1lfa3pTSVpTaTE4RXc&output=html',
  css:   '../css/timeline.css',		//OPTIONAL PATH TO CSS
  js: 	'../js/timeline.js'	//OPTIONAL
 }
