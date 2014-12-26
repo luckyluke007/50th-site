@@ -8,7 +8,7 @@ tags:
 - ucsc50
 - next50
 ---
-Breakthroughs aren’t achieved by adhering to the status quo. And for 50 years, UC Santa Cruz has been blazing a trail of bold, progressive, fearless inquiry.  We aren’t stopping now.
+Breakthroughs aren’t achieved by adhering to the status quo. And for 50 years, UC Santa Cruz has been blazing a trail of bold, progressive, fearless inquiry. We aren’t stopping now.
 
 The [Campaign for UC Santa Cruz](http://campaign.ucsc.edu) is a campus-wide fundraising effort to carry on our legacy by building resources for the future. It supports our students, faculty, programs, and facilities.
 
@@ -29,4 +29,3 @@ We invite your investment in our students, faculty, and programs as we create th
 [CAMPAIGN FOR UC SANTA CRUZ](http://campaign.ucsc.edu/)
 
 [GIVING PRIORITIES](http://campaign.ucsc.edu/giving/opportunities/)
-
