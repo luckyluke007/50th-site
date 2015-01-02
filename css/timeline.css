@@ -198,7 +198,7 @@ padding:0;
     width: 100%;
     font-size: 11px;
     margin: 0 0 5px 0;
-    color: #999;
+    color: #FFF;
 }
 .vco-slider .slider-item .content .content-container .text .container .related-link:before {
     content:"Related Link: ";
@@ -209,7 +209,7 @@ padding:0;
     display: block;
     width: 100%;
     font-size: 11px;
-    color: #999;
+    color: #FFF;
 }
 
 .vco-slider .slider-item .content .content-container .text .container .posted-by:before {
@@ -221,7 +221,7 @@ padding:0;
     display: block;
     font-size: 11px;
     width: 100%;
-    color: #999;
+    color: #FFF;
     font-weight:normal;
     margin: 15px 0 0 0;
     border-top: 1px solid #ccc;
@@ -1316,11 +1316,11 @@ overflow:hidden;
     /*border:1px solid #999999;*/
 }
 .vco-storyjs a {
-    color:#fff;
+    color:#f8c325;
     text-decoration:none;
 }
 .vco-storyjs a:hover {
-    color:#f8c325;
+    color:#ffffff;
     text-decoration:underline;
 }
 .vco-storyjs .vcard {
