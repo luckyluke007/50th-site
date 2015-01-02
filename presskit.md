@@ -4,7 +4,7 @@ title: Press Kit
 permalink: /presskit/
 ---
 
-## Press release
+## News release
 
 <div class="post-list">
       {% for post in site.categories.press-release %}
@@ -22,9 +22,7 @@ permalink: /presskit/
 
 ***
 
-## Origin story
-
-####[The birth of UC Santa Cruz: Audacious and academic](/the-birth/)
+##[The birth of UC Santa Cruz: Audacious and academic](/the-birth/)
 [{% img full-size /css/assets/images/posts/birth-story/main.jpg "Students dancing in the Field House, 1966" "Students dancing in the Field House, 1966" %}](/the-birth/)
 
 ***
@@ -37,7 +35,7 @@ A selection of photos from the past 50 years.
 
 ####[View 1965-1974 photos](/press-photos/1965-1974.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-1965-74.zip)
 
-####4[View 1975-1984 photos](/press-photos/1975-1984.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-1975-84.zip)
+####[View 1975-1984 photos](/press-photos/1975-1984.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-1975-84.zip)
 
 ####[View 1985-1994 photos](/press-photos/1985-1994.html) | [Download high-res photo](/css/assets/images/uc-santa-cruz-1985-94.zip)
 

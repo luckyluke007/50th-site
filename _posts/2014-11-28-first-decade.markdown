@@ -11,7 +11,6 @@ tags:
 - photos
 - 1965-74
 ---
-
 ##Pioneer Faculty
 {% img full-size /css/assets/images/posts/first-decade/1965-pioneer-faculty.jpg "Pioneer Faculty" "Pioneer Faculty" %}
 1965-66: One of the most iconic photos taken in UC Santa Cruz's 50 years is this one, of the founders of Cowell College, taken in the first year.
@@ -24,7 +23,7 @@ Third row, l-r: Marshall Sylvan, Ronald Larsen, Carl Morris, John Dizikes, Leon
 
 Last row, l-r: Richard Mather, Karl Lamb, Glenn Willson, Betsy Avery, Provost Page Smith, Maurice Natanson, Siegfried Puknat, Elizabeth Puknat, and Gabriel Berns.
 
-Not pictured is: …
+Not pictured, G. William Domhoff
 
 ***
 
