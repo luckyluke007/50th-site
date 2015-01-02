@@ -16,11 +16,11 @@ The Campus Coordinating Committee will set the framework and broad guidelines fo
 * Beth Remak-Honnef, Head of Special Collections and Archives, McHenry Library
 * Meg Corman, Special Assistant to the Chancellor and Vice Chancellor of University Relations
 * Lisa Nielsen, Director of Marketing and Communications
-* Fiona Weigant, Executive Assistant to the Vice Chancellor for Research
+* Fiona Weigant, Department Manager, Education Department 
 * Autumn Johnson, Student of Sociology and Politics Major, 2015
 * Haakon Williams, Student of Sociology and Psychology Major, 2015
-* Jeff Shilling, Interim Vice Chancellor of University Relations
-* Jim Burns, Director of Public Affairs
+* Jeff Shilling, Associate Vice Chancellor for Development
+* Jim Burns, Retired, Director of Public Affairs
 * Howard Heevner, Assistant Vice Chancellor for Constituent Engagement
 * Shayna Kent, Director of Reunion and Student Philanthropy
 * Almut Wolf, Special Projects Assistant
