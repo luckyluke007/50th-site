@@ -887,15 +887,15 @@ a.give-btn:hover {
     background: $ucsc-blue;
     @include media ($mobile){
         height: 100%;
-        background: $ucsc-light-blue;
+        background: none;
     }
     @include media ($portrait){
         height: 100%;
-        background: $ucsc-light-blue;
+        background: none;
     }
     @include media ($tablet){
         height: 100%;
-        background: $ucsc-light-blue;
+        background: none;
     }
     @include media ($desktop){
         height:85%;
@@ -907,10 +907,12 @@ a.give-btn:hover {
     position:absolute;
 }
 #big-video-image {
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-opacity: .5;
+    //background-size: cover;
+    //-webkit-background-size: cover;
+    //-moz-background-size: cover;
+    //background-opacity: .5;
+    width: 100%;
+    left:0;
 }
 #big-video-control-container{
     position:fixed;

@@ -92,9 +92,9 @@
 					$('#big-video-image')
 						.css({
 							width: 'auto',
-							height: containerH,
+							height: '100%', //containerH
 							top:0,
-							left:-(containerH*mediaAspect-containerW)/2
+							left: 0//-(containerH*mediaAspect-containerW)/2
 						});
 				}
 			} else {
