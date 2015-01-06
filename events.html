@@ -44,7 +44,7 @@ title: Events
         </h2>        
         <p>
         <span class="event-location">{{ event.event.location }}</span>
-        <span class="event-teaser">{{ event.event.teaser }}</span>
+        <span class="event-teaser">{{ event.event.teaser | strip_html | truncatewords:40 }}</span>
         </p>
         </div>
       </li>
