@@ -7,6 +7,7 @@ permalink: kick-off/photos.html
 <div class="more-info">
 <a href="index.html">Dress Like It's 1965</a> | <a href="about-tiffany.html">About Tiffany White Stanton</a> | <a href="tips.html">Tips from Tiffany</a> | <a href="photos.html">1965 campus photos</a>
 </div>
+<div class="clear"></div>
 
 {% img full-size /css/assets/images/kick-off/ucsc_1965_class.jpg "French Exam" "French Exam" %}
 French Exam
