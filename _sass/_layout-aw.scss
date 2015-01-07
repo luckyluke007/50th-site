@@ -323,7 +323,7 @@ a.btn:hover {
                 background: $ucsc-yellow;
                 font-size: $font-size-h3;
                 text-align: center;
-                padding: 10px 0;
+                padding: 5px 0;
                 display: none;
             }
 
@@ -353,10 +353,11 @@ a.btn:hover {
                 /*Make all menu links full width*/
                 ul li, li a {
                     width: 100%;
-                    @include background-opacity ($ucsc-white, 1);
                     padding: .25em;
                     text-align: center;
                     color: $ucsc-blue;
+                    background: $ucsc-light-yellow;
+                    @include background-opacity ($ucsc-light-yellow, .3);
                 }
                 ul li, li a:hover {
                     color: $ucsc-red;
@@ -539,7 +540,7 @@ section.content {
         // END TWO COLUMNS //
         .single-column {
             display: block;
-            padding: .5em;
+            padding: .5em .5em .5em 0;
             @include span-columns(12);
         }
         //END SINGLE COLUMN
@@ -1078,12 +1079,10 @@ video {
 }
 
 .footer-container {
-    border-top: 1px solid $ucsc-blue;
+    border-top: 1px solid $ucsc-light-blue;
     @include outer-container;
     margin: 2em auto 0 auto;
     text-align: left;
-    background-color: $ucsc-light-blue;
-    @include border-radius (0.313em);
     .col-one, .col-two, .col-three {
         display: block;
         padding: .75em .5em .75em .5em;
