@@ -7,7 +7,7 @@
     height: 100%;
  }
  a, a:active {
-    color: $ucsc-yellow;
+    color: $ucsc-light-yellow;
     text-decoration: none;
     &:hover {
     text-decoration: underline;
@@ -21,7 +21,7 @@
  h1 {
     font-size: $font-size-h1;
     line-height: 1em;
-    padding: 0 .25em 0 .25em;
+    padding: 0 .25em 0 0;
     @include media ($tablet){
         margin: .25em 0 .25em 0;
     }
@@ -108,7 +108,7 @@ hr :after {
 a.btn:hover {
     background: $ucsc-blue;
 }
- .container {
+.container {
         display: block;
         @include outer-container;
 }
@@ -471,6 +471,11 @@ section.content {
     
     color: $ucsc-white;
     position: absolute;
+
+        img {
+            max-width: 100%;
+            vertical-align: middle;
+        }
         // TWO COLUMNS //
 
         .left-column {
@@ -1073,11 +1078,12 @@ video {
 }
 
 .footer-container {
-    border-top: 1px solid $ucsc-white;
+    border-top: 1px solid $ucsc-blue;
     @include outer-container;
     margin: 2em auto 0 auto;
     text-align: left;
-    background-color: $ucsc-blue;
+    background-color: $ucsc-light-blue;
+    @include border-radius (0.313em);
     .col-one, .col-two, .col-three {
         display: block;
         padding: .75em .5em .75em .5em;
