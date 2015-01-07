@@ -20,7 +20,7 @@ permalink: kick-off/tips.html
 
 5. 1965 is all about boots. Every man owns a pair of Beatle boots while Barbara Streisand is popularizing the white gogo boots.
 
-6. Fashion designers Courreges and Mary Quaint are changing the world with their rising hemlines; the mini skirt has all the girls (and boys) in a frenzy.
+6. Fashion designers Courreges and Mary Quant are changing the world with their rising hemlines; the mini skirt has all the girls (and boys) in a frenzy.
 
 7. The skinny tie is still super hip in 1965. Dashing dandies wear it with a slim-fit suit, or collegiates pair it with a bold plaid sport coat. For a more casual look, wear your white dress shirt with top buttons open, roll your sleeves, and slap on a silver tie bar to emulate Sammy Davis Jr.
 
