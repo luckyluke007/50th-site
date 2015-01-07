@@ -5,7 +5,6 @@ permalink: /alumniweekend2015/hotels.html
 ---
 
 
-
  
  
 
