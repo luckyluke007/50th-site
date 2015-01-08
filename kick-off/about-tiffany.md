@@ -2,6 +2,11 @@
 layout: post
 title: About Tiffany White Stanton
 permalink: /kick-off/about-tiffany.html
+img: /css/assets/images/kick-off/ucsc_1965_lunch.jpg
+tags: 
+- ucsc50
+- ucsc
+- dresslikeits1965
 ---
 {% img full-size /css/assets/images/kick-off/mad-men-tiffany.jpg "Tiffany" "Tiffany" %}
 <div class="more-info">

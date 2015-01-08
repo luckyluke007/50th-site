@@ -2,6 +2,11 @@
 layout: post
 title: Dress Like It's 1965
 permalink: kick-off/index.html
+img: /css/assets/images/kick-off/ucsc_1965_lunch.jpg
+tags: 
+- ucsc50
+- ucsc
+- dresslikeits1965
 ---
 {% img full-size /css/assets/images/kick-off/main.jpg "Students in the '60 doing a bunny hop" "Students in the '60 doing a bunny hop" %}
 <div class="more-info">

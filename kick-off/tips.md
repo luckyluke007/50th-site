@@ -2,6 +2,11 @@
 layout: post
 title: Tips from Tiffany
 permalink: kick-off/tips.html
+img: /css/assets/images/kick-off/ucsc_1965_lunch.jpg
+tags: 
+- ucsc50
+- ucsc
+- dresslikeits1965
 ---
 
 <div class="more-info">
