@@ -2,7 +2,7 @@
 layout: post
 title: About Tiffany White Stanton
 permalink: /kick-off/about-tiffany.html
-img: /css/assets/images/kick-off/ucsc_1965_lunch.jpg
+img: /css/assets/images/kick-off/mad-men-tiffany.jpg
 tags: 
 - ucsc50
 - ucsc
