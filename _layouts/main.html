@@ -28,8 +28,7 @@
 <script>
       var opts = {
         doLoop: true,
-        preload:'auto',
-        useFlashForFirefox:false
+        preload:'auto'
       }
      var BV = new $.BigVideo(opts);
       BV.init();
@@ -38,6 +37,7 @@
       } else {
           BV.show([
             { type: "video/mp4", src:"http://player.vimeo.com/external/114698040.hd.mp4?s=57c8ef4e21976826245b9d976a9d3bcb"},
+            { type: "video/webm", src:"/videos/timelapse.webm"}
             { type: "video/ogg", src:"/videos/timelapse.ogg"}
             ]);
       }

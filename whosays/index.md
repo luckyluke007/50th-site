@@ -7,7 +7,7 @@ permalink: /whosays/
 
 ##{{ page.title }} you can't crack open a star?
 
-For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. No university in the world has a faculty research citation rate higher than ours.
+For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
 
 {% img half-size /css/assets/images/whosays/star.jpg "Sun Image" "Sun Image" %}
 
