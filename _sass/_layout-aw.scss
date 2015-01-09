@@ -616,21 +616,6 @@ section.content {
         margin: 10em 0 0 0; // space skip header //
     }
 }
-/* ALUMNI WEEKEND */
-
-.left-four {
-    display: none;
-    padding: .35em;
-    @include span-columns(4)
-}
-
-.right-eight {
-    display: none;
-    padding: .35em;
-    @include span-columns(8)
-}
-
-/* END ALUMNI WEEKEND */
 .timeline {
     @include span-columns(12);
     display: block;
@@ -703,7 +688,6 @@ a.give-btn:hover {
     width: 50%;
     float: right;
 }
-
 // EVENTS//
 .event-type-host {
     font-weight: 500;
