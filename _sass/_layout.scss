@@ -203,6 +203,7 @@ a.btn:hover {
             form {
                 display: block;
                 float: right;
+                padding-right: .35em;
                 input {
                     @include border-radius(5px);
                     border: 0;
@@ -266,7 +267,7 @@ a.btn:hover {
             /*Style for menu links*/
             li a {
                 display:block;
-                margin: 0 2.4em 0 0;
+                margin: 0 2.3em 0 0;
                 color: $ucsc-yellow;
                 font-size: $font-size-base;
                 text-decoration: none;
@@ -346,6 +347,7 @@ a.btn:hover {
             @include media ($tablet-max){
                 /*Make dropdown links appear inline*/
                 ul {
+                    width: 100%;
                     position: static;
                     display: none;
                 }
@@ -381,6 +383,7 @@ a.btn:hover {
         @include media ($desktop) {
             width: auto !important;
             float: right !important;
+            margin-right: .35em;
             @include span-columns(6);
             @include shift(1);
         }
