@@ -36,8 +36,8 @@ title: Events
       <li>
         <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
         <div class="event-content">
-        {% if event.event.thumbnail != "" %}
-          <img src="{{ event.event.thumbnail }}" alt="No alt text" class="event-image" />
+        {% if event.event.thumbnail.src != "" %}
+          <img src="{{ event.event.thumbnail.src }}" class="event-image" />
         {% endif %}
         <h2>
           <a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a>
