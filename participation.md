@@ -34,5 +34,5 @@ The Smith Renaissance Society serves the college dreams of independent students 
 
 ##Social Media
 
-<div class="tagboard-embed" tgb-slug="ucscalumni/191639" tgb-auto-load="true"></div>
+<div class="tagboard-embed" tgb-slug="ucsc50/205580"></div>
 <script src="https://tagboard.com/public/js/embed.js"></script>
