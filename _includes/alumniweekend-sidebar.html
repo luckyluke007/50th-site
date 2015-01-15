@@ -1,0 +1,25 @@
+<div class="side-container">
+<h3><a href="/events.html">Latest Events</a></h3>
+<ul class="post-list">
+    {% for event in site.data.events.events limit:3 %}
+      <li>
+        <span class="post-meta event-date-sidebar">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
+        <a class="post-link-sidebar" href="{{ event.event.link }}">{{ event.event.title }}</a>
+      </li>
+      <div class="clear"></div>
+    {% endfor %}
+  </ul>
+  <p class="float-right"><a href="/events.html">» See more events</a></p>
+</div>
+
+<div class="side-container">
+<h3><a href="http://stayconnected.ucsc.edu">Volunteer Opportunities</a></h3>
+<a href="http://stayconnected.ucsc.edu">{% img /css/assets/images/stayconnected.jpg Stay Connected %}</a>
+Stay Connected is an important part of being 100% Banana Slug! <a href="http://stayconnected.ucsc.edu">Get Connected!</a>
+</div>
+
+<div class="side-container">
+<h3><a href="http://stayconnected.ucsc.edu">Stay Connected</a></h3>
+<a href="http://stayconnected.ucsc.edu">{% img /css/assets/images/stayconnected.jpg Stay Connected %}</a>
+Stay Connected is an important part of being 100% Banana Slug! <a href="http://stayconnected.ucsc.edu">Get Connected!</a>
+</div>

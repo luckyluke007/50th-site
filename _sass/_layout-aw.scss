@@ -6,7 +6,7 @@
     font-family: $font-family-sans-serif;
     height: 100%;
  }
- a, a:active {
+a, a:active {
     color: $ucsc-light-yellow;
     text-decoration: none;
     &:hover {
@@ -21,7 +21,7 @@
  h1 {
     font-size: $font-size-h1;
     line-height: 1em;
-    padding: 0 .25em 0 0;
+    padding: 0 .25em 0 0em;
     @include media ($tablet){
         margin: .25em 0 .25em 0;
     }
@@ -200,6 +200,7 @@ a.btn:hover {
             form {
                 display: block;
                 float: right;
+                padding-right: .35em;
                 input {
                     @include border-radius(5px);
                     border: 0;
@@ -242,7 +243,6 @@ a.btn:hover {
             }
     }
     .nav {
-        @include span-columns(8);
         border-bottom: 1px solid $ucsc-white;
         padding-top: 3.35em;
         /*Strip the ul of padding and list styling*/
@@ -250,6 +250,7 @@ a.btn:hover {
                 list-style-type:none;
                 margin:0;
                 padding:0;
+                float: right;
             }
 
             /*Create a horizontal list with spacing*/
@@ -263,12 +264,12 @@ a.btn:hover {
             /*Style for menu links*/
             li a {
                 display:block;
-                margin: 0 2.85em 0 0;
+                margin: 0 1.25em 0 0;
                 color: $ucsc-yellow;
                 font-size: $font-size-base;
                 text-decoration: none;
                 text-transform: uppercase;
-                font-weight: 500;
+                font-weight: 400;
             }
             li:last-child  a{
                 margin: 0;
@@ -323,7 +324,7 @@ a.btn:hover {
                 background: $ucsc-yellow;
                 font-size: $font-size-h3;
                 text-align: center;
-                padding: 5px 0;
+                padding: 10px 0;
                 display: none;
             }
 
@@ -343,6 +344,7 @@ a.btn:hover {
             @include media ($tablet-max){
                 /*Make dropdown links appear inline*/
                 ul {
+                    width: 100%;
                     position: static;
                     display: none;
                 }
@@ -353,11 +355,10 @@ a.btn:hover {
                 /*Make all menu links full width*/
                 ul li, li a {
                     width: 100%;
+                    @include background-opacity ($ucsc-white, 1);
                     padding: .25em;
                     text-align: center;
                     color: $ucsc-blue;
-                    background: $ucsc-light-yellow;
-                    @include background-opacity ($ucsc-light-yellow, .3);
                 }
                 ul li, li a:hover {
                     color: $ucsc-red;
@@ -377,9 +378,11 @@ a.btn:hover {
             @include span-columns(12);
         }
         @include media ($desktop) {
-            width: auto;
-            @include span-columns(7);
-            @include shift (1);
+            width: auto !important;
+            float: right !important;
+            margin-right: .35em;
+            @include span-columns(6);
+            @include shift(1);
         }
     }
     // SECTION HEADER //
@@ -540,7 +543,7 @@ section.content {
         // END TWO COLUMNS //
         .single-column {
             display: block;
-            padding: .5em .5em .5em 0;
+            padding: .5em 0 .5em 0;
             @include span-columns(12);
         }
         //END SINGLE COLUMN
@@ -616,21 +619,6 @@ section.content {
         margin: 10em 0 0 0; // space skip header //
     }
 }
-/* ALUMNI WEEKEND */
-
-.left-four {
-    display: none;
-    padding: .35em;
-    @include span-columns(4)
-}
-
-.right-eight {
-    display: none;
-    padding: .35em;
-    @include span-columns(8)
-}
-
-/* END ALUMNI WEEKEND */
 .timeline {
     @include span-columns(12);
     display: block;
@@ -703,7 +691,6 @@ a.give-btn:hover {
     width: 50%;
     float: right;
 }
-
 // EVENTS//
 .event-type-host {
     font-weight: 500;
@@ -756,7 +743,7 @@ a.give-btn:hover {
 }
 
 .event-image {
-    background-color: rgba(255,255,255,0.5);
+    //background-color: rgba(255,255,255,0.5);
     padding: 0.3em;
     @include media ($tablet) { 
         float: right;
@@ -1095,10 +1082,11 @@ video {
 }
 
 .footer-container {
-    border-top: 1px solid $ucsc-light-blue;
+    border-top: 1px solid $ucsc-blue;
     @include outer-container;
     margin: 2em auto 0 auto;
     text-align: left;
+    background-color: $ucsc-light-blue;
     .col-one, .col-two, .col-three {
         display: block;
         padding: .75em .5em .75em .5em;
@@ -1143,138 +1131,6 @@ video {
     &,
     &:visited {
         color: $grey-color-dark;
-    }
-}
-
-.site-nav {
-    float: right;
-    line-height: 56px;
-
-    .menu-icon {
-        display: none;
-    }
-
-    .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
-    }
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
-    }
-}
-
-
-/**
- * Site footer
- */
-.site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
-    @include span-columns(12);
-}
-
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-}
-
-.footer-col-wrapper {
-    font-size: 15px;
-    color: $ucsc-white;
-    @extend %clearfix;
-}
-
-.footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
 
