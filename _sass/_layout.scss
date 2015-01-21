@@ -18,13 +18,12 @@
  }
  
  h1, h2, h3, h4, h5 {
-    color: $ucsc-white;
     font-weight: 300;
  }
  h1 {
     font-size: $font-size-h1;
     line-height: 1em;
-    padding: 0 .25em 0 .25em;
+    padding: 0 .25em 0 0;
     @include media ($tablet){
         margin: .25em 0 .25em 0;
     }
