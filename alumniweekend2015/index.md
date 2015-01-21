@@ -123,6 +123,10 @@ exclude_from_search: true
 					</figure>
 				</div>
 </section>
+
+<div class="register-container">
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1723&cid=3246"><span>Register now!</span></a>
+</div>
  
 <script src="/js/classie.js"></script>
 <script src="/js/photostack.js"></script>
