@@ -2,6 +2,7 @@
 layout: page-aw
 title: Places to Stay
 permalink: /alumniweekend2015/hotels.html
+exclude_from_search: true
 ---
 
 ***
