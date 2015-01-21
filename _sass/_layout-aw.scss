@@ -1537,6 +1537,9 @@ section.aw-slider {
         color: $ucsc-yellow;
         font-weight: 200;
     }
+    .light {
+        font-weight: 200;
+    }
     @include media ($mobile) {
         top: 20em;
     }
@@ -1547,7 +1550,7 @@ section.aw-slider {
         top: 20em;
     }
     @include media ($desktop) {
-        top: 13em;
+        top: 12.5em;
     }
 }
 

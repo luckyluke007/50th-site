@@ -4,7 +4,8 @@ title: Alumni Weekend 2015
 permalink: /alumniweekend2015/index.html
 exclude_from_search: true
 ---
-# <span class="yellow">THIS WEEKEND IS FOR YOU.</span> COME HOME.
+# <span class="light">ALUMNI WEEKEND 2015</span><br /><span class="yellow">THIS WEEKEND IS FOR YOU.</span> COME HOME.
+
 <section id="photostack-3" class="photostack">
 				<div>
 					<figure>
