@@ -13,9 +13,9 @@ exclude_from_search: true
 
 **175 West Cliff Drive | Santa Cruz, CA 95060**
 
-**Phone:** 831-426-4330
+**Reservation:** 831.460.5007 or [email](mailto:mschultz@jdvhotels.com)
 
-**Rate:** $245
+**Rate:** $199
 
 This beachfront hotel offers upscale accommodations perfect to get you reacquainted with the Santa Cruz community, local surf and of course in close proximity to campus. 
 
@@ -29,7 +29,7 @@ This beachfront hotel offers upscale accommodations perfect to get you reacquain
 
 **Phone:** 831-440-1000
 
-**Rate:** $159
+**Reservation:** [Click here](http://www.hilton.com/en/hi/groups/personalized/S/SJCSVHF-UCSCAW-20150420/index.jhtml?WT.mc_id=POG)
 
 With rates from $159 per night for UC Santa Cruz alumni, this hotel is located just 10 minutes from downtown Santa Cruz, and offers a full range of amenties. Special rate valid for Alumni Reunion Weekend only.
 
