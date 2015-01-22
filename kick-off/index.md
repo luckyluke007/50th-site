@@ -17,4 +17,6 @@ tags:
 
 ####Photos will be judged by alumna and Mad Men Co-Costume Designer Tiffany White Stanton (Kresge '03, psychology); **winners will be announced Thursday, January 22.** So check back here on Thursday for winners and a gallery of photos!
 
+<object width="100%" height="400"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fucscbananaslugs%2Fsets%2F72157649913670919%2Fshow%2F&page_show_back_url=%2Fphotos%2Fucscbananaslugs%2Fsets%2F72157649913670919%2F&set_id=72157649913670919&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param> <param name="allowFullScreen" value="true" ></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Fucscbananaslugs%2Fsets%2F72157649913670919%2Fshow%2F&page_show_back_url=%2Fphotos%2Fucscbananaslugs%2Fsets%2F72157649913670919%2F&set_id=72157649913670919&jump_to=" width="100%" height="400" wmode="transparent"></embed></object>
+
 ###[&#35;ucsc50](share.html)
