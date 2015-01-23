@@ -5,7 +5,7 @@ img: /css/assets/images/whosays/genomics.jpg
 permalink: /whosays/genomics.html
 ---
 
-#{{ page.title }} you need a medical school to defeat cancer?
+# {{ page.title }} you need a medical school to defeat cancer?
 
 For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
 
@@ -14,9 +14,9 @@ For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquir
 ***
 
 
-##Uniquely positioned and trusted in the highly competitive arena of genomics research
+## Uniquely positioned and trusted in the highly competitive arena of genomics research
 
-UC Santa Cruz is globally respected for its impartiality, openness, collaborative ethos, and prowess in genomic data analysis.
+{% include article-sharing.html %}UC Santa Cruz is globally respected for its impartiality, openness, collaborative ethos, and prowess in genomic data analysis.
  
 Our unique expertise in genome interpretation, molecular pathway analysis, comparative genomics and evolution, and genomics data visualization has been transformative in biomedicine.
  

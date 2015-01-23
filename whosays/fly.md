@@ -18,7 +18,7 @@ April 25, 2014
 
 By Tim Stephens
 
-UCSC alumna Kathryn Sullivan, a former astronaut who is now the administrator of the National Oceanic and Atmospheric Administration (NOAA), is featured on Time magazine's 2014 list of the "100 Most Influential People in the World." Sullivan was confirmed by the U.S. Senate in March to lead NOAA as under secretary of commerce for oceans and atmosphere.
+{% include article-sharing.html %}UCSC alumna Kathryn Sullivan, a former astronaut who is now the administrator of the National Oceanic and Atmospheric Administration (NOAA), is featured on Time magazine's 2014 list of the "100 Most Influential People in the World." Sullivan was confirmed by the U.S. Senate in March to lead NOAA as under secretary of commerce for oceans and atmosphere.
 
 Time ran a short article on Sullivan's accomplishments written by fellow astronaut John Glenn, a former U.S. Senator who was the first American to orbit the Earth. Sullivan was the first American woman to walk in space and served on the shuttle mission that deployed the Hubble Space Telescope.
 

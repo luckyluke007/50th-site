@@ -5,7 +5,7 @@ img: /css/assets/images/whosays/star.jpg
 permalink: /whosays/
 ---
 
-##{{ page.title }} you can't crack open a star?
+## {{ page.title }} you can't crack open a star?
 
 For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
 
@@ -13,9 +13,9 @@ For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquir
 
 ***
 
-##Simulations reveal unusual death for ancient stars
+## Simulations reveal unusual death for ancient stars
 
-####Study led by UC Santa Cruz postdoc indicates some supernovae would leave no remnant black hole behind
+#### Study led by UC Santa Cruz postdoc indicates some supernovae would leave no remnant black hole behind
 
 September 29, 2014
 
@@ -29,7 +29,7 @@ First-generation stars are especially interesting because they produced the firs
 
 “We found that there is a narrow window where supermassive stars could explode completely instead of becoming a supermassive black hole—no one has ever found this mechanism before,” said Ke-Jung Chen, a postdoctoral researcher at UC Santa Cruz and lead author of the ApJ paper.
 
-####Modeling stellar evolution
+#### Modeling stellar evolution
 
 To model the life of a primordial supermassive star, Chen and his colleagues used a one-dimensional stellar evolution code called KEPLER. This code takes into account key processes like nuclear burning and stellar convection. And relevant for massive stars, [photo-disintegration](http://en.wikipedia.org/wiki/Photodisintegration) of elements, [electron-positron pair production](http://en.wikipedia.org/wiki/Pair_production) and [special relativistic effects](http://en.wikipedia.org/wiki/General_relativity). The team also included general relativistic effects, which are important for stars above 1,000 solar masses.
 
