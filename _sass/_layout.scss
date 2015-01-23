@@ -621,6 +621,27 @@ section.content {
         margin: 10em 0 0 0; // space skip header //
     }
 }
+.left-side {
+    display: block;
+    float: left;
+    @include media($tablet){
+        @include span-columns(12); 
+    }
+    @include media($desktop){
+        @include span-columns(5.5);
+    }
+
+}
+.right-side {
+    display: block;
+    @include media($tablet){
+        @include span-columns(12); 
+    }
+    @include media($desktop){
+        @include span-columns(5.5);
+        @include shift (.5);
+    }
+}
 .timeline {
     @include span-columns(12);
     display: block;
