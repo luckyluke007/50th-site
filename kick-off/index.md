@@ -45,8 +45,8 @@ tags:
 </div>
 
 <div class="left-side">
-<h3> 3rd Guys: Tied (Top: Unknown, Bottom: KZSC DJ)</h3>
-{% img full-size /css/assets/images/kick-off/winners/3rd-guy.jpg "Name Unknown" "Name Unknown" %}
+<h3> 3rd Guys: Tied (Top: Jared Frazier, Bottom: KZSC DJ)</h3>
+{% img full-size /css/assets/images/kick-off/winners/3rd-guy.jpg "Jared Frazier" "Jared Frazier" %}
 {% img full-size /css/assets/images/kick-off/winners/3rd-guy_2.jpg "KZSC DJ" "KZSC DJ" %}
 </div>
 
