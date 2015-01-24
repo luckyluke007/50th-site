@@ -2,7 +2,6 @@
 layout: post-aw
 title: Parking and Shuttles
 permalink: /alumniweekend2015/parking-shuttles.html
-exclude_from_search: true
 ---
 
 Parking and transportation around campus can be a bit challenging. To make Alumni Weekend accessible and convenient to attend, we will provide complementary parking and shuttle service to support Alumni Weekend events.

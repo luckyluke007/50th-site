@@ -2,7 +2,6 @@
 layout: post-aw
 title: Alumni Weekend Volunteers
 permalink: /alumniweekend2015/aw-volunteers.html
-exclude_from_search: true
 ---
 
 Alumni Weekend and reunion celebrations are more lively, fun and inspiring if your classmates come back to celebrate with you.

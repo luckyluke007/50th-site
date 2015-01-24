@@ -91,22 +91,17 @@ hr :after {
     display: block;
     background: $ucsc-yellow;
     border-bottom: 1px solid $ucsc-blue;
-    color: $ucsc-white;
+    color: $ucsc-blue;
     @include border-radius(.35em);
     padding: .35em;
     margin: .50em 0 .50em 0;
     text-align: center;
     text-decoration: none;
     clear: both;
-    @include media($tablet) {
-        @include span-columns(12);
-    }
-    @include media($desktop) {
-        @include span-columns(4);
-    }
+    @include span-columns(12);
  }
 a.btn:hover {
-    background: $ucsc-blue;
+    background: $ucsc-green;
 }
 .container {
         display: block;
@@ -264,7 +259,7 @@ a.btn:hover {
             /*Style for menu links*/
             li a {
                 display:block;
-                margin: 0 1.25em 0 0;
+                margin: 0 3em 0 0;
                 color: $ucsc-yellow;
                 font-size: $font-size-base;
                 text-decoration: none;
@@ -791,6 +786,7 @@ a.give-btn:hover {
 .post-link-sidebar {
     display: block;
     font-size: 1em;
+    margin-bottom: .5em;
     @include span-columns(8);
 }
 
