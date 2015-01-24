@@ -15,7 +15,8 @@ tags:
 
 #### The campus [did the time warp for "Dress Like It's 1965 Day"](http://news.ucsc.edu/2015/01/1965-dress-up-day-feature-story.html) on January 15, an event that kicked off UC Santa Cruz's ongoing 50th anniversary celebrations. More than 200 people flocked to Quarry Plaza in their 1965 finery to enter the photo contest while KZSC spun hits from the era.
 
-#### Photos will be judged by alumna and Mad Men Co-Costume Designer Tiffany White Stanton (Kresge '03, psychology); **winners will be announced Thursday, January 22.** So check back here on Thursday for winners and a gallery of photos!
+#### Photos were judged by alumna and Mad Men Co-Costume Designer Tiffany White Stanton (Kresge ‘03, psychology). The winners will be featured in the spring '15 UC Santa Cruz Review magazine. 
+
 
 # WINNERS
 <div class="left-side">
@@ -45,7 +46,7 @@ tags:
 </div>
 
 <div class="left-side">
-<h3> 3rd Guys: Tied (Top: Unknown, Bottom: Jared Frazier KZSC DJ)</h3>
+<h3> 3rd Guys: Tied (Top: Juan Vergara, Bottom: Jared Frazier KZSC DJ)</h3>
 {% img full-size /css/assets/images/kick-off/winners/3rd-guy.jpg "Unknown" "Unknown" %}
 {% img full-size /css/assets/images/kick-off/winners/3rd-guy_2.jpg "Jared Frazier KZSC DJ" "Jared Frazier KZSC DJ" %}
 </div>
