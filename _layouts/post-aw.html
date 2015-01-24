@@ -1,9 +1,10 @@
 ---
 layout: default-blue
 ---
-<h1>{{ page.title }} | Alumni Weekdend 2015</h1>
+
 
 <div class="left-column">
+<h1>{{ page.title }} | Alumni Weekdend 2015</h1>
   <header class="post-header">
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
@@ -13,7 +14,7 @@ layout: default-blue
   </article>
 {% include social-sharing.html %}
 </div>
+<!-- RIGHT COLUMN -->
 <div class="right-column">
-	{% include post-sidebar.html %}
+ {% include alumniweekend-sidebar.html %}
 </div>
-

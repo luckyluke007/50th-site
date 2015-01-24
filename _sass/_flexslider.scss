@@ -59,7 +59,7 @@
 		}
 		@include media($desktop){
 			position: absolute;
-			margin: 0 0 0 1em;
+			margin: 0;
 		}
 	}
 	h3{
@@ -68,7 +68,6 @@
 		bottom:5%;
 		font-size: $font-size-h3;
 		color: $ucsc-green;
-		bottom: 5%;
 		background: $ucsc-blue;
 		background: rgba(0,69,140,.9);
 		@include media ($mobile){
@@ -83,7 +82,7 @@
 		}
 		@include media($desktop){
 			position: absolute;
-			margin: 0 0 0 1.3em;
+			margin: 0;
 		}
 	}
 } /* Hide the slides before the JS is loaded. Avoids image jumping */

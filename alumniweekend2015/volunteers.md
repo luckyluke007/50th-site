@@ -1,5 +1,5 @@
 ---
-layout: page-aw
+layout: post-aw
 title: Alumni Weekend Volunteers
 permalink: /alumniweekend2015/aw-volunteers.html
 exclude_from_search: true

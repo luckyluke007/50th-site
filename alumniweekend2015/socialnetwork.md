@@ -1,5 +1,5 @@
 ---
-layout: page-aw
+layout: post-aw
 title: Social Network
 permalink: /alumniweekend2015/share.html
 exclude_from_search: true
