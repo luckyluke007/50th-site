@@ -45,9 +45,9 @@ tags:
 </div>
 
 <div class="left-side">
-<h3> 3rd Guys: Tied (Top: Jared Frazier, Bottom: KZSC DJ)</h3>
-{% img full-size /css/assets/images/kick-off/winners/3rd-guy.jpg "Jared Frazier" "Jared Frazier" %}
-{% img full-size /css/assets/images/kick-off/winners/3rd-guy_2.jpg "KZSC DJ" "KZSC DJ" %}
+<h3> 3rd Guys: Tied (Top: Unknown, Bottom: Jared Frazier KZSC DJ)</h3>
+{% img full-size /css/assets/images/kick-off/winners/3rd-guy.jpg "Unknown" "Unknown" %}
+{% img full-size /css/assets/images/kick-off/winners/3rd-guy_2.jpg "Jared Frazier KZSC DJ" "Jared Frazier KZSC DJ" %}
 </div>
 
 <div class="right-side">
@@ -80,7 +80,7 @@ tags:
 </div>
 
 <div class="right-side">
-<h3> 5th Girls: History Professor (right)</h3>
+<h3> 5th Girls: Elaine Sullivan (right)</h3>
 {% img full-size /css/assets/images/kick-off/winners/5th-girl.jpg "History Professor" "RHistory Professor" %}
 </div>
 
