@@ -15,7 +15,7 @@ permalink: /alumniweekend2015/hotels.html
 
 **Reservation:** 831.460.5007 or [email](mailto:mschultz@jdvhotels.com)
 
-**Rate:** $199
+**Rate:** $199 + tax
 
 This beachfront hotel offers upscale accommodations perfect to get you reacquainted with the Santa Cruz community, local surf and of course in close proximity to campus. 
 
@@ -31,7 +31,7 @@ This beachfront hotel offers upscale accommodations perfect to get you reacquain
 
 **Reservation:** [Click here](http://www.hilton.com/en/hi/groups/personalized/S/SJCSVHF-UCSCAW-20150420/index.jhtml?WT.mc_id=POG)
 
-With rates from $159 per night for UC Santa Cruz alumni, this hotel is located just 10 minutes from downtown Santa Cruz, and offers a full range of amenties. Special rate valid for Alumni Reunion Weekend only.
+With rates from $149 per night for UC Santa Cruz alumni, this hotel is located just 10 minutes from downtown Santa Cruz, and offers a full range of amenties. Special rate valid for Alumni Reunion Weekend only.
 
 ***
 
@@ -43,9 +43,9 @@ With rates from $159 per night for UC Santa Cruz alumni, this hotel is located j
 
 **Phone:** 831-425-7100
 
-**Reservation**: [Click here](https://bookings.ihotelier.com/Hotel-Paradox/bookings.jsp?hotelId=5015&groupID=1369779) | **Code:**UCSCAW 
+**Reservation**: [Click here](https://bookings.ihotelier.com/Hotel-Paradox/bookings.jsp?hotelId=5015&groupID=1369779) | **Code:** UCSCAW 
 
-Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beaches and downtown shopping and dining are minutes from our door. Located just off Highway 1 and Highway 17 in downtown Santa Cruz, California. Special rates for Alumni Weekend starting at $121 per night. 
+Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beaches and downtown shopping and dining are minutes from our door. Located just off Highway 1 and Highway 17 in downtown Santa Cruz, California.
 
 ***
 
@@ -55,6 +55,6 @@ Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beache
 
 **2250 Mission Street | Santa Cruz, CA 95060**
 
-**Reservation** 8831-425-5455 or [email](mailto:hotel@mission-inn.com) 
+**Reservation** 831-425-5455 or [email](mailto:hotel@mission-inn.com) 
 
-Located minutes from the beach, municipal wharf, the Santa Cruz Beach Boardwalk, downtown shopping, tennis, golf, running paths, historic home tours, redwood forests and UC Santa Cruz, the Mission Inn makes it easy to enjoy the best of Santa Cruz and the Monterey Bay. Special rate for Alumni Weekend guest with deluxe king rooms for $89.95 per night. 
+Located minutes from the beach, municipal wharf, the Santa Cruz Beach Boardwalk, downtown shopping, tennis, golf, running paths, historic home tours, redwood forests and UC Santa Cruz, the Mission Inn makes it easy to enjoy the best of Santa Cruz and the Monterey Bay.
