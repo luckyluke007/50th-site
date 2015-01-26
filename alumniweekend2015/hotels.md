@@ -43,6 +43,6 @@ With rates from $159 per night for UC Santa Cruz alumni, this hotel is located j
 
 **Phone:** 831-425-7100
 
-**Rate:** $121
+**Reservation**: [Click here](https://bookings.ihotelier.com/Hotel-Paradox/bookings.jsp?hotelId=5015&groupID=1369779) | **Code:**UCSCAW 
 
 Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beaches and downtown shopping and dining are minutes from our door. Located just off Highway 1 and Highway 17 in downtown Santa Cruz, California. Special rates for Alumni Weekend starting at $121 per night. 
