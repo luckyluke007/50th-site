@@ -7,7 +7,7 @@ permalink: /alumniweekend2015/hotels.html
 
 ***
 
-###The Dream Inn, Santa Cruz
+### [The Dream Inn, Santa Cruz](http://www.jdvhotels.com/hotels/california/central-coast-hotels/santa-cruz-dream-inn/)
 
 {% img full-size /css/assets/images/aw-2015/dream-inn.jpg "The Dream Inn Hotel" "The Dream Inn Hotel" %} 
 
@@ -21,7 +21,7 @@ This beachfront hotel offers upscale accommodations perfect to get you reacquain
 
 ***
 
-###Hilton Santa Cruz/Scotts Valley
+### [Hilton Santa Cruz/Scotts Valley](http://www3.hilton.com/en/hotels/california/hilton-santa-cruz-scotts-valley-SJCSVHF/index.html)
 
 {% img full-size /css/assets/images/aw-2015/hilton.jpg "Hilton Santa Cruz -Scotts Valley" "Hilton Santa Cruz - Scotts Valley" %} 
 
@@ -35,7 +35,7 @@ With rates from $159 per night for UC Santa Cruz alumni, this hotel is located j
 
 ***
 
-###Hotel Paradox
+### [Hotel Paradox](http://www.thehotelparadox.com/location.aspx)
 
 {% img full-size /css/assets/images/aw-2015/paradox.jpg "Hotel Paradox" "Hotel Paradox" %} 
 
@@ -46,3 +46,15 @@ With rates from $159 per night for UC Santa Cruz alumni, this hotel is located j
 **Reservation**: [Click here](https://bookings.ihotelier.com/Hotel-Paradox/bookings.jsp?hotelId=5015&groupID=1369779) | **Code:**UCSCAW 
 
 Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beaches and downtown shopping and dining are minutes from our door. Located just off Highway 1 and Highway 17 in downtown Santa Cruz, California. Special rates for Alumni Weekend starting at $121 per night. 
+
+***
+
+### [Mission Inn](http://mission-inn.com/)
+
+{% img full-size /css/assets/images/aw-2015/mission-inn.jpg "Hotel Mission Inn" "Mission Inn" %} 
+
+**2250 Mission Street | Santa Cruz, CA 95060**
+
+**Reservation** 8831-425-5455 or [email](mailto:hotel@mission-inn.com) 
+
+Located minutes from the beach, municipal wharf, the Santa Cruz Beach Boardwalk, downtown shopping, tennis, golf, running paths, historic home tours, redwood forests and UC Santa Cruz, the Mission Inn makes it easy to enjoy the best of Santa Cruz and the Monterey Bay. Special rate for Alumni Weekend guest with deluxe king rooms for $89.95 per night. 
