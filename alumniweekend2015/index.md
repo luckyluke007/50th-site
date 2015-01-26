@@ -1,6 +1,7 @@
 ---
 layout: main-aw
 title: Alumni Weekend 2015
+img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /alumniweekend2015/index.html
 ---
 

@@ -1,8 +1,11 @@
 ---
 layout: post-aw
 title: Alumni Weekend Volunteers
+img: /css/assets/images/aw-2015/reunion-volunteer.jpg
 permalink: /alumniweekend2015/aw-volunteers.html
 ---
+
+{% img /css/assets/images/aw-2015/rvolunteer.jpg "Reunion Volunteer" "Reunion Volunteer" %}
 
 Alumni Weekend and reunion celebrations are more lively, fun and inspiring if your classmates come back to celebrate with you.
 
