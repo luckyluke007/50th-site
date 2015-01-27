@@ -240,6 +240,7 @@ a.btn:hover {
                 @include span-columns(12);
             }
             @include media ($desktop) {
+                float: right !important;
                 @include span-columns(8 of 12);
                 @include omega();
             }

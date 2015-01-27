@@ -12,115 +12,112 @@ permalink: /alumniweekend2015/index.html
 					<figure>
 						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/5.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">1965</h2>
+							<h2 class="photostack-title">1965-75</h2>
 							<div class="photostack-back">
-								<p>Blah text</p>
-							</div>
-						</figcaption>
-					</figure>
-					<figure>
-						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/2.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
-						<figcaption>
-							<h2 class="photostack-title">1970</h2>
-							<div class="photostack-back">
-								<p>Blah text</p>
-							</div>
-						</figcaption>
-					</figure>
-					<figure>
-						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/3.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
-						<figcaption>
-							<h2 class="photostack-title">1980</h2>
-							<div class="photostack-back">
-								<p>Blah text</p>
-							</div>
-						</figcaption>
-					</figure>
-					<figure>
-						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/4.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
-						<figcaption>
-							<h2 class="photostack-title">2015</h2>
-							<div class="photostack-back">
-								<p>I have never been to a place so serene in my entire life before. Swimming in clear waters opened my mind to nature and reminded me of my and <span>eveybody</span> everybody else's mortality.</p>
+								<p>Pioneer students unpack as they enter UC Santa Cruz, "the most significant educational experiment in the history of the University of California."</p>
 							</div>
 						</figcaption>
 					</figure>
 					<figure>
 						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/1.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">1970</h2>
+							<h2 class="photostack-title">1975-85</h2>
 							<div class="photostack-back">
-								<p>What might be right for you may not be right for some. And we know Flipper lives in a world full of wonder flying there-under under the sea.</p>
+								<p>Friends hanging out on the VW microbus at Kresge.</p>
+							</div>
+						</figcaption>
+					</figure>
+					<figure>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/2.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<figcaption>
+							<h2 class="photostack-title">1985-95</h2>
+							<div class="photostack-back">
+								<p>With the Beach Boardwalk in the background, a surfer and buddy check the waves from West Cliff Drive. Generations of UC Santa Cruz students have found recreation, solace, or their life's work in the ocean waves.</p>
+							</div>
+						</figcaption>
+					</figure>
+					<figure>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/3.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<figcaption>
+							<h2 class="photostack-title">1995-05</h2>
+							<div class="photostack-back">
+								<p>Students and guitars: A classic combination. </p>
+							</div>
+						</figcaption>
+					</figure>
+					<figure>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/4.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<figcaption>
+							<h2 class="photostack-title">2005-15</h2>
+							<div class="photostack-back">
+								<p>Today's Banana Slugs: Smart, creative, ambitious, diverse, passionate … limitless. </p>
 							</div>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="http://goo.gl/Ms7VDl" class="photostack-img">{% img /css/assets/images/aw-2015/slider/6.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Forever this</h2>
-							<div class="photostack-back">
-								<p>Fish don't fry in the kitchen and beans don't burn on the grill. Took a whole lotta tryin' just to get up that hill. Baby if you've ever wondered - wondered whatever became of me. </p>
-							</div>
+							<h2 class="photostack-title">Sunny Sammy!</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/7.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Lovely Green</h2>
+							<h2 class="photostack-title">Biggest fan!</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/8.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Wonderful</h2>
+							<h2 class="photostack-title">Whoosh</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/9.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Summertime FUN!</h2>
+							<h2 class="photostack-title">Beach days</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/10.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Friendship</h2>
+							<h2 class="photostack-title">Celebration</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/11.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">White Nights</h2>
+							<h2 class="photostack-title">Research</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/12.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Love Addict</h2>
+							<h2 class="photostack-title">Going places</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/13.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Happiness</h2>
+							<h2 class="photostack-title">Pride</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/14.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Winds of Peace</h2>
+							<h2 class="photostack-title">Purpose</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/15.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Shades of blue</h2>
+							<h2 class="photostack-title">Love</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/16.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Lightness</h2>
+							<h2 class="photostack-title">Slug tribes</h2>
 						</figcaption>
 					</figure>
 				</div>
@@ -131,6 +128,7 @@ permalink: /alumniweekend2015/index.html
 </div>
  
 <script src="/js/classie.js"></script>
+<link href='http://fonts.googleapis.com/css?family=League+Script' rel='stylesheet' type='text/css'>
 <script src="/js/photostack.js"></script>
 <script>
 			// [].slice.call( document.querySelectorAll( '.photostack' ) ).forEach( function( el ) { new Photostack( el ); } );
