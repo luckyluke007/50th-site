@@ -24,8 +24,8 @@ tags:
 {% img full-size /css/assets/images/kick-off/winners/1-guy.jpg "Kevin Karplus" "Kevin Karplus" %}
 </div>
 <div class="right-side">
-<h3> 1st Girls: Sarah Logan and Emily Grail </h3>
-{% img full-size /css/assets/images/kick-off/winners/1-girls.jpg "Sarah Logan and Emily Grail" "Sarah Logan and Emily Grail" %}
+<h3> 1st Girls: Sarah Logan and Emily Graily </h3>
+{% img full-size /css/assets/images/kick-off/winners/1-girls.jpg "Sarah Logan and Emily Graily" "Sarah Logan and Emily Graily" %}
 </div>
 
 <div class="single-column">

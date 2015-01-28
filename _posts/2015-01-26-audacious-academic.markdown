@@ -2,7 +2,7 @@
 layout: post
 title:  "UC Santa Cruz Audacious and Academic from the start"
 date:   2015-01-26
-categories: videos
+categories: 
 img: /css/assets/images/posts/audacious-academic/main.jpg
 alt: UC Santa Cruz Audacious and Academic from the start - Video
 nextvideo: https://www.youtube.com/embed/3d8yE0D38zM
