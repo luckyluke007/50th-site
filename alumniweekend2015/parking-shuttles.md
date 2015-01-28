@@ -8,8 +8,6 @@ permalink: /alumniweekend2015/parking-shuttles.html
 
 Parking and transportation around campus can be a bit challenging. To make Alumni Weekend accessible and convenient to attend, we will provide complementary parking and shuttle service to support Alumni Weekend events.
 
-Parking is free of charge (no permit required) in the majority of lots on the UCSC campus starting at 5 p.m. on Friday until 8 a.m. on Monday. 
-
 #### **Please check back for more information.**
 
 <!--
