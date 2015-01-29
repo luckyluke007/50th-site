@@ -791,9 +791,24 @@ a.give-btn:hover {
     }
     .play-btn {
         display: block;
-        width: 4em;
+       
         position: absolute;
-        margin: 10em 0 0 5.5em; 
+        @include media ($mobile){
+            width: 6em;
+            margin: 12em 0 0 7.5em; 
+        }
+        @include media ($portrait){
+            width: 6em;
+            margin: 18em 0 0 17em; 
+        }
+        @include media ($tablet){
+            width: 6em;
+            margin: 20em 0 0 20em;
+        }
+        @include media ($desktop){
+            width: 4em;
+            margin: 10em 0 0 5.5em;
+        } 
     }
     .post-meta {
         display: block;
