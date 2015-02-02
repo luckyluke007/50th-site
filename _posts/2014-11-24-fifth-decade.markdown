@@ -11,15 +11,6 @@ tags:
 - photos
 - ucsc
 ---
-##UC Santa Cruz astronomer Sandra Faber — The National Medal of Science
-{% img full-size /css/assets/images/posts/fifth-decade/2013-obama-faber.jpg "UC Santa Cruz astronomer Sandra Faber — The National Medal of Science" "Sandra Faber and Barrack Obama" %}
-2013: President Barack Obama presented UC Santa Cruz astronomer Sandra Faber with the National Medal of Science in a White House ceremony in February.
-
-Faber, a University Professor of astronomy and astrophysics at UCSC, was honored along with 11 other recipients of the National Medal of Science and 11 recipients of the National Medal of Technology and Innovation. These are the highest honors bestowed by the U.S. government upon scientists, engineers, and inventors. Chancellor George Blumenthal accompanied Faber to the ceremony.
-
-(Photo: Ryan Morris/National Science & Technology Medals Foundation)
-
-***
 
 ##The Grateful Dead Archive
 {% img full-size /css/assets/images/posts/fifth-decade/2008-grateful-dead.jpg "The Grateful Dead Archive" "The Grateful Dead Archive" %}
@@ -39,4 +30,21 @@ In August 2009, UC Santa Cruz is one of 25 campuses profiled in the cover story 
 
 (Photo: Carolyn Lagattuta)
 
+***
+
+##The new McHenry Library
+{% img full-size /css/assets/images/posts/fifth-decade/2011-new-library.jpg "New McHenry Library" "New McHenry Library" %}
+2011: After many years of new construction and renovation, the new McHenry Library debuted in the fall. It didn’t take a visitor long to notice the many enhancements, as one of them was the transformation of the old library foyer into the new Global Village Café. The café opened under the operation of local owners of Hoffman’s Bistro and Patisserie in downtown Santa Cruz. In the Hoffman family, the UCSC connections run deep: Adam Hoffman, the manager of the Global Village Café, is an alum (2003), and so is his mother June (1974), and father Edward (1976). In fact, Edward Hoffman was one of the original apprentices under Alan Chadwick, a legendary figure in the establishment of the sustainable food movement on campus.
+
+(Photo: Carolyn Lagattuta)
+
+***
+
+##UC Santa Cruz astronomer Sandra Faber — The National Medal of Science
+{% img full-size /css/assets/images/posts/fifth-decade/2013-obama-faber.jpg "UC Santa Cruz astronomer Sandra Faber — The National Medal of Science" "Sandra Faber and Barrack Obama" %}
+2013: President Barack Obama presented UC Santa Cruz astronomer Sandra Faber with the National Medal of Science in a White House ceremony in February.
+
+Faber, a University Professor of astronomy and astrophysics at UCSC, was honored along with 11 other recipients of the National Medal of Science and 11 recipients of the National Medal of Technology and Innovation. These are the highest honors bestowed by the U.S. government upon scientists, engineers, and inventors. Chancellor George Blumenthal accompanied Faber to the ceremony.
+
+(Photo: Ryan Morris/National Science & Technology Medals Foundation)
 

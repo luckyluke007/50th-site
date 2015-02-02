@@ -24,3 +24,5 @@ lunr_search:
   excludes: [rss.xml, atom.xml]
 
 permalink: "/:title"
+
+timezone: America/Los_Angeles

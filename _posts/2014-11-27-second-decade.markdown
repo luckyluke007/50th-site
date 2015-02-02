@@ -12,7 +12,7 @@ tags:
 - ucsc
 ---
 
-##Peregrine falcon
+## Peregrine falcon
 {% img full-size /css/assets/images/posts/second-decade/1975-peregrines.jpg "Peregrine falcon" "Peregrine falcon" %}
 1975: Peregrine falcon populations throughout North America crashed in the 1960s due to widespread use of the pesticide DDT. By 1970, wildlife biologists knew of only two pairs of peregrine falcons nesting in California.
 
@@ -26,7 +26,7 @@ In this 1979 photo, Ken Norris showed a drawing of the group's logo to Robert Ma
 
 ***
 
-##Dalai Lama of Tibet
+## Dalai Lama of Tibet
 {% img full-size /css/assets/images/posts/second-decade/1979-dalai-lama.jpg "Dalai Lama" "Dalai Lama" %}
 1979: A crowd of 3,500 filled the East Field House green in October to hear the exiled Dalai Lama of Tibet, shown on stage with Chancellor Robert Sinsheimer.
 
@@ -36,7 +36,15 @@ Earlier in the day, the 14th Dalai Lama was presented a memento by Santa Cruz ma
 
 ***
 
-##The Dickens Project at UC Santa Cruz
+## Legendary composer John Cage
+{% img full-size /css/assets/images/posts/second-decade/1980-john-cage.jpg "John Cage" "John Cage" %}
+1980: Legendary composer John Cage, whose mycology collection is housed in McHenry Library, visited UC Santa Cruz on a number of occasions during his lifetime. In this January 1980 photo, he is shown helping UCSC student Robin Tinker, a member of Ensemble Nova.
+
+(Photo: Carol Foote)
+
+***
+
+## The Dickens Project at UC Santa Cruz
 {% img full-size /css/assets/images/posts/second-decade/1981-dickens.jpg "The Dickens Project at UC Santa Cruz" "John Jordan, left, and Murray Baumgarten" %}
 10/1981
 
@@ -46,7 +54,7 @@ In 1981, the enthusiasm of UCSC faculty members John Jordan, left, and Murray Ba
 
 ***
 
-##The first American woman to walk in space
+## The first American woman to walk in space
 {% img full-size /css/assets/images/posts/second-decade/1984-sullivan-day.jpg "The first American woman to walk in space" "Alumna Kathryn Sullivan" %}
 1984: Alumna Kathryn Sullivan, the first American woman to walk in space, returned to UC Santa Cruz in November for a day honoring her historic Space Shuttle flight a month earlier. "Kathy Sullivan Day" included a press conference, downtown chamber lunch, an Earth Sciences seminar, and an alumni reception.
 
