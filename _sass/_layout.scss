@@ -47,6 +47,14 @@
  h6 {
     font-size: $font-size-h6
  }
+ blockquote {
+    color: $ucsc-white;
+    border-left: 4px solid $ucsc-green;
+    padding-left: 15px;
+    font-size: $font-size-base;
+    letter-spacing: 1px;
+    font-style: italic; 
+ }
  hr {
     padding: 0;
     border: none;
