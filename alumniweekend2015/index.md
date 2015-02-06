@@ -128,7 +128,7 @@ permalink: /alumniweekend2015/index.html
 </div>
  
 <script src="/js/classie.js"></script>
-<link href='http://fonts.googleapis.com/css?family=League+Script' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=La+Belle+Aurore' rel='stylesheet' type='text/css'>
 <script src="/js/photostack.js"></script>
 <script>
 			// [].slice.call( document.querySelectorAll( '.photostack' ) ).forEach( function( el ) { new Photostack( el ); } );
