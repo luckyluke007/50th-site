@@ -1,12 +1,20 @@
 <div class="side-container">
 <h3><a href="/events.html">Latest Events</a></h3>
 <ul class="post-list">
-    {% for event in site.data.events.events limit:3 %}
+    {% for event in site.data.events.events %}
+     {% assign eventdate = event.event.event_date | date: "%F" %}
+     {% assign sitedate = site.time | date: "%F" %}
+       {% if eventdate >= sitedate %}
+       {% capture counttwo %}{{ counttwo | plus: '1' }}{% endcapture %}
+       {% if counttwo == '1' or counttwo == '2' or counttwo =='3' %}
       <li>
         <span class="post-meta event-date-sidebar">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
         <a class="post-link-sidebar" href="{{ event.event.link }}">{{ event.event.title }}</a>
       </li>
       <div class="clear"></div>
+      {% endif %}
+      {% else %}
+      {% endif %}
     {% endfor %}
   </ul>
   <p class="float-right"><a href="/events.html">» See more events</a></p>
