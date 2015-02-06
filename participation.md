@@ -14,7 +14,7 @@ Whether you are near or far you can still join the fun and be an active part of 
  
 ### 50 for 50
 
-50 for 50 is a volunteer opportunity faculty, staff and students. Volunteer 50 hours of service in your community and give a  gift that truly matters. Help us celebrate a meaningful milestone in a meaningful way—in a true UC Santa Cruz way. [Get involved](http://50for50.ucsc.edu)
+50 for 50 is a volunteer opportunity for faculty, staff and students. Volunteer 50 hours of service in your community and give a  gift that truly matters. Help us celebrate a meaningful milestone in a meaningful way—in a true UC Santa Cruz way. [Get involved](http://50for50.ucsc.edu)
  
 ### Alumni Weekend outreach
   Alumni Weekend and reunion celebrations are more lively, fun, and inspiring if classmates come back to celebrate with you. No matter the amount of time you are able to commit, we have an opportunity for you. [More information](http://specialevents.ucsc.edu/alumniweekend/alumni-weekend-outreach-volunteers.html)
