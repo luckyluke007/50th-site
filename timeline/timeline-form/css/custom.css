@@ -19,11 +19,11 @@ CSS rules into "custom.css".
 
 /* Logo */
 #logo a {
-    background-image:url(../../images/50th-logo.png);
+    background-image:url(/css/assets/images/blue-logo.svg);
     min-height:0;
-    height:80px;
+    height:90px;
     background-position: 20px;
-    background-size: 172px 75px;
+    background-size: 250px 109px;
     padding-bottom: 5px;
 }
 * html #logo a {/* IE6 png Support */
