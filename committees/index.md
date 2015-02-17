@@ -24,7 +24,7 @@ The Leadership Committee is comprised of distinguished alumni who exemplify the 
 
 > Charlie Eadie is Principal Associate at Hamilton Swift & Associates, a firm specializing in land use and environmental planning. He has 30 years of public agency and consulting experience in planning and redevelopment, including work as Director of Campus and Community Planning at UCSC from 1999 to 2004. He also served as the project manager for the Santa Cruz Downtown Recovery Plan following the Loma Prieta Earthquake, played a key role in housing and economic planning in Watsonville. He has assisted in the earthquake recovery planning for Christchurch, New Zealand, and Kobe, Japan, as well as in tsunami recovery efforts in Japan. Charlie has a long record of civic involvement, including serving as President of the Santa Cruz Chamber of Commerce, President of the Cultural Council of Santa Cruz County, Chair of Leadership Santa Cruz, Chair of the Economic Development Council and Vice President of the Pajaro Valley Performing Arts Association. He has been an Alumni Council member for six years and was appointed President on 7/1/13; he also served on the Scholarship Benefit Dinner Committee.
 
-### Reyna Grande
+### Reyna Grande, Kresge College, 1999
 
 > Reyna Grande is the author of the novels Across a Hundred Mountains and Dancing with Butterflies, for which she received an American Book Award (2007) and an International Latino Book Award (2010). Her most recent book, The Distance Between Us, is a memoir about her life before and after illegally immigrating from Mexico to the United States. Hailed by the Los Angeles Times as “the Angela’s Ashes of the modern Mexican immigrant experience,” it was a finalist for the prestigious National Book Critics Circle Award. Now, in addition to being a published author, Reyna is an active promoter of Latino literature and is a sought-after speaker at high schools, colleges, and universities across the nation. Currently, she serves as a UCLA Extension Writers’ Program instructor.
 
@@ -37,7 +37,7 @@ The Leadership Committee is comprised of distinguished alumni who exemplify the 
 
 > Jim Gunderson is the founder and CEO of Governance and Transactions, LLC, a governance and compliance advisor to US, European, Middle East, and Australian based multinational businesses with operations throughout the world. He chairs the National Association of Corporate Directors' New York Chapter, a wide variety of interests in other fields, including theater, education and the environment. Jim and his wife, architect Valerie Boom, have two children, Maxine and Henry. Jim and Valerie established the Gunderson Family Coastal Ecosystems Research Fund at UCSC. They have hosted university events in New York and are helping to build our network there.
 
-### Paul Hall, Merrill, 1972
+### Paul Hall, Merrill College, 1972
 
 > Paul Hall is a lawyer and a partner of DLA Piper LLP (US) in San Francisco, where he is national co-chair of the class action defense practice, specializing in class actions involving financial institutions, unfair competition, labor and corporate acquisitions. Paul graduated from UCSC in 1972 with highest honors in Politics and college honors from Merrill College, and he received his J.D. from the UC Berkeley Boalt Hall School of Law in 1975. Paul formerly served as a Regent of the University of California and as president of both the UCSC and Boalt Hall Alumni Associations.  He is currently President of the UCSC Foundation Board and a member of the Social Sciences Dean’s Council.
 
@@ -84,8 +84,6 @@ The Leadership Committee is comprised of distinguished alumni who exemplify the 
 ### Danielle Soto, College Ten, 2008
 
 > Danielle Soto received a BA in Environmental Studies from UC Santa Cruz. As Chair of Pomona’s Environmental Stewardship Sub-Committee, she worked on water issues for the city involving costs, conservation, and efficiencies that provided both environmental and financial benefits to the city.  She also worked on obtaining over $1 million dollars from the Department of Energy’s American Recovery and Reinvestment Act for energy efficient streetlights throughout the city. Danielle served on the Pomona City Council and is currently a member of the City of Pomona’s Community Life Commission and employed by the Public Affairs Department of the South Coast Air Quality Management District.  Danielle was the recipient of the Los Angeles County Democratic Central Committee 2010 Franklin and Eleanor Roosevelt Democrat of the Year Award for the California 61st Assembly District.  In 2011, she was recognized as one of the 50 Most Influential and Prominent UC Santa Cruz alumni.
-
-### Hector Tobar, Oakes College, 1985
 
 ### Alec Webster, College Eight, 2002
 
