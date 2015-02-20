@@ -16,7 +16,7 @@ Our “Who Says?” campaign showcases some of the breakthrough achievements tha
 ***
 
 
-## {% page.title %}
+## {{ page.title }}
 
 {% include article-sharing.html %}UC Santa Cruz is globally respected for its impartiality, openness, collaborative ethos, and prowess in genomic data analysis.
  
