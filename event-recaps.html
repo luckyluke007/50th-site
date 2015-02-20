@@ -1,0 +1,52 @@
+---
+layout: default
+title: Event Recaps
+---
+{% include flexslider.html %}
+<h1>Event Recaps</h1>
+  <!-- LEFT COLUMN -->
+<div class="left-column">
+    <ul class="post-list">
+    {% for event in site.data.events.events %}
+     {% assign eventdate = event.event.event_date | date: "%F" %}
+     {% assign sitedate = site.time | date: "%F" %}
+       {% if eventdate < sitedate %}
+          <li>
+            <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
+            <div class="event-content">
+            <h2><a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a></h2>        
+            <p>
+            <span class="event-location">{{ event.event.location }}</span>
+            <span class="event-teaser">{{ event.event.teaser | strip_html | truncatewords:40 }}</span>
+            </p>
+            </div>
+          </li>
+          <div class="clear"></div>
+          {% else %}
+        {% endif %}
+    {% endfor %}
+  </ul>
+
+
+<script>
+  // $.getJSON( "events.json", function( data ) {
+  //   var items = [];
+  //   console.log(data);
+  //   $.each( data, function( key, val ) {
+  //     items.push( "<li id='" + key + "'>" + val + "</li>" );
+  //   });
+   
+  //   $( "<ul/>", {
+  //     "class": "my-new-list",
+  //     html: items.join( "" )
+  //   }).appendTo( "body" );
+  // });
+</script>
+
+
+  </div>
+  <!-- RIGHT COLUMN -->
+  <div class="right-column">
+    {% include post-sidebar.html %}
+  </div>
+  
