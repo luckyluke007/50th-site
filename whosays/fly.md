@@ -4,19 +4,19 @@ title: Who says
 img: /css/assets/images/whosays/space-shuttle.jpg
 permalink: /whosays/fly.html
 ---
-#{{ page.title }} Banana Slugs can't fly?
+# Welcome to UC Santa Cruz
 
-For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
+For 50 years, we’ve been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
+
+Our “Who Says?” campaign showcases some of the breakthrough achievements that have been the hallmark of the University for 50 years.
 
 {% img half-size /css/assets/images/whosays/space-shuttle.jpg "Space Shuttle" "Space Shuttle" %}
 
 ***
 
-##Alumna Kathryn Sullivan on Time's '100 Most Influential People' list
+## Who says Banana Slugs can’t fly?
 
-April 25, 2014
-
-By Tim Stephens
+### Alumna Kathryn Sullivan on Time’s ‘100 Most Influential People’ list
 
 {% include article-sharing.html %}UCSC alumna Kathryn Sullivan, a former astronaut who is now the administrator of the National Oceanic and Atmospheric Administration (NOAA), is featured on Time magazine's 2014 list of the "100 Most Influential People in the World." Sullivan was confirmed by the U.S. Senate in March to lead NOAA as under secretary of commerce for oceans and atmosphere.
 

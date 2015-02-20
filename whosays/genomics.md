@@ -1,20 +1,22 @@
 ---
 layout: default-black
-title: Who says
+title: Who says you need a medical school to defeat cancer?
 img: /css/assets/images/whosays/genomics.jpg
 permalink: /whosays/genomics.html
 ---
 
-# {{ page.title }} you need a medical school to defeat cancer?
+# Welcome to UC Santa Cruz
 
-For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
+For 50 years, we’ve been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
+
+Our “Who Says?” campaign showcases some of the breakthrough achievements that have been the hallmark of the University for 50 years.
 
 {% img half-size /css/assets/images/whosays/genomics.jpg "UC Santa Cruz Genomics" "UC Santa Cruz Genomics" %}
 
 ***
 
 
-## Uniquely positioned and trusted in the highly competitive arena of genomics research
+## {% page.title %}
 
 {% include article-sharing.html %}UC Santa Cruz is globally respected for its impartiality, openness, collaborative ethos, and prowess in genomic data analysis.
  

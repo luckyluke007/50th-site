@@ -5,21 +5,19 @@ img: /css/assets/images/whosays/star.jpg
 permalink: /whosays/
 ---
 
-## {{ page.title }} you can't crack open a star?
+# Welcome to UC Santa Cruz
 
-For 50 years, UC Santa Cruz has been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
+For 50 years, we’ve been blazing a trail of bold, progressive inquiry that benefits both the individual and the planet. We work across disciplines and pursue original research into the most pressing issues of the day. [No university in the world has a faculty research citation rate higher than ours](http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-200/page/1/order/scorecitations%7Cdesc).
+
+Our “Who Says?” campaign showcases some of the breakthrough achievements that have been the hallmark of the University for 50 years.
 
 {% img half-size /css/assets/images/whosays/star.jpg "Sun Image" "Sun Image" %}
 
 ***
 
-## Simulations reveal unusual death for ancient stars
+## Who says you can’t crack open a star?
 
-#### Study led by UC Santa Cruz postdoc indicates some supernovae would leave no remnant black hole behind
-
-September 29, 2014
-
-By Linda Vu
+### Study led by UC Santa Cruz postdoc indicates some supernovae would leave no remnant black hole behind
 
 Massive primordial stars, between 55,000 and 56,000 times the mass of our Sun, may have died unusually. In death, these objects—among the universe’s first generation of stars—would have exploded as supernovae and burned completely, leaving no remnant black hole behind.
 
