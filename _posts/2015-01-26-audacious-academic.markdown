@@ -17,6 +17,6 @@ tags:
 
 <iframe src="//www.youtube.com/embed/o4VSyCQDOC8" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
 
-### [Save the date: April 23-26, 2015—Alumni Weekend 2015 is going to be epic.](/alumniweekend2015/)
+### [Register now: April 23-26, 2015—Alumni Weekend 2015 is going to be epic.](/alumniweekend2015/)
 
 Bookmark this website and check back for updates on events, photos, and more videos.
