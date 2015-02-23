@@ -13,10 +13,10 @@ tags:
 - ucsantacruz
 ---
 
-### Fifty years ago—in 1965— UC Santa Cruz began as "the most significant educational experiment in the history of the University of California."
+Fifty years ago—in 1965— UC Santa Cruz began as "the most significant educational experiment in the history of the University of California."
 
 <iframe src="//www.youtube.com/embed/o4VSyCQDOC8" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
 
-### [Register now: April 23-26, 2015—Alumni Weekend 2015 is going to be epic.](/alumniweekend2015/)
+## [Register now: April 23-26, 2015—Alumni Weekend 2015 is going to be epic.](/alumniweekend2015/)
 
 Bookmark this website and check back for updates on events, photos, and more videos.
