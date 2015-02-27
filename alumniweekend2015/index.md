@@ -117,7 +117,7 @@ permalink: /alumniweekend2015/index.html
 					<figure data-dummy>
 						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/16.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
-							<h2 class="photostack-title">Slug tribes</h2>
+							<h2 class="photostack-title">Slugs together</h2>
 						</figcaption>
 					</figure>
 				</div>
