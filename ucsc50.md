@@ -1,8 +1,10 @@
 ---
 layout: post
-title: &#35;ucsc50
+title: #ucsc50
 permalink: ucsc50.html
 ---
+
+# #ucsc50
 
 See what is happening on social media channels. Join the conversation.
 
