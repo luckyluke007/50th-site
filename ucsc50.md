@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ucsc50
+title: ♯ucsc50
 permalink: ucsc50.html
 ---
 
