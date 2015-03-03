@@ -5,7 +5,7 @@ img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /alumniweekend2015/index.html
 ---
 
-# <span class="light">ALUMNI WEEKEND 2015</span><br /><span class="yellow">THIS WEEKEND IS FOR YOU.</span> COME HOME.
+# <span class="light">ALUMNI WEEKEND 2015 | APRIL 23-26</span><br /><span class="yellow">THIS WEEKEND IS FOR YOU.</span> COME HOME.
 
 <section id="photostack-3" class="photostack">
 				<div>
