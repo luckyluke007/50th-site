@@ -4,8 +4,6 @@ title: #ucsc50
 permalink: ucsc50.html
 ---
 
-# {{ page.title }}
-
 See what is happening on social media channels. Join the conversation.
 
 <div class="tagboard-embed" tgb-slug="ucsc50/205580"></div>
