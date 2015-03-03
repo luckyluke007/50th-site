@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #ucsc50
+title: &#35;ucsc50
 permalink: ucsc50.html
 ---
 
