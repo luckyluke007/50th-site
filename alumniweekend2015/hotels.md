@@ -21,6 +21,20 @@ This beachfront hotel offers upscale accommodations perfect to get you reacquain
 
 ***
 
+### [Chaminade Resort & Spa](https://bookings.ihotelier.com/Chaminade-Resort-and-Spa/bookings.jsp?HotelID=15334&killcookie=1&LanguageID=1&ProdID=612867)
+
+{% img full-size /css/assets/images/aw-2015/chaminade.jpg "Chaminade Resort & Spa" "Chaminade Resort & Spa" %} 
+
+**One Chaminade Lane / Santa Cruz, CA 95065**
+
+**Reservations**:  800-283-6569
+
+**Rates:**  Starting at $179 for Alumni week.
+
+The AAA Four Diamond, award-winning Chaminade Resort & Spa is a spectacular 300 acre mountaintop hotel. Featuring  sweeping views of the Montery Bay and complete spa services  nestled among the towering Eucalyptus and natural landscape of Santa Cruz.
+
+***
+
 ### [Hilton Santa Cruz/Scotts Valley](http://www3.hilton.com/en/hotels/california/hilton-santa-cruz-scotts-valley-SJCSVHF/index.html)
 
 {% img full-size /css/assets/images/aw-2015/hilton.jpg "Hilton Santa Cruz -Scotts Valley" "Hilton Santa Cruz - Scotts Valley" %} 
@@ -58,17 +72,3 @@ Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beache
 **Reservation**: 831-425-5455 or [email](mailto:hotel@mission-inn.com) 
 
 Located minutes from the beach, municipal wharf, the Santa Cruz Beach Boardwalk, downtown shopping, tennis, golf, running paths, historic home tours, redwood forests and UC Santa Cruz, the Mission Inn makes it easy to enjoy the best of Santa Cruz and the Monterey Bay.
-
-***
-
-### [Chaminade Resort & Spa](https://bookings.ihotelier.com/Chaminade-Resort-and-Spa/bookings.jsp?HotelID=15334&killcookie=1&LanguageID=1&ProdID=612867)
-
-{% img full-size /css/assets/images/aw-2015/chaminade.jpg "Chaminade Resort & Spa" "Chaminade Resort & Spa" %} 
-
-**One Chaminade Lane / Santa Cruz, CA 95065**
-
-**Reservations**:  800-283-6569
-
-**Rates:**  Starting at $179 for Alumni week.
-
-The AAA Four Diamond, award-winning Chaminade Resort & Spa is a spectacular 300 acre mountaintop hotel. Featuring  sweeping views of the Montery Bay and complete spa services  nestled among the towering Eucalyptus and natural landscape of Santa Cruz.
