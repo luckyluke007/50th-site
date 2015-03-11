@@ -29,7 +29,7 @@ This beachfront hotel offers upscale accommodations perfect to get you reacquain
 
 **Phone:** 831-440-1000
 
-**Reservation:** [Click here](http://www.hilton.com/en/hi/groups/personalized/S/SJCSVHF-UCSCAW-20150420/index.jhtml?WT.mc_id=POG)
+**Reservation** :[Click here](http://www.hilton.com/en/hi/groups/personalized/S/SJCSVHF-UCSCAW-20150420/index.jhtml?WT.mc_id=POG)
 
 With rates from $149 per night for UC Santa Cruz alumni, this hotel is located just 10 minutes from downtown Santa Cruz, and offers a full range of amenties. Special rate valid for Alumni Reunion Weekend only.
 
@@ -51,10 +51,24 @@ Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beache
 
 ### [Mission Inn](http://mission-inn.com/)
 
-{% img full-size /css/assets/images/aw-2015/mission-inn.jpg "Hotel Mission Inn" "Mission Inn" %} 
+{% img full-size /css/assets/images/aw-2015/mission-inn.jpg "Hotel Mission Inn" "Hotel Mission Inn" %} 
 
 **2250 Mission Street | Santa Cruz, CA 95060**
 
-**Reservation** 831-425-5455 or [email](mailto:hotel@mission-inn.com) 
+**Reservation**: 831-425-5455 or [email](mailto:hotel@mission-inn.com) 
 
 Located minutes from the beach, municipal wharf, the Santa Cruz Beach Boardwalk, downtown shopping, tennis, golf, running paths, historic home tours, redwood forests and UC Santa Cruz, the Mission Inn makes it easy to enjoy the best of Santa Cruz and the Monterey Bay.
+
+***
+
+### [Chaminade Resort & Spa](https://bookings.ihotelier.com/Chaminade-Resort-and-Spa/bookings.jsp?HotelID=15334&killcookie=1&LanguageID=1&ProdID=612867)
+
+{% img full-size /css/assets/images/aw-2015/chaminade.jpg "Chaminade Resort & Spa" "Chaminade Resort & Spa" %} 
+
+**One Chaminade Lane / Santa Cruz, CA 95065**
+
+**Reservations**:  800-283-6569
+
+**Rates:**  Starting at $179 for Alumni week.
+
+The AAA Four Diamond, award-winning Chaminade Resort & Spa is a spectacular 300 acre mountaintop hotel. Featuring  sweeping views of the Montery Bay and complete spa services  nestled among the towering Eucalyptus and natural landscape of Santa Cruz.
