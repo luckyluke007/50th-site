@@ -3,21 +3,21 @@ require 'net/http'
 
 task :default => :fetch
 
-# 'Fetch' task grabs events from the events calendar.
+# 'Fetch' task grabs event feeds from the events calendar.
 task :fetch do
-    content = Net::HTTP.get(URI 'https://events.ucsc.edu/feed/270/data.json') # get the contents of the file
-    File.open('./_data/events.json', 'w+') do |file|
-      file.write(content) # write the contents
-    end
-    puts "Fetched events from calendar..."
-    # system('jekyll build')
-end
+    feeds = {
+      'events' => 'https://events.ucsc.edu/feed/270/data.json',
+      'alumniweekend' => 'https://events.ucsc.edu/feed/288/data.json'        
+    }
 
-task :fetch do
-content = Net::HTTP.get(URI 'https://events.ucsc.edu/feed/288/data.json') # get the contents of the file
-    File.open('./_data/alumniweekend.json', 'w+') do |file|
-      file.write(content) # write the contents
+    feeds.each do |name, feed|
+        # Get the contents of the file
+        content = Net::HTTP.get(URI feed)
+        # Create the data file
+        File.open("./_data/#{name}.json", "w+") do |file|
+          file.write(content) # write the contents
+        end
+        puts "Fetched events from calendar feed: #{name}"
     end
-    puts "Fetched events from calendar..."
-    # system('jekyll build')
+    system('bundle exec jekyll build')
 end
