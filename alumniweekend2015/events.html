@@ -63,7 +63,7 @@ Featuring <a href="https://events.ucsc.edu/event/2826" style="color:#336aa3;">Be
         </h2>        
         <p>
 
-        <span class="event-location">{{ event.event.event_date | date: "%-I:%M %P" }} | {{ event.event.location }}{{ event.event.Location_details }}</span> 
+        <span class="event-location">{{ event.event.event_date | date: "%-I:%M %P" }} | {{ event.event.location }}{{ event.event.location_details }}</span> 
         <span class="event-teaser">{{ event.event.teaser | strip_html | truncatewords:40 }}</span>
         </p>
         </div>
