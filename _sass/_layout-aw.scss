@@ -6,6 +6,21 @@
     font-family: $font-family-sans-serif;
     height: 100%;
  }
+.top-border {
+    width: 100%;
+    @include media($mobile) {
+        border-top: .15em solid $ucsc-yellow;
+    }
+    @include media($portrait) {
+        border-top: .35em solid $ucsc-yellow;
+    }
+    @include media($tablet) {
+        border-top: .5em solid $ucsc-yellow;
+    }
+    @include media($desktop) {
+        border-top: .5em solid $ucsc-yellow;
+    }
+}
 a, a:active {
     color: $ucsc-light-yellow;
     text-decoration: none;
