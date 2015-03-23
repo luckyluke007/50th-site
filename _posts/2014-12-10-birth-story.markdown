@@ -21,6 +21,8 @@ That introduction to the UC system's fledgling university may have been a bit un
 
 <div class="caption"> {% img full-size /css/assets/images/posts/birth-story/todd.jpg "Todd Newberry, professor of biology, founding faculty, in a lab, 1966" "Todd Newberry, professor of biology, founding faculty, in a lab, 1966" %} Todd Newberry, professor of biology, founding faculty, in a lab, 1966</div>It was, as then-UC President Clark Kerr said, "the most significant educational experiment in the history of the University of California."
 
+<iframe src="//www.youtube.com/embed/o4VSyCQDOC8" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
+
 ##Rage against the machine
 
 UC Santa Cruz was born, along with UC Irvine and UC San Diego, as the answer to California's post-war baby boom, which was expected to flood the UC system with 215,000 students by the year 2000—four times the enrollment in 1961.
