@@ -127,6 +127,10 @@ permalink: /alumniweekend2015/index.html
 <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1723&cid=3246"><span>Register now!</span></a>
 <a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1724&cid=3247&fid=3246"><span>See who's coming home!</span></a>
 </div>
+<span align="center" style="color:#fff;">
+This event is brought to you by the Alumni Association<br />
+{% img /css/assets/images/aw-2015/alumni-association-logo.gif "Alumni Association Logo" "Alumni Association Logo" %}
+</span>
  
 <script src="/js/classie.js"></script>
 <link href='http://fonts.googleapis.com/css?family=La+Belle+Aurore' rel='stylesheet' type='text/css'>
