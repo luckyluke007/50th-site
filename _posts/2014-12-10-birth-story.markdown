@@ -3,7 +3,6 @@ layout: post
 title:  "The birth of UC Santa Cruz: Audacious and academic"
 date:   2014-12-10
 categories: past
-author: Peggy Townsend
 img: /css/assets/images/posts/birth-story/main.jpg
 permalink: the-birth
 tags: 
@@ -21,11 +20,11 @@ That introduction to the UC system's fledgling university may have been a bit un
 
 <div class="caption"> {% img full-size /css/assets/images/posts/birth-story/todd.jpg "Todd Newberry, professor of biology, founding faculty, in a lab, 1966" "Todd Newberry, professor of biology, founding faculty, in a lab, 1966" %} Todd Newberry, professor of biology, founding faculty, in a lab, 1966</div>It was, as then-UC President Clark Kerr said, "the most significant educational experiment in the history of the University of California."
 
-<iframe src="//www.youtube.com/embed/o4VSyCQDOC8" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
-
 ##Rage against the machine
 
 UC Santa Cruz was born, along with UC Irvine and UC San Diego, as the answer to California's post-war baby boom, which was expected to flood the UC system with 215,000 students by the year 2000—four times the enrollment in 1961.
+
+<iframe src="//www.youtube.com/embed/o4VSyCQDOC8" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
 
 The campus's location on a scenic sweep of coastal meadow and forest was chosen in March 1961 not only for its staggering beauty but also for its ease of acquisition and the fact its owner, the Cowell Foundation, was willing to donate back a good chunk of the $2 million price tag. The frank and practical Dean McHenry, then UC dean of academic planning, was named chancellor of the new campus a short time later.
 
