@@ -5,6 +5,7 @@ date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/john-wilkes.jpg
 permalink: /original-thinkers/john-wilkes.html
+exclude_from_search: true
 tags: 
 - ucsc50
 - original-thinkers

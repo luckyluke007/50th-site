@@ -5,6 +5,7 @@ date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/gliessman.jpg
 permalink: /original-thinkers/steve-gliessman.html
+exclude_from_search: true
 tags: 
 - ucsc50
 - original-thinkers

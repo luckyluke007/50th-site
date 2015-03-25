@@ -5,6 +5,7 @@ date:   2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/gary-griggs.jpg
 permalink: /original-thinkers/gary-griggs.html
+exclude_from_search: true
 tags: 
 - ucsc50
 - original-thinkers

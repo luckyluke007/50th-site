@@ -5,6 +5,7 @@ date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/sinsheimer.jpg
 permalink: /original-thinkers/robert-sinsheimer.html
+exclude_from_search: true
 tags: 
 - ucsc50
 - original-thinkers

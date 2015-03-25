@@ -5,6 +5,7 @@ date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/domhoff.jpg
 permalink: /original-thinkers/william-domhoff.html
+exclude_from_search: true
 tags: 
 - ucsc50
 - original-thinkers
