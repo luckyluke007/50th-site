@@ -24,9 +24,9 @@ That introduction to the UC system's fledgling university may have been a bit un
 
 UC Santa Cruz was born, along with UC Irvine and UC San Diego, as the answer to California's post-war baby boom, which was expected to flood the UC system with 215,000 students by the year 2000—four times the enrollment in 1961.
 
-<iframe src="//www.youtube.com/embed/o4VSyCQDOC8" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
-
 The campus's location on a scenic sweep of coastal meadow and forest was chosen in March 1961 not only for its staggering beauty but also for its ease of acquisition and the fact its owner, the Cowell Foundation, was willing to donate back a good chunk of the $2 million price tag. The frank and practical Dean McHenry, then UC dean of academic planning, was named chancellor of the new campus a short time later.
+
+<iframe src="//www.youtube.com/embed/o4VSyCQDOC8" frameborder="0" allowfullscreen class="iframe-youtube"></iframe>
 
 Kerr wanted each of the three new campuses to have their own identities and, with his choice of McHenry, cemented the notion that UC Santa Cruz would become a statement against the rise of the large, impersonal, and inflexible university—a concern both men shared.
 
