@@ -2,7 +2,7 @@
  * Site header
  */
  body, html {
-    background: $ucsc-light-blue;
+    background: $ucsc-blue;
     font-family: $font-family-sans-serif;
     height: 100%;
  }
@@ -1140,11 +1140,11 @@ video {
 }
 
 .footer-container {
-    border-top: 1px solid $ucsc-blue;
+    border-top: 1px solid $ucsc-light-blue;
     @include outer-container;
     margin: 2em auto 0 auto;
     text-align: left;
-    background-color: $ucsc-light-blue;
+    background-color: $ucsc-blue;
     .col-one, .col-two, .col-three {
         display: block;
         padding: .75em .5em .75em .5em;
