@@ -137,7 +137,7 @@
       $entries.empty();
       
       if (entries.length === 0) {
-        $entries.append('<p>Nothing found.</p>');
+        $entries.append('<p>Nothing found on the 50th site.</p> <p>Let me try to read your mind. Okay, Got it! You may want to use our comprehesive search tool. <a href="http://www.ucsc.edu/search/">Click here</a> </p>');
       } else {
         $entries.append(this.template({entries: entries}));
       }
