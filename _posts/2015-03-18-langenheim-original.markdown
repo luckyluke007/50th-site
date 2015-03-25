@@ -3,7 +3,7 @@ layout: page
 title:  "Jean Langenheim: blazing a trail for female scientists"
 date:   2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/jean.jpg
 permalink: /original-thinkers/jean-langenheim.html
 tags: 
 - ucsc50

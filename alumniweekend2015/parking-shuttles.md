@@ -24,7 +24,7 @@ With Cowell College serving as a hub for major events (lunch, teach-ins, wine re
 
 To assist guests in moving around campus, shuttles will run campus loops every 10 minutes between 9am and 6pm. Beginning at the main entrance to campus, the bus will run in a counter clockwise loop with stops at the bus stops adjacent to East Remote, East Field, Baytree Plaza, Cowell/Stevenson, Crown/Merrill, Colleges Nine & Ten, Science Hill, Kresge, Porter/Performing Arts, College Eight, Oakes, Arboretum, and concluding the loop at campus Main Entrance.
 
-[Download Alumni Weekend Map](/css/assets/images/aw-2105/alumni-reunion-weekend-map.pdf) (PDF)
+[Download Alumni Weekend Map](/css/assets/images/aw-2015/alumni-reunion-weekend-map.pdf) (PDF)
 
 
 <!--

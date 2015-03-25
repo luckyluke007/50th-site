@@ -3,7 +3,7 @@ layout: page
 title:  "Steve Gliessman: Roots of agroecology extend deeply at UC Santa Cruz"
 date: 2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/gliessman.jpg
 permalink: /original-thinkers/steve-gliessman.html
 tags: 
 - ucsc50

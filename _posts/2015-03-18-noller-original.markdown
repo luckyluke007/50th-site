@@ -3,7 +3,7 @@ layout: page
 title:  "Harry Noller: uncovering one of life's essential molecular machines"
 date:   2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/harry-noller.jpg
 permalink: /original-thinkers/harry-noller.html
 tags: 
 - ucsc50

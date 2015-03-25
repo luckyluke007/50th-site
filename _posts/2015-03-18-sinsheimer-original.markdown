@@ -3,7 +3,7 @@ layout: page
 title:  "Robert Sinsheimer: sequencing the human genome"
 date: 2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/sinsheimer.jpg
 permalink: /original-thinkers/robert-sinsheimer.html
 tags: 
 - ucsc50

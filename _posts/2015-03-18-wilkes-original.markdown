@@ -3,7 +3,7 @@ layout: page
 title:  "John Wilkes: turning scientists into communicators"
 date: 2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/john-wilkes.jpg
 permalink: /original-thinkers/john-wilkes.html
 tags: 
 - ucsc50

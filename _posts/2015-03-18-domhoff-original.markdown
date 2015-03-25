@@ -3,7 +3,7 @@ layout: page
 title:  "G. William Domhoff: Authority on power structure documented the 1 percent "
 date: 2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/domhoff.jpg
 permalink: /original-thinkers/william-domhoff.html
 tags: 
 - ucsc50

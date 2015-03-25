@@ -3,7 +3,7 @@ layout: page
 title:  "Craig Reinarman: Professor focused on costs, societal harms of nation’s drug laws"
 date: 2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/reinarman-craig.jpg
 permalink: /original-thinkers/craig-reinarman.html
 tags: 
 - ucsc50

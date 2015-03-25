@@ -3,7 +3,7 @@ layout: page
 title:  "Bettina Aptheker: Building Feminist Studies at UC Santa Cruz"
 date: 2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/bettina-aptheker.jpg
 permalink: /original-thinkers/bettina-aptheker.html
 tags: 
 - ucsc50

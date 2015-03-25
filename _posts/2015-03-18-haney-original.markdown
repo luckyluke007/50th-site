@@ -3,7 +3,7 @@ layout: page
 title:  "Craig Haney: A career dedicated to social justice"
 date: 2015-03-18
 categories: original-thinkers
-img: 
+img: /css/assets/images/original-thinkers/haney.jpg
 permalink: /original-thinkers/craig-haney.html
 tags: 
 - ucsc50
