@@ -9,7 +9,7 @@
   "keywords": [
     "jekyll",
     "lunr",
-    "search"
+    //# "search"
   ],
   "license": "MIT",
   "ignore": [
