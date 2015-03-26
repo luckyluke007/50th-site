@@ -23,8 +23,7 @@
 .grid li {
 	display: inline-block;
 	overflow: hidden;
-	width:100%;
-	max-width: 314px;
+	width: 314px;
 	text-align: left;
 	vertical-align: top;
 }
@@ -43,7 +42,7 @@
 	display: block;
 	margin: 7px;
 	padding: 20px;
-	background: #ffcd03;
+	background: #2E3444;
 	color: #D3EEE2;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -131,8 +130,8 @@
 	margin: 0;
 	padding: 20px;
 	width: 100%;
-	background: #ffcd03;
-	color: #FFF;
+	background: #2E3444;
+	color: #D3EEE2;
 	text-align: right;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -165,7 +164,7 @@
 
 .grid li.shown:hover > a::before {
 	border-width: 14px;
-	border-color: #ffcd03;
+	border-color: #f8c325;
 }
 
 /* Animations */
@@ -270,4 +269,3 @@
 .grid li.shown h3 {
 	visibility: visible;
 }
-
