@@ -44,7 +44,7 @@ title: Events
             {% endif %}
             <h2><a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a></h2>        
             <p>
-            <span class="event-location">{{ event.event.location }}</span>
+            <span class="event-location">{{ event.event.location }} {{ event.event.location_details }}</span>
             <span class="event-teaser">{{ event.event.teaser | strip_html | truncatewords:40 }}</span>
             </p>
             </div>
