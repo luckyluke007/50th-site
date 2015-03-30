@@ -2,7 +2,7 @@
 	clear: both;
 	margin: 0 auto;
 	padding: 0;
-	max-width: 1260px;
+	max-width: 68em;
 }
 
 .grid {
@@ -152,8 +152,8 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 100.5%;
-	height: 100.5%;
+	width: 89%;
+	height: 95%;
 	border: 0px solid transparent;
 	background: rgba(0,0,0,0);
 	content: '';
@@ -170,7 +170,7 @@
 
 .grid li.shown:hover > a::before {
 	border-width: 14px;
-	border-color: #f8c325;
+	border-color: #f1b521;
 }
 
 /* Animations */
