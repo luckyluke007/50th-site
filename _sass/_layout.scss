@@ -818,7 +818,7 @@ a.give-btn:hover {
         }
         @include media ($portrait){
             width: 6em;
-            margin: 18em 0 0 17em; 
+            margin: 15em 0 0 12.5em; 
         }
         @include media ($tablet){
             width: 6em;
@@ -826,7 +826,7 @@ a.give-btn:hover {
         }
         @include media ($desktop){
             width: 4em;
-            margin: 10em 0 0 5.5em;
+            margin: 8em 0 0 5.5em;
         } 
     }
     .post-meta {
@@ -1263,4 +1263,10 @@ video {
             font-size: 18px;
         }
     }
+}
+.right-align {
+    display: block;
+    @include span-columns(12);
+    text-align:right;
+    clear: both;
 }
