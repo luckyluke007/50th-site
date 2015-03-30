@@ -19,11 +19,17 @@
 .js .grid.loaded {
 	background: none;
 }
+.loaded {
+	display:block;
+	width: 68em !important;
+	margin:0;
+	padding: 0;
+}
 
 .grid li {
 	display: inline-block;
 	overflow: hidden;
-	width: 314px;
+	width: 268px;
 	text-align: left;
 	vertical-align: top;
 }
@@ -130,13 +136,13 @@
 	margin: 0;
 	padding: 20px;
 	width: 100%;
-	background: #2E3444;
-	color: #D3EEE2;
+	background: #f1b521;
+	color: #FFF;
 	text-align: right;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-weight: 800;
 	font-size: 1em;
+	line-height: 16px; 
 	-webkit-transition: -webkit-transform 0.2s, color 0.2s;
 	transition: transform 0.2s, color 0.2s;
 }
