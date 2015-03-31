@@ -13,9 +13,9 @@ tags:
 <a href="index.html">Dress Like It's 1965</a> | <a href="about-tiffany.html">About Tiffany White Stanton</a> | <a href="tips.html">Tips from Tiffany</a> | <a href="photos.html">1965 campus photos</a>
 </div>
 
-#### The campus [did the time warp for "Dress Like It's 1965 Day"](http://news.ucsc.edu/2015/01/1965-dress-up-day-feature-story.html) on January 15, an event that kicked off UC Santa Cruz's ongoing 50th anniversary celebrations. More than 200 people flocked to Quarry Plaza in their 1965 finery to enter the photo contest while KZSC spun hits from the era.
+The campus [did the time warp for "Dress Like It's 1965 Day"](http://news.ucsc.edu/2015/01/1965-dress-up-day-feature-story.html) on January 15, an event that kicked off UC Santa Cruz's ongoing 50th anniversary celebrations. More than 200 people flocked to Quarry Plaza in their 1965 finery to enter the photo contest while KZSC spun hits from the era.
 
-#### Photos were judged by alumna and Mad Men Co-Costume Designer Tiffany White Stanton (Kresge ‘03, psychology). The winners will be featured in the spring '15 UC Santa Cruz Review magazine. 
+Photos were judged by alumna and Mad Men Co-Costume Designer Tiffany White Stanton (Kresge ‘03, psychology). The winners will be featured in the spring '15 UC Santa Cruz Review magazine. 
 
 
 # WINNERS
