@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: original-page
 title:  "Adrienne Zihlman: professor Emerita of Anthropology"
 date: 2015-03-18
 categories: original-thinkers

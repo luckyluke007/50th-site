@@ -1,3 +1,44 @@
+/* Original Page */
+
+.original-article {
+    display: block;
+    h1 {
+        margin: 0 0 .5em 0;
+    }
+    .logo-original {
+        display: block;
+            background: url("assets/images/logo.svg") no-repeat bottom left;
+            height: 6.875em;
+            overflow: auto;
+            text-indent: -9000px;
+            background-size: 22.813em;
+            @include media ($mobile) {
+                @include span-columns(12);
+                background-size: 20em;
+            }
+            @include media ($tablet) {
+                @include span-columns(12);
+            }
+            @include media ($desktop) {
+                @include span-columns(7 of 12);
+            }
+    }
+    @include media($mobile) {
+        @include span-columns(12);
+    }
+    @include media($portrait) {
+        @include span-columns(12);
+    }
+    @include media($tablet) {
+        @include span-columns(7);
+        @include shift(2.5);
+    }
+    @include media($desktop) {
+        @include span-columns(7);
+        @include shift(2.5);
+    }
+}
+
 /* Original Thinkers */
 .grid-wrap {
     clear: both;

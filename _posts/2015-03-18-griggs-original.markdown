@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: original-page
 title:  "Gary Griggs: a voice of reason amid coastal conflicts"
 date:   2015-03-18
 categories: original-thinkers

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: original-page
 title:  "Harry Noller: uncovering one of life's essential molecular machines"
 date:   2015-03-18
 categories: original-thinkers

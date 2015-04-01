@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: original-page
 title:  "Jean Langenheim: blazing a trail for female scientists"
 date:   2015-03-18
 categories: original-thinkers

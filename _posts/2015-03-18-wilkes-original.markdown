@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: original-page
 title:  "John Wilkes: turning scientists into communicators"
 date: 2015-03-18
 categories: original-thinkers
