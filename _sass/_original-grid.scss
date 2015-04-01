@@ -1,28 +1,35 @@
 /* Original Page */
+section.original-header {
+    @include span-columns(12);
+    .logo-original {
+        display: block;
+        background: url("assets/images/logo.svg") no-repeat bottom left;
+        height: 6.875em;
+        overflow: auto;
+        text-indent: -9000px;
+        background-size: 20em;
+        @include media ($mobile) {
+            @include span-columns(12);
+            background-size: 20em;
+        }
+        @include media ($tablet) {
+            @include span-columns(12);
+        }
+        @include media ($desktop) {
+            @include span-columns(6 of 12);
+        }
+    }
+}
 
-.original-article {
+
+section.original-article {
     display: block;
+    padding: .75em;
+    color: $ucsc-white;
     h1 {
         margin: 0 0 .5em 0;
     }
-    .logo-original {
-        display: block;
-            background: url("assets/images/logo.svg") no-repeat bottom left;
-            height: 6.875em;
-            overflow: auto;
-            text-indent: -9000px;
-            background-size: 22.813em;
-            @include media ($mobile) {
-                @include span-columns(12);
-                background-size: 20em;
-            }
-            @include media ($tablet) {
-                @include span-columns(12);
-            }
-            @include media ($desktop) {
-                @include span-columns(7 of 12);
-            }
-    }
+    
     @include media($mobile) {
         @include span-columns(12);
     }
