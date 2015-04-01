@@ -2481,7 +2481,7 @@ height:24px;
     width:320px !important;
 }
 .storyjs-embed.full-embed .vco-feature {
-    height:356px !important;
+    height:auto !important;
 }
 }
 @media screen and (max-device-width:480px) and (orientation:landscape) {
