@@ -1,6 +1,6 @@
 ---
 layout: post-aw
-title: Social Media
+title: Social Media | Alumni Weekend 2015
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /alumniweekend2015/share.html
 ---
