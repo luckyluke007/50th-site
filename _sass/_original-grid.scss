@@ -16,7 +16,7 @@ section.original-header {
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include span-columns(6 of 12);
+            @include span-columns(5.5 of 12);
         }
     }
     h1 {
@@ -25,6 +25,14 @@ section.original-header {
     }
 }
 
+.border-top {
+    display: block;
+    border-top: 5px solid $ucsc-yellow;
+}
+.border-bottom {
+    display: block;
+    border-bottom: 5px solid $ucsc-yellow;
+}
 
 section.original-article {
     display: block;
