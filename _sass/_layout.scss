@@ -79,6 +79,9 @@ hr :after {
     clear: both;
     float: none;
  }
+ .clear:last-of-type {
+    display: none;
+ }
  form {
     width: auto;
     ::-webkit-input-placeholder {
@@ -482,6 +485,7 @@ section.front-promo {
         left: 0;
     }
 }
+
 //SUBPAGE//
 section.content {
     
@@ -499,9 +503,6 @@ section.content {
             padding: .5em;
             h1 {
                 margin: 0 0 .25em 0;
-            }
-            li:last-child {
-                border-bottom: 0;
             }
             @include media ($mobile) {
                 @include span-columns(12);
@@ -525,10 +526,6 @@ section.content {
                 margin-bottom: 1.5em;
                 .post-list {
                     margin: 0;
-                    li {
-                        margin: .25em 0 .25em 0;
-                        border-bottom: 1px dotted rgba(255, 255, 255, .5)
-                    }
                 }
                 .img-full {
                     display: block;
@@ -1091,7 +1088,7 @@ video {
     display: block;
     padding: .5em 0 .5em 0;
     border-top: 1px solid $ucsc-white;
-    margin-bottom: 2em;
+    margin: 2em 0 2em 0;
     a.social-twitter {
         background: url('/css/assets/images/share/twitter.svg') no-repeat;
         @include social-sharing;
@@ -1217,17 +1214,20 @@ video {
 .post-list {
     margin-left: 0;
     list-style: none;
-
-    > li {
+    li {
         margin-bottom: 2em;
         @include span-columns (12);
         border-bottom: 1px $ucsc-white dotted;
         clear: both;
     }
+    & li:last-of-type {
+        border-bottom: none;
+        margin-bottom: 0em;
+    }
+    > ul li {
+        list-style: circle;
+    }
 }
-
-
-
 
 /**
  * Posts
