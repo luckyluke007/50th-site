@@ -1,20 +1,16 @@
 /* Original Page */
 .original-bg {
-    background: url(/css/assets/images/original-thinkers.svg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: $ucsc-blue url(/css/assets/images/original-thinkers-side.svg) no-repeat top left; 
 }
 section.original-header {
     @include span-columns(12);
     .logo-original {
         display: block;
-        background: url("assets/images/logo.svg") no-repeat bottom left;
+        background: url("/css/assets/images/logo.svg") no-repeat bottom left;
         height: 6.875em;
         overflow: auto;
         text-indent: -9000px;
-        background-size: 20em;
+        background-size: 22em;
         @include media ($mobile) {
             @include span-columns(12);
             background-size: 20em;
@@ -23,23 +19,24 @@ section.original-header {
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include span-columns(6 of 12);
+            @include span-columns(7 of 12);
         }
     }
+
     h1 {
         display: block;
-        color: $ucsc-blue;
+        padding-top: 1.35em;
+        color: $ucsc-yellow;
+        @include span-columns(4 of 12);
+        @include shift(1);
     }
 }
 section.original-article blockquote {
     color: $ucsc-blue;
 }
-.border-top {
+.border-container {
     display: block;
     border-top: 5px solid $ucsc-yellow;
-}
-.border-bottom {
-    display: block;
     border-bottom: 5px solid $ucsc-yellow;
 }
 
