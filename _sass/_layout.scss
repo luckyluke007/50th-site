@@ -500,6 +500,9 @@ section.content {
             h1 {
                 margin: 0 0 .25em 0;
             }
+            li:last-child {
+                border-bottom: 0;
+            }
             @include media ($mobile) {
                 @include span-columns(12);
             }
