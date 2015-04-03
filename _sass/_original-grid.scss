@@ -23,7 +23,7 @@ section.original-header {
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include span-columns(5.5 of 12);
+            @include span-columns(6 of 12);
         }
     }
     h1 {
@@ -31,7 +31,9 @@ section.original-header {
         color: $ucsc-blue;
     }
 }
-
+section.original-article blockquote {
+    color: $ucsc-blue;
+}
 .border-top {
     display: block;
     border-top: 5px solid $ucsc-yellow;
@@ -43,12 +45,21 @@ section.original-header {
 
 section.original-article {
     display: block;
-    padding: 0em .75em .75em .75em;
+    padding: .75em;
     color: $ucsc-blue;
     h1 {
         margin: 0 0 .5em 0;
     }
-    
+    p {
+        font-size: $font-size-h4;
+    }
+    img {
+        display: block;
+        float: right !important;
+        margin: .1em 0 .25em .25em;
+        @include span-columns(5 of 12);
+        @include border-radius(10px);
+    }
     @include media($mobile) {
         @include span-columns(12);
     }
