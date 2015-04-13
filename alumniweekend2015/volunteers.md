@@ -1,6 +1,6 @@
 ---
 layout: post-aw
-title: Alumni Weekend Volunteers | Alumni Weekend 2015
+title: Alumni Weekend Volunteers
 img: /css/assets/images/aw-2015/reunion-volunteer.jpg
 permalink: /alumniweekend2015/alumni-weekend-outreach-volunteers.html
 ---

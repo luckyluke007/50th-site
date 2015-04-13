@@ -1,6 +1,6 @@
 ---
 layout: post-aw
-title: Parking and Shuttles | Alumni Weekend 2015
+title: Parking and Shuttles
 permalink: /alumniweekend2015/parking-shuttles.html
 ---
 

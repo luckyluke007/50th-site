@@ -1,6 +1,6 @@
 ---
 layout: post-aw
-title: Places to Stay | Alumni Weekend 2015
+title: Places to Stay
 img: /css/assets/images/aw-2015/dream-inn.jpg
 permalink: /alumniweekend2015/hotels.html
 ---
