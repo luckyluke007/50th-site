@@ -12,7 +12,7 @@ tags:
 - ucsantacruz
 ---
 
-A scholar of history with a national reputation for her talents as an instructor, Bettina Aptheker taught one of the country's largest and most influential introductory feminist studies courses for nearly three decades at UC Santa Cruz. 
+{% img /css/assets/images/original-thinkers/bettina-aptheker.jpg "ettina Aptheker" "ettina Aptheker" %}A scholar of history with a national reputation for her talents as an instructor, Bettina Aptheker taught one of the country's largest and most influential introductory feminist studies courses for nearly three decades at UC Santa Cruz. 
 
 Starting out in 1980 as the sole lecturer in the Women's Studies Department, she became the department's first ladder-rank faculty member in 1987, and was honored with the Alumni Association's Distinguished Teaching Award in 2001.
 

@@ -12,7 +12,7 @@ tags:
 - ucsantacruz
 ---
 
-In the early 1970s, Harry Noller pursued a "crackpot idea." In time, he was proven right.
+{% img /css/assets/images/original-thinkers/harry-noller.jpg "Harry Noller" "Harry Noller" %}In the early 1970s, Harry Noller pursued a "crackpot idea." In time, he was proven right.
 
 Noller, the Sinsheimer Professor of Molecular Biology at UC Santa Cruz, believed RNA (DNA's less famous molecular cousin) performs crucial protein-building actions in all cells. He has devoted his career to studying the ribosome, a molecular machine essential to all life. Made of long chains of RNA and proteins, ribosomes translate genetic code into proteins. Noller focused on ribosomal RNA as the key component for carrying out protein synthesis, and he recalls one outraged scientist becoming red in the face at the very notion of RNA playing an important functional role.
 

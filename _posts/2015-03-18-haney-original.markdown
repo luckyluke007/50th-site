@@ -12,7 +12,7 @@ tags:
 - ucsantacruz
 ---
 
-No one has documented the long-term psychological damage of incarceration in the United States more than UC Santa Cruz professor Craig Haney.
+{% img /css/assets/images/original-thinkers/haney.jpg "Craig Haney" "Craig Haney" %}No one has documented the long-term psychological damage of incarceration in the United States more than UC Santa Cruz professor Craig Haney.
 
 Haney, who holds psychology and law degrees, has spent his entire career watching prison populations grow while probing the psychology of imprisonment and the causes of violent crime. He has interviewed thousands of prisoners, many on death row or in solitary confinement in the nation’s growing stable of “supermax” prisons. 
 

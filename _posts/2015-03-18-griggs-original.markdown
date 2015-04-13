@@ -12,7 +12,7 @@ tags:
 - ucsantacruz
 ---
 
-Fights over California's coastal land are as predicable as high tide, but for more than 45 years, geologist Gary Griggs has served as a voice of reason, offering scientific expertise and insight into coastal issues.
+{% img /css/assets/images/original-thinkers/gary-griggs.jpg "Gary Griggs" "Gary Griggs" %}Fights over California's coastal land are as predicable as high tide, but for more than 45 years, geologist Gary Griggs has served as a voice of reason, offering scientific expertise and insight into coastal issues.
 
 Griggs, a distinguished professor of Earth and planetary sciences and director of the Institute of Marine Sciences at UC Santa Cruz, has been studying the coast of California for most of his career and is an expert on coastal erosion, sea level rise, and geologic hazards. Local, state, and national policymakers have tapped his expertise as they tackle issues such as beach sand replenishment, use of sea walls to protect homes and infrastructure, and planning for the impacts of sea level rise.
 

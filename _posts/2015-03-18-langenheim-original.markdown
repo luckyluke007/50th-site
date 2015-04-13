@@ -12,7 +12,7 @@ tags:
 - ucsantacruz
 ---
 
-Jean Langenheim was a pioneer. In her time at UC Santa Cruz, she broke new ground for women in science, conducted field research on five continents, and crossed the disciplinary boundaries of botany, geology, and chemistry.
+{% img /css/assets/images/original-thinkers/jean.jpg "Jean Langenheim" "Jean Langenheim" %}Jean Langenheim was a pioneer. In her time at UC Santa Cruz, she broke new ground for women in science, conducted field research on five continents, and crossed the disciplinary boundaries of botany, geology, and chemistry.
 
 Langenheim came to UC Santa Cruz from a research position at Harvard University in 1966. In her memoir, published in 2010, she described being struck by the idyllic beauty of the Santa Cruz campus on her first visit. "What a marvelous place to live and teach ecology!" she wrote, adding that she was also "enticed by the pioneering experiment in university education" described by founding Chancellor Dean McHenry.
 

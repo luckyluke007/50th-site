@@ -12,7 +12,7 @@ tags:
 - ucsantacruz
 ---
 
-In May 1985, molecular biologist and UC Santa Cruz Chancellor Robert Sinsheimer shared with a group of eminent biologists a radical proposal to launch a massive project to determine the complete DNA sequence of the human genome.
+{% img /css/assets/images/original-thinkers/sinsheimer.jpg "Robert Sinsheimer" "Robert Sinsheimer" %}In May 1985, molecular biologist and UC Santa Cruz Chancellor Robert Sinsheimer shared with a group of eminent biologists a radical proposal to launch a massive project to determine the complete DNA sequence of the human genome.
 
 The technological challenges were daunting, but Sinsheimer recognized that knowledge of the human genome would have profound implications for biomedical science. Although he was unable to secure funding for it at the time, the meeting planted the idea of sequencing the human genome within a core group of scientists. Five years later, the Human Genome Project was officially launched with funding from the U.S. Department of Energy and the National Institutes of Health.
 

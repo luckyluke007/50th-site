@@ -11,7 +11,7 @@ tags:
 - original-thinkers
 - ucsantacruz
 ---
-Steve Gliessman literally wrote the book on agroecology.
+{% img /css/assets/images/original-thinkers/gliessman.jpg "Steve Gliessman" "Steve Gliessmans" %}Steve Gliessman literally wrote the book on agroecology.
 
 The term dates back to the late 1920s, but when Gliessman and two Mexican colleagues began using it nearly 40 years ago they pronounced it in Spanish: "agroecología."
 

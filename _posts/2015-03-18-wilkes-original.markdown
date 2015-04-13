@@ -12,7 +12,7 @@ tags:
 - ucsantacruz
 ---
 
-John Wilkes studied literature, but the intellectually open environment at UC Santa Cruz inspired him to establish a graduate program that's produced some of the best science journalists working today.
+{% img /css/assets/images/original-thinkers/john-wilkes.jpg "John Wilkes" "John Wilkes" %}John Wilkes studied literature, but the intellectually open environment at UC Santa Cruz inspired him to establish a graduate program that's produced some of the best science journalists working today.
 
 When UC Santa Cruz opened in 1965, Wilkes was there as a transfer student from San Francisco City College. He stuck around, earning B.A., M.A., and Ph.D. degrees in literature, then teaching a three-quarter course in English Romanticism. Ultimately, however, Wilkes made his mark not in literature, but in science journalism, establishing the internationally acclaimed graduate program in science communication at UC Santa Cruz.
 

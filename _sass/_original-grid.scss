@@ -10,7 +10,7 @@ section.original-header {
         height: 6.875em;
         overflow: auto;
         text-indent: -9000px;
-        background-size: 22em;
+        background-size: 16em;
         @include media ($mobile) {
             @include span-columns(12);
             background-size: 20em;
@@ -19,16 +19,26 @@ section.original-header {
             @include span-columns(12);
         }
         @include media ($desktop) {
-            @include span-columns(7 of 12);
+            @include span-columns(5 of 12);
         }
     }
-
     h1 {
         display: block;
-        padding-top: 1.35em;
+        padding-top: 1.75em;
         color: $ucsc-yellow;
-        @include span-columns(4 of 12);
-        @include shift(1);
+        @include span-columns(6 of 12);
+        @include shift(2 of 12)
+    }
+}
+.title-header {
+    display: block;
+    padding: 0;
+    margin: .5em 0 -1em 0;
+    @include span-columns(12);
+    h2 {
+        display: block;
+        color: $ucsc-white;
+        @include span-columns(12);
     }
 }
 section.original-article blockquote {
