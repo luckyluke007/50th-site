@@ -1,33 +1,60 @@
 /* Original Page */
 .original-bg {
-    background: $ucsc-blue url(/css/assets/images/original-thinkers-side.svg) no-repeat top left; 
+    @include media($desktop) {
+        background: none;
+    }
+    @include media($desktop) {
+        background: $ucsc-blue url(/css/assets/images/original-thinkers-side.svg) no-repeat top left;
+    }
 }
 section.original-header {
     @include span-columns(12);
     .logo-original {
         display: block;
-        background: url("/css/assets/images/logo.svg") no-repeat bottom left;
-        height: 6.875em;
+        height: 5em;
         overflow: auto;
         text-indent: -9000px;
-        background-size: 16em;
         @include media ($mobile) {
             @include span-columns(12);
-            background-size: 20em;
+            background: url("/css/assets/images/logo.svg") no-repeat center center;
+            background-size: 22em;
+        }
+        @include media ($portrait) {
+            @include span-columns(12);
+            background: url("/css/assets/images/logo.svg") no-repeat center center;
+            background-size: 22em;
         }
         @include media ($tablet) {
             @include span-columns(12);
+            background: url("/css/assets/images/logo.svg") no-repeat center center;
+            background-size: 22em;
         }
         @include media ($desktop) {
-            @include span-columns(5 of 12);
+            @include span-columns(6 of 12);
+            background: url("/css/assets/images/logo.svg") no-repeat bottom left;
+            background-size: 19em;
         }
     }
     h1 {
         display: block;
-        padding-top: 1.75em;
+        padding-top: .75em;
         color: $ucsc-yellow;
-        @include span-columns(6 of 12);
-        @include shift(2 of 12)
+        @include media($mobile) {
+            @include span-columns(12);
+            text-align: center;
+        }
+        @include media($portrait) {
+            @include span-columns(12);
+            text-align: center;
+        }
+        @include media($tablet) {
+            @include span-columns(12);
+            text-align: center;
+        }
+        @include media($desktop) {
+            @include span-columns(6 of 12);
+            @include shift(2 of 12)
+        }
     }
 }
 .title-header {
@@ -39,6 +66,7 @@ section.original-header {
         display: block;
         color: $ucsc-white;
         @include span-columns(12);
+        text-align: center;
     }
 }
 section.original-article blockquote {
@@ -84,6 +112,18 @@ section.original-article {
 }
 .white-background {
     background: $ucsc-white;
+}
+
+a.back-button, a.back-button:active {
+    @include border-radius(.5em);
+    padding: .5em;
+    text-align: center;
+    background: $ucsc-yellow;
+    margin: 0;
+    @include span-columns(12);
+    text-transform: uppercase;
+    color: $ucsc-white;
+    text-decoration: none;
 }
 
 /* Original Thinkers */
