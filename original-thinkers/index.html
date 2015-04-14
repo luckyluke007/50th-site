@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Original Thinkers
+title: Our Original Thinkers
 permalink: /original-thinkers/index.html
 exclude_from_search: true
 ---
 <div class="clear"></div>
 <section class="grid-wrap">
+	<p class="margin-left">This is a place like no other. It was imagined from the minds of original thinkers—the rebels and visionaries, artists, scientists, and poets who had the courage to strike off on a different path in search of ideas that question norms in hopes of making the world a better place. Let's celebrate 50 amazing years.</p>
 	<ul class="grid swipe-right" id="grid">
 		{% for post in site.categories.original-thinkers %}
 			<li>
@@ -67,3 +68,8 @@ $(document).ready(function() {
 		viewportFactor : 0.3
 	} );
 </script>
+<style type="text/css" rel="stylesheet">
+	h1 {
+		margin-left: 10px !important;
+	}
+</style>
