@@ -1,12 +1,4 @@
 /* Original Page */
-.original-bg {
-    @include media($desktop) {
-        background: none;
-    }
-    @include media($desktop) {
-        background: $ucsc-blue url(/css/assets/images/original-thinkers-side.svg) no-repeat top left;
-    }
-}
 section.original-header {
     @include span-columns(12);
     .logo-original {
@@ -115,14 +107,15 @@ section.original-article {
 }
 
 a.back-button, a.back-button:active {
-    @include border-radius(.5em);
     padding: .5em;
     text-align: center;
     background: $ucsc-yellow;
     margin: 0;
+    font-size: $font-size-small;
     @include span-columns(12);
     text-transform: uppercase;
     color: $ucsc-white;
+    font-weight: 400;
     text-decoration: none;
 }
 
