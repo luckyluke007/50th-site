@@ -118,6 +118,26 @@ hr :after {
 a.btn:hover {
     background: $ucsc-green;
 }
+.events-days {
+    display: block;
+    @include span-columns(12);
+    margin: 0 0 1em;
+    text-align: right; 
+    a.day, a.day:active {
+        display: block;
+        @include span-columns(3);
+        padding: .25em;
+        color: $ucsc-white;
+        background: $ucsc-yellow;
+        @include border-radius(.25em);
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    a.day:hover {
+        background: $ucsc-light-blue;
+    }
+}
 .container {
         display: block;
         @include outer-container;

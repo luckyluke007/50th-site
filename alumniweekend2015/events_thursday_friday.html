@@ -1,8 +1,9 @@
 ---
 layout: post-aw
-title: Events
+title: Thursday and Friday Events
 img: /css/assets/images/aw-2015/events/wine-reception.jpg
-permalink: /alumniweekend2015/events.html
+permalink: /alumniweekend2015/events_thursday_friday.html
+exclude_from_search: true
 ---
 {% include flexslider.html %}
   <!-- LEFT COLUMN -->
@@ -47,10 +48,12 @@ permalink: /alumniweekend2015/events.html
           </ul>
         </div>
       </section>
-
-<!-- <div><a href="/alumniweekend2015/events.html">All Events</a> | <a href="/alumniweekend2015/events_thursday_friday.html">Thursday & Friday</a> | <a href="/alumniweekend2015/events_saturday.html">Saturday</a> | <a href="events_sunday.html">Sunday</a></div> -->
+<div class="events-days"><a href="/alumniweekend2015/events.html" class="day">All Events</a> <a href="/alumniweekend2015/events_thursday_friday.html" class="day">Thurs & Fri</a> <a href="/alumniweekend2015/events_saturday.html" class="day">Sat</a> <a href="events_sunday.html" class="day">Sun</a></div>
   <ul class="post-list">
     {% for event in site.data.alumniweekend.events %}
+      {% assign eventdate = event.event.event_date | date: "%F" %}
+      {% assign sitedate = site.time | date: "2015-04-23" %}
+      {% if eventdate == sitedate %}
       <li>
         <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
         <div class="event-content">
@@ -68,6 +71,35 @@ permalink: /alumniweekend2015/events.html
         </div>
       </li>
       <div class="clear"></div>
+      {% else %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  
+  <ul class="post-list">
+    {% for event in site.data.alumniweekend.events %}
+      {% assign eventdate = event.event.event_date | date: "%F" %}
+      {% assign sitedate = site.time | date: "2015-04-24" %}
+      {% if eventdate == sitedate %}
+      <li>
+        <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
+        <div class="event-content">
+        {% if event.event.event.thumbnail.src != "" %}
+          <img src="{{ event.event.thumbnail.src }}" class="event-image" />
+        {% endif %}
+        <h2>
+          <a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a>
+        </h2>        
+        <p>
+
+        <span class="event-location">{{ event.event.event_date | date: "%-I:%M %P" }} | {{ event.event.location }}{{ event.event.location_details }}</span> 
+        <span class="event-teaser">{{ event.event.teaser | strip_html | truncatewords:40 }}</span>
+        </p>
+        </div>
+      </li>
+      <div class="clear"></div>
+      {% else %}
+      {% endif %}
     {% endfor %}
   </ul>
 
