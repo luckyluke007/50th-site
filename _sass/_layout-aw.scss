@@ -127,7 +127,7 @@ a.btn:hover {
         display: block;
         @include span-columns(3);
         padding: .25em;
-        color: $ucsc-white;
+        color: $ucsc-blue;
         background: $ucsc-yellow;
         @include border-radius(.25em);
         text-align: center;
@@ -136,6 +136,18 @@ a.btn:hover {
     }
     a.day:hover {
         background: $ucsc-light-blue;
+        color: $ucsc-white;
+    }
+    .onpage {
+        display: block;
+        @include span-columns(3);
+        padding: .25em;
+        color: $ucsc-white;
+        background: $ucsc-light-blue;
+        @include border-radius(.25em);
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
     }
 }
 .container {

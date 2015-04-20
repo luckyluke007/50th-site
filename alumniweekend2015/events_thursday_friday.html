@@ -48,7 +48,7 @@ exclude_from_search: true
           </ul>
         </div>
       </section>
-<div class="events-days"><a href="/alumniweekend2015/events.html" class="day">All Events</a> <a href="/alumniweekend2015/events_thursday_friday.html" class="day">Thurs & Fri</a> <a href="/alumniweekend2015/events_saturday.html" class="day">Sat</a> <a href="events_sunday.html" class="day">Sun</a></div>
+View events by day:<div class="events-days"><a href="/alumniweekend2015/events.html" class="day">All Events</a> <span class="onpage">Thurs & Fri</span> <a href="/alumniweekend2015/events_saturday.html" class="day">Sat</a> <a href="events_sunday.html" class="day">Sun</a></div>
   <ul class="post-list">
     {% for event in site.data.alumniweekend.events %}
       {% assign eventdate = event.event.event_date | date: "%F" %}
