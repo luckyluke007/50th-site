@@ -133,6 +133,10 @@ a.btn:hover {
         text-align: center;
         text-decoration: none;
         text-transform: uppercase;
+        @include media($mobile) {
+            font-size: $font-size-small/1.25; 
+            font-weight: bold;
+        }
     }
     a.day:hover {
         background: $ucsc-light-blue;
@@ -148,6 +152,10 @@ a.btn:hover {
         text-align: center;
         text-decoration: none;
         text-transform: uppercase;
+        @include media($mobile) {
+            font-size: $font-size-small/1.25;
+            font-weight: bold;
+        }
     }
 }
 .container {
