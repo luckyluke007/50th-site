@@ -1125,13 +1125,13 @@ video {
 .article-sharing {
     display: block;
     padding: .5em;
-    margin: 0 .5em 1em;
+    margin: 0 .5em .5em;
     clear: both;
     border-top: 0px;
     color: $ucsc-yellow;
     @include media($mobile){
         @include span-columns(12);
-        float: none;
+        float: left;
     }
     @include media($portrait){
         @include span-columns(6);
