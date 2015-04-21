@@ -906,15 +906,15 @@ a.give-btn:hover {
         float: none;
     }
     @include media($portrait){
-        @include span-columns(5);
+        @include span-columns(6);
         float: right;
     }
     @include media($tablet){
-        @include span-columns(5);
+        @include span-columns(6);
         float: right;
     }
     @include media($desktop){
-        @include span-columns(5);
+        @include span-columns(6);
         float: right;
     }
 }
@@ -1123,24 +1123,26 @@ video {
 }
 
 .article-sharing {
+    display: block;
     padding: .5em;
-    margin: 0 .5em .5em;
+    margin: 0 .5em 1em;
     clear: both;
     border-top: 0px;
+    color: $ucsc-yellow;
     @include media($mobile){
         @include span-columns(12);
         float: none;
     }
     @include media($portrait){
-        @include span-columns(5);
+        @include span-columns(6);
         float: right;
     }
     @include media($tablet){
-        @include span-columns(5);
+        @include span-columns(6);
         float: right;
     }
     @include media($desktop){
-        @include span-columns(5);
+        @include span-columns(6);
         float: right;
     }
 
