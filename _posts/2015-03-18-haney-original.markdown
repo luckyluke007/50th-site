@@ -6,6 +6,7 @@ categories: original-thinkers
 img: /css/assets/images/original-thinkers/haney.jpg
 permalink: /original-thinkers/craig-haney.html
 exclude_from_search: true
+alt: Craig Haney
 tags: 
 - ucsc50
 - original-thinkers

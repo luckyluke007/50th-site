@@ -5,6 +5,7 @@ date:   2014-10-03
 categories: forward
 img: /css/assets/images/posts/ranking/main.png
 permalink: rankings
+alt: THE - Times Higher Ed logo
 tags: 
 - ucsc50
 - first

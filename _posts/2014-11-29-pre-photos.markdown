@@ -5,6 +5,7 @@ date:   2013-11-29
 categories: photo
 img: /css/assets/images/posts/pre-photos/main.jpg
 permalink: pre-photos
+alt: Photo of Dean McHenry on the east field
 tags: 
 - ucsc50
 - pre-campus

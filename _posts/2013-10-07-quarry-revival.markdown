@@ -5,6 +5,7 @@ date:   2013-10-07
 categories: past
 img: /css/assets/images/posts/quarry-revival/main.jpg
 permalink: countdown
+alt: Quarry photo
 tags: 
 - ucsc50
 - ucsc

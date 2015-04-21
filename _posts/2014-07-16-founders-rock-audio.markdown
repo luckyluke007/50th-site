@@ -6,6 +6,7 @@ img: /css/assets/images/dedication.jpg
 alt: Listen to 1964 ceremony
 video: https://www.youtube.com/watch?v=0LfakJersWE
 permalink: dedication/audio.html
+alt: Dedication soundcloud
 tags: 
 - ucsc50
 - 50thdedication

@@ -5,6 +5,7 @@ date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/zihlman-adrienne.jpg
 permalink: /original-thinkers/adrienne-zihlman.html
+alt: Adriene Zilman
 exclude_from_search: true
 tags: 
 - ucsc50

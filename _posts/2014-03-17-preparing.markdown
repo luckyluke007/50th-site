@@ -5,6 +5,7 @@ date:   2014-03-17
 categories: past
 img: /css/assets/images/posts/preparing/main.jpg
 permalink: preparing
+alt: Governor Edmund G. "Pat" Brown, UC President Clark Kerr
 tags: 
 - ucsc50
 - preparing50

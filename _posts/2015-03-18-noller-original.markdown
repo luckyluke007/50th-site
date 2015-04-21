@@ -6,6 +6,7 @@ categories: original-thinkers
 img: /css/assets/images/original-thinkers/harry-noller.jpg
 permalink: /original-thinkers/harry-noller.html
 exclude_from_search: true
+alt: Harry Noller
 tags: 
 - ucsc50
 - original-thinkers

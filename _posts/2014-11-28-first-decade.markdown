@@ -5,6 +5,7 @@ date:   2013-11-28
 categories: photo
 img: /css/assets/images/posts/first-decade/main.jpg
 permalink: 1965-1974
+alt: Pioneer faculty
 tags: 
 - ucsc50
 - ucsc

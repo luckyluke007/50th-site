@@ -5,6 +5,7 @@ date:   2013-11-26
 categories: photo
 img: /css/assets/images/posts/third-decade/main.jpg
 permalink: 1985-1994
+alt: McHenry library after earthquake
 tags: 
 - ucsc50
 - 1985-94

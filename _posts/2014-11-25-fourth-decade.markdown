@@ -5,6 +5,7 @@ date:   2013-11-26
 categories: photo
 img: /css/assets/images/posts/fourth-decade/main.jpg
 permalink: 1995-2004
+alt: David Hausller 
 tags: 
 - ucsc50
 - ucsc

@@ -6,6 +6,7 @@ categories: original-thinkers
 img: /css/assets/images/original-thinkers/john-wilkes.jpg
 permalink: /original-thinkers/john-wilkes.html
 exclude_from_search: true
+alt: John Wilkes
 tags: 
 - ucsc50
 - original-thinkers

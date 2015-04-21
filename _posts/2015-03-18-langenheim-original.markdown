@@ -6,6 +6,7 @@ categories: original-thinkers
 img: /css/assets/images/original-thinkers/jean.jpg
 permalink: /original-thinkers/jean-langenheim.html
 exclude_from_search: true
+alt: Jean Langenheim
 tags: 
 - ucsc50
 - original-thinkers

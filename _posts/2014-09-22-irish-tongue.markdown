@@ -5,6 +5,7 @@ date:   2014-09-22
 categories: forward
 img: /css/assets/images/posts/irish-tongue/main.jpg
 permalink: language
+alt: Jaye Padgett - photo
 tags: 
 - ucsc50
 - irish

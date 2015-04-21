@@ -6,6 +6,7 @@ categories: original-thinkers
 img: /css/assets/images/original-thinkers/reinarman-craig.jpg
 permalink: /original-thinkers/craig-reinarman.html
 exclude_from_search: true
+alt: Craig Reinarman
 tags: 
 - ucsc50
 - original-thinkers

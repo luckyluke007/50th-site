@@ -5,6 +5,7 @@ date:   2014-12-10
 categories: past
 img: /css/assets/images/posts/birth-story/main.jpg
 permalink: the-birth
+alt: Student dancing in black white photo
 tags: 
 - ucsc50
 - ucsantacruz

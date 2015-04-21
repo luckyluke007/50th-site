@@ -3,6 +3,7 @@ layout: redirect
 title:  "Who says you can’t crack open a star?"
 date:   2015-01-23
 categories: forward
+alt: Photo of the sun
 img: /css/assets/images/posts/open-star/main.jpg
 permalink: open-star
 source_url: http://50years.ucsc.edu/whosays/?utm_source=redirect&utm_medium=web&utm_campaign=whosays

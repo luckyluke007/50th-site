@@ -5,6 +5,7 @@ date:   2014-06-04
 categories: forward
 img: /css/assets/images/posts/arts-and-sciences/main.jpg
 permalink: arts-sciences
+alt: Sketch of the new IAS building
 tags: 
 - ucsc50
 - arts
