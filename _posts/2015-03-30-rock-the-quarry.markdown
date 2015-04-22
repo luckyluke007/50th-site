@@ -15,4 +15,6 @@ tags:
 
 <iframe src="https://www.youtube.com/embed/PZ2jZCfSi8k" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="iframe-youtube"></iframe>
 
-[RESTORING THE QUARRY AMPHITHEATER](http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/)
+- [Restoring the Quarry Amphitheater](http://campaign.ucsc.edu/priorities/student-experience/the-quarry-amphitheater/)
+- [Student support gives major boost to Quarry reopening](/student-support-quarry/index.html)
+
