@@ -29,11 +29,11 @@ This winter, *UC Santa Cruz Review* set up a "roundtable" of voices from the pas
 
 Our roundtablers include:
 
-• Economics professor **David Kaun**, a faculty member since 1966
+- Economics professor **David Kaun**, a faculty member since 1966
 
-• Pioneer students **Jock Reynolds** (Stevenson '69, psychology), a renowned artist and museum director; **Michael Gerber** (Cowell '69, economics), a professor in UC Santa Barbara's Graduate School of Education, and his wife, **Kathy Gerber** (Stevenson '69, psychology), a retired teacher (the two met while working together on UC Santa Cruz's first ever yearbook); and **Meg Zweiback** (Merrill '69, politics), a pediatric nurse practitioner and author
+- Pioneer students **Jock Reynolds** (Stevenson '69, psychology), a renowned artist and museum director; **Michael Gerber** (Cowell '69, economics), a professor in UC Santa Barbara's Graduate School of Education, and his wife, **Kathy Gerber** (Stevenson '69, psychology), a retired teacher (the two met while working together on UC Santa Cruz's first ever yearbook); and **Meg Zweiback** (Merrill '69, politics), a pediatric nurse practitioner and author
 
-• Staff members **Katherine Beiers**, a retired UC Santa Cruz librarian who worked at McHenry Library from 1967 to 1992; and retired housing administrator **Jerry Walters**
+- Staff members **Katherine Beiers**, a retired UC Santa Cruz librarian who worked at McHenry Library from 1967 to 1992; and retired housing administrator **Jerry Walters**
 
 #### Breaking ground
 **There was a strong sense of breaking new ground, not just on the physical campus but also in the classrooms.**
