@@ -115,13 +115,24 @@ a.back-button, a.back-button:active {
     background: $ucsc-yellow;
     margin: 0 auto 0 auto !important;
     font-size: $font-size-small;
-    @include span-columns(4);
     text-transform: uppercase;
     color: $ucsc-white;
     font-weight: 400;
     text-decoration: none;
     float: none !important;
     @include border-radius-bottom(.35em);
+    @include media($mobile) {
+        @include span-columns(12);
+    }
+    @include media($portrait) {
+        @include span-columns(12);
+    }
+    @include media($tablet) {
+        @include span-columns(12);
+    }
+    @include media($desktop) {
+        @include span-columns(4);
+    }
 }
 
 /* Original Thinkers */
