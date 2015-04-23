@@ -61,7 +61,7 @@ permalink: /alumniweekend2015/events.html
         </h2>        
         <p>
 
-        <span class="event-location">{{ event.event.event_date | date: "%-I:%M %P" }} | {{ event.event.location }}{{ event.event.location_details }}</span> 
+        <span class="event-location">{{ event.event.event_date | date: "%-I:%M %P" }} | {{ event.event.location }} &nbsp; {{ event.event.location_details }}</span> 
         <span class="event-teaser">{{ event.event.teaser | strip_html | truncatewords:40 }}</span>
         </p>
         </div>
