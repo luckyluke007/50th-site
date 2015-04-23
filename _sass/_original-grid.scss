@@ -116,7 +116,7 @@ a.back-button, a.back-button:active {
     margin: 0 auto 0 auto !important;
     font-size: $font-size-small;
     text-transform: uppercase;
-    color: $ucsc-white;
+    color: $ucsc-blue;
     font-weight: 400;
     text-decoration: none;
     float: none !important;
@@ -133,6 +133,16 @@ a.back-button, a.back-button:active {
     @include media($desktop) {
         @include span-columns(4);
     }
+}
+a.back-button:after {
+    content:"";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("/css/assets/images/arrow-original.svg") no-repeat center left;
+    background-size: 20px;
+    position: absolute;
+    margin-top: -.15em;
 }
 
 /* Original Thinkers */
