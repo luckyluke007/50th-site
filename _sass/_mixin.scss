@@ -30,6 +30,16 @@
           border-top-left-radius: $radius;
 }
 
+@mixin border-radius-bottom($radius) {
+  -webkit-border-bottom-left-radius: $radius;
+  -webkit-border-bottom-right-radius: $radius;
+    -moz-border-bottom-left-radius: $radius;
+     -moz-border-bottom-right-radius: $radius;
+      -ms-border-bottom-left-radius: $radius;
+      -ms-border-bottom-right-radius: $radius;
+          border-bottom-left-radius: $radius;
+}
+
 @mixin h1 {
   font-weight: 200;
   font-size: $font-size-h1;
