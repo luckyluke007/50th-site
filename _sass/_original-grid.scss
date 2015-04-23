@@ -185,10 +185,10 @@ a.back-button:after {
         margin: 0 auto 0 auto;
     }
     @include media($portrait){
-        max-width: 268px; 
+        max-width: 400px; 
     }
     @include media($tablet){
-        max-width: 268px; 
+        max-width: 370px; 
     }
     @include media($desktop){
         max-width: 268px; 
@@ -202,10 +202,10 @@ a.back-button:after {
         margin: 0 auto 0 auto;
     }
     @include media($portrait){
-        max-width: 268px; /* image width */
+        max-width: 400px; /* image width */
     }
     @include media($tablet){
-        max-width: 268px; /* image width */
+        max-width: 370px; /* image width */
     }
     @include media($desktop){
         max-width: 268px; /* image width */

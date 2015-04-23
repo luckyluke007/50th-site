@@ -819,8 +819,8 @@ a.give-btn:hover {
        
         position: absolute;
         @include media ($mobile){
-            width: 6em;
-            margin: 12em 0 0 7.5em; 
+            width: 3em;
+            margin: 3em 0 0 7.5em; 
         }
         @include media ($portrait){
             width: 6em;
@@ -828,7 +828,7 @@ a.give-btn:hover {
         }
         @include media ($tablet){
             width: 6em;
-            margin: 20em 0 0 20em;
+            margin: 8em 0 0 20em;
         }
         @include media ($desktop){
             width: 4em;
@@ -1225,7 +1225,7 @@ video {
     }
     & li:last-of-type {
         border-bottom: none;
-        margin-bottom: 0em;
+        margin-bottom: 1em;
     }
     > ul li {
         list-style: circle;
