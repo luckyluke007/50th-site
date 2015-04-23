@@ -113,13 +113,14 @@ a.back-button, a.back-button:active {
     padding: .5em;
     text-align: center;
     background: $ucsc-yellow;
-    margin: 0;
+    margin: 0 auto 0 auto !important;
     font-size: $font-size-small;
-    @include span-columns(12);
+    @include span-columns(5.12);
     text-transform: uppercase;
     color: $ucsc-white;
     font-weight: 400;
     text-decoration: none;
+    float: none !important;
 }
 
 /* Original Thinkers */
