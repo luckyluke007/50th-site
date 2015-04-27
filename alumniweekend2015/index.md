@@ -14,7 +14,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -23,7 +23,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015 </h2>
 							<div class="photostack-back">
-								<p>Thank you for come home./p>
+								<p>Thank you for coming home./p>
 							</div>
 						</figcaption>
 					</figure>
@@ -32,7 +32,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -41,7 +41,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -50,7 +50,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -59,7 +59,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -68,7 +68,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -77,7 +77,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -86,7 +86,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -95,7 +95,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -104,7 +104,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -113,7 +113,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -122,7 +122,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -131,7 +131,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -140,7 +140,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -149,7 +149,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -158,7 +158,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -167,7 +167,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -176,7 +176,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -185,7 +185,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
@@ -194,7 +194,7 @@ permalink: /alumniweekend2015/index.html
 						<figcaption>
 							<h2 class="photostack-title">Alumni Weekend 2015</h2>
 							<div class="photostack-back">
-								<p>Thank you for come home.</p>
+								<p>Thank you for coming home.</p>
 							</div>
 						</figcaption>
 					</figure>
