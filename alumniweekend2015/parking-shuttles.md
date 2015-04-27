@@ -2,6 +2,7 @@
 layout: post-aw
 title: Parking and Shuttles
 permalink: /alumniweekend2015/parking-shuttles.html
+exclude_from_search: true
 ---
 
 {% img /css/assets/images/aw-2015/transportation.jpg "Parking and shuttles" "Parking and shuttles" %}
