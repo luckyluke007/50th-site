@@ -47,13 +47,10 @@ permalink: /alumniweekend2015/events.html
           </ul>
         </div>
       </section>
-  View events by day:<div class="events-days"><span class="onpage">All Events</span> <a href="events_sunday.html" class="day">Sun</a></div>
 
   <ul class="post-list">
     {% for event in site.data.alumniweekend.events %}
-      {% assign eventdate = event.event.event_date | date: "%F" %}
-      {% assign sitedate = site.time | date: "2015-04-26" %}
-      {% if eventdate >= sitedate %}
+     
       <li>
         <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
         <div class="event-content">
@@ -71,8 +68,6 @@ permalink: /alumniweekend2015/events.html
         </div>
       </li>
       <div class="clear"></div>
-      {% else %}
-      {% endif %}
     {% endfor %}
   </ul>
 
