@@ -10,5 +10,5 @@ permalink: /alumniweekend2015/photos.html
 ### See Alumni Weekend 2015 Photos
 
 - [Alumni Weekend Favorites](https://www.flickr.com/photos/ucsantacruz/sets/72157652216165831/)
-
 - [Photo Booth](https://www.flickr.com/photos/ucsantacruz/sets/72157652138014411/)
+- [Storify: Biggest alumni bash ever](https://storify.com/ucsc/uc-santa-cruz-alumni-weekend-2015)
