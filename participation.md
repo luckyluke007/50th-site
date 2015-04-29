@@ -9,14 +9,14 @@ Whether you are near or far you can still join the fun and be an active part of 
  
 ##Volunteer opportunities
 
+### An Alumni Weekend to remember
+Record-breaking crowd of alumni celebrate UC Santa Cruz's 50th anniversary by coming back to campus for talks, tours, good food, and good company. [Read about](http://news.ucsc.edu/2015/04/50th-alumni-weekend-feature-story.html?utm_source=50th-participation&utm_medium=web&utm_campaign=aw-2015) this years weekend and consider coming for next year’s.  [Read More](http://news.ucsc.edu/2015/04/50th-alumni-weekend-feature-story.html?utm_source=50th-participation&utm_medium=web&utm_campaign=aw-2015)
+
 ### 50 for 50
 50 for 50 is a volunteer opportunity for faculty, staff and students. Volunteer 50 hours of service in your community and give a  gift that truly matters. Help us celebrate a meaningful milestone in a meaningful way—in a true UC Santa Cruz way. [Get involved](http://50for50.ucsc.edu)
 
 ###Banana Slugs near you
 In locations around the country, UC Santa Cruz alumni and friends get together to enjoy each other's company, network, and participate in events and activities. You can volunteer to help plan events in your area, or just join the fun! [More information](http://alumni.ucsc.edu/volunteer/volunteer_opportunities/regionalevents/index.html)
- 
-### Alumni Weekend outreach
-Alumni Weekend and reunion celebrations are more lively, fun, and inspiring if classmates come back to celebrate with you. No matter the amount of time you are able to commit, we have an opportunity for you. [More information](http://specialevents.ucsc.edu/alumniweekend/alumni-weekend-outreach-volunteers.html)
   
 ### Recruit new students
 Talk to prospective students, attend college fairs, and inspire the next generation of alumni. Share your experience at high school and community colleges, and at Admissions events in the spring before students make their final decision. [Click here](http://admissions.sa.ucsc.edu/volunteers/) to sign up, or for more information contact the Office of Admissions at (831) 459-4008 or [admissions@ucsc.edu](mailto:admissions@ucsc.edu).
