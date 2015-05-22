@@ -3,17 +3,10 @@ layout: default-founders
 ---
 
 
-<div class="left-column"> 
-	<header class="post-header">
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
+<div class="single-column-center founders-background"> 
   <article class="post-content">
     {{ content }}
   </article>
 {% include social-sharing.html %}
 </div>
-<!-- RIGHT COLUMN -->
-<div class="right-column">
- {% include founders-sidebar.html %}
-</div>
+

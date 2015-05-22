@@ -300,7 +300,7 @@ a.btn:hover {
                 @include span-columns(12);
             }
             @include media ($portrait) {
-                @include span-columns(6);
+                @include span-columns(12);
             }
             @include media ($tablet) {
                 @include span-columns(6);
@@ -313,7 +313,6 @@ a.btn:hover {
     }
     .nav {
         border-bottom: 1px solid $ucsc-white;
-        padding-top: 3.35em;
         /*Strip the ul of padding and list styling*/
             ul {
                 list-style-type:none;
@@ -393,7 +392,7 @@ a.btn:hover {
                 background: $ucsc-yellow;
                 font-size: $font-size-h3;
                 text-align: center;
-                padding: 10px 0;
+                padding: 5px 0;
                 display: none;
             }
 
@@ -439,14 +438,18 @@ a.btn:hover {
             }
         @include media ($mobile) {
             @include span-columns(12);
+            padding-top: 2.25em;
         }
         @include media ($portrait) {
             @include span-columns(12);
+            padding-top: 3em;
         }
         @include media ($tablet) {
             @include span-columns(12);
+            padding-top: 3em;
         }
         @include media ($desktop) {
+            padding-top: 3.35em;
             width: auto !important;
             float: right !important;
             margin-right: .35em;
@@ -545,7 +548,6 @@ section.front-promo {
 }
 //SUBPAGE//
 section.content {
-    
     color: $ucsc-white;
     position: absolute;
 
@@ -676,30 +678,44 @@ section.content {
                 @include span-columns(6);
             }
         }
+        .single-column-center {
+            display: inline-block;
+            padding: .5em;
+            float: center !important;
+            text-align: center;
+            margin: 0 auto 0 auto !important;
+            box-shadow: 2px 2px 10px $ucsc-white;
+            @include border-radius(.50em);
+            @include media($tablet){
+                @include span-columns(12); 
+            }
+            @include media($desktop){
+                @include span-columns(8);
+            }
+        }
         
         //END FOUR COLUMN
     // SECTION RESPONSIVE
     @include media ($mobile){
-        margin: 16em 0 0 0; // space skip header //
+        margin: 11em 0 0 0; // space skip header //
     }
     @include media ($portrait){
-        margin: 16em 0 0 0; // space skip header //
+        margin:12em 0 0 0; // space skip header //
     }
     @include media ($tablet){
-        margin: 16em 0 0 0; // space skip header //
+        margin: 12em 0 0 0; // space skip header //
     }
     @include media ($desktop){
-        margin: 10em 0 0 0; // space skip header //
+        margin: 8em 0 0 0; // space skip header //
     }
 }
 .timeline {
     @include span-columns(12);
     display: block;
-    
     .yourevent {
     display: block;
     margin: -.65em 0 0 .35em;
-        span {
+    span {
         display: block;
         padding: .75em 0 0 0;
         }
@@ -1095,7 +1111,7 @@ video {
 }    
 //END BIG VIDEOJS//
 .social-share, .article-sharing {
-    display: block;
+    display: inline-block;
     padding: .5em 0 .5em 0;
     border-top: 1px solid $ucsc-white;
     margin-bottom: 2em;
@@ -1655,5 +1671,23 @@ section.aw-slider {
     a:hover {
         text-decoration: none;
         color: $ucsc-light-blue;
+    }
+}
+// FOUNDERS SAVE THE DATE
+.founders-background {
+    background: url('/css/assets/images/founders/save-the-date-img.png') no-repeat top center;
+    background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+}
+.space-top-img {
+    display: inline-block;
+    width: 100%;
+    @include media($mobile){
+        margin-top: 125px;
+    }
+    @include media($desktop){
+        margin-top: 300px;
     }
 }
