@@ -6,13 +6,7 @@
     font-family: $font-family-sans-serif;
     height: 100%;
  }
- .east-field-bg {
-    background: url('/css/assets/images/background-image.jpg') no-repeat 100% 100% fixed;
-    background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -webkit-background-size: cover;
- }
+
 .top-border {
     width: 100%;
     @include media($mobile) {
@@ -1671,23 +1665,5 @@ section.aw-slider {
     a:hover {
         text-decoration: none;
         color: $ucsc-light-blue;
-    }
-}
-// FOUNDERS SAVE THE DATE
-.founders-background {
-    background: url('/css/assets/images/founders/save-the-date-img.png') no-repeat top center;
-    background-size: 100% auto;
-    -webkit-background-size: 100% auto;
-    -moz-background-size: 100% auto;
-    -o-background-size: 100% auto;
-}
-.space-top-img {
-    display: inline-block;
-    width: 100%;
-    @include media($mobile){
-        margin-top: 125px;
-    }
-    @include media($desktop){
-        margin-top: 300px;
     }
 }

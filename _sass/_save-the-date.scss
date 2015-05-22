@@ -1,0 +1,62 @@
+
+section .save-the-date-header {
+    display: inline-block;
+    width: 100%;
+    float: center !important;
+    .container {
+        height: 6.875em;
+        float: center;
+        display: inline-block;
+        @include outer-container;
+    }
+    .logo {
+            display: block;
+            height: 6.875em;
+            overflow: auto;
+            text-indent: -9000px;
+            @include media ($mobile) {
+                @include span-columns(12);
+                background: url("assets/images/logo.svg") no-repeat bottom center;
+                background-size: 18em;
+            }
+            @include media ($portrait) {
+                @include span-columns(12);
+                background: url("assets/images/logo.svg") no-repeat bottom left;
+                background-size: 22.813em;
+            }
+            @include media ($tablet) {
+                @include span-columns(6);
+                background: url("assets/images/logo.svg") no-repeat bottom left;
+                background-size: 22.813em;
+            }
+            @include media ($desktop) {
+                @include span-columns(4 of 12);
+                background: url("assets/images/logo.svg") no-repeat bottom left;
+                background-size: 22.813em;
+            }
+        }
+    @include media($tablet){
+                @include span-columns(12); 
+    }
+    @include media ($desktop){
+        @include span-columns(8);
+    }
+}
+
+.founders-background {
+    background: url('/css/assets/images/founders/save-the-date-img.png') no-repeat top center;
+    background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -o-background-size: 100% auto;
+}
+.space-top-img {
+    display: inline-block;
+    width: 100%;
+    @include media($mobile){
+        margin-top: 125px;
+    }
+    @include media($desktop){
+        margin-top: 300px;
+    }
+}
