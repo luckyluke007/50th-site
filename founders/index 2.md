@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 2015 Founders Celebration
+title: Fiat Fifty - Founders
 img: /css/assets/images/aw-2015/slider/2.jpg
-permalink: /founders/index.html
+permalink: /founders/index_test.html
 exclude_from_search: true
 ---
-# {% img full-size /css/assets/images/founders/fiat-fifty.svg "Fiat Fifty with Alice Waters" "Fiat Fifty with Alice Waters" %}
+# {% img space-top-img /css/assets/images/founders/fiat-fifty.svg "Fiat Fifty with Alice Waters" "Fiat Fifty with Alice Waters" %}
 
 ### A spectacular evening under stars in celebration of radicals, trailblazers, and legends.
 

@@ -731,6 +731,13 @@ a.give-btn:hover {
     width: 100%;
 }
 
+.full-size-top-radius {
+    border-top-left-radius:.5em;
+    border-top-right-radius:.5em;
+    display: block;
+    width: 100%;
+}
+
 .half-size {
     display: block;
     width: 50%;

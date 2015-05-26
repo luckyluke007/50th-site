@@ -1,5 +1,5 @@
 ---
-layout: post-founders
+layout: post
 title: Places to Stay
 img: /css/assets/images/aw-2015/dream-inn.jpg
 permalink: /founders/hotels.html

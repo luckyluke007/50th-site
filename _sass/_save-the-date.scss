@@ -1,45 +1,22 @@
 
-section .save-the-date-header {
-    display: inline-block;
+section.save-the-date-header {
+    display: block;
     width: 100%;
     float: center !important;
     .container {
         height: 6.875em;
         float: center;
-        display: inline-block;
+        display: block;
         @include outer-container;
     }
-    .logo {
-            display: block;
-            height: 6.875em;
-            overflow: auto;
-            text-indent: -9000px;
-            @include media ($mobile) {
-                @include span-columns(12);
-                background: url("assets/images/logo.svg") no-repeat bottom center;
-                background-size: 18em;
-            }
-            @include media ($portrait) {
-                @include span-columns(12);
-                background: url("assets/images/logo.svg") no-repeat bottom left;
-                background-size: 22.813em;
-            }
-            @include media ($tablet) {
-                @include span-columns(6);
-                background: url("assets/images/logo.svg") no-repeat bottom left;
-                background-size: 22.813em;
-            }
-            @include media ($desktop) {
-                @include span-columns(4 of 12);
-                background: url("assets/images/logo.svg") no-repeat bottom left;
-                background-size: 22.813em;
-            }
-        }
+    
     @include media($tablet){
                 @include span-columns(12); 
     }
     @include media ($desktop){
-        @include span-columns(8);
+        position: absolute;
+        @include span-columns(6);
+        @include shift(3);
     }
 }
 
