@@ -14,5 +14,3 @@ exclude_from_search: true
 Join us for a once-in-a-lifetime evening and be part of the crowning event of UC Santa Cruz’s 50th celebratory year.
 
 This year’s Founders Celebration Dinner, will be unlike anything we have done before. Served alfresco overlooking Monterey Bay we will honor chef and food activist Alice Waters with the Founders Medal and our pioneer staff and faculty with the Fiat Lux Award in an electrifying night under the stars.
-
-
