@@ -891,6 +891,7 @@ a.give-btn:hover {
     width: 100%;
     max-width: 700px;
     height: 394px;
+    margin: .5em 0 .5em 0;
 }
 .caption{
     display: block;
@@ -1297,4 +1298,30 @@ video {
 }
 .float-center {
     float: center;
+}
+
+// List style
+.list-type {
+    display: block;
+    margin-bottom: 2em !important;
+}
+
+// button
+
+.full-width-button, .full-width-button:active {
+    display: block;
+    background: $ucsc-yellow;
+    padding: .5em;
+    @include border-radius(.25em);
+    @include span-columns(12);
+    color: $ucsc-blue;
+    margin: 0 0 1.5em 0;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 500;
+}
+.full-width-button:hover {
+    background: $ucsc-light-blue;
+    color: $ucsc-yellow;
+    text-decoration: none;
 }
