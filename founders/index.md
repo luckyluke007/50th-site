@@ -27,6 +27,6 @@ Were you a UC Santa Cruz student in 1965? <a href="#">See what we are planning f
 
 ***
 
-#### Our annual Founders celebration window will be bigger and better than ever. <br>Check back and stay tuned for details as they become available.
+#### <div style="text-align:center">Our annual Founders celebration window will be bigger and better than ever. <br>Check back and stay tuned for details as they become available.</div>
 
 ***
