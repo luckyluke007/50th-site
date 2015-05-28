@@ -6,7 +6,9 @@ permalink: /founders/honorees.html
 exclude_from_search: true
 ---
 
-## <a name="foundersmedal"></a>Founders Medal: Alice Waters
+***
+
+## Foundation Medal: Alice Waters
 Chef, restaurateur, activist, and author Alice Waters, proprietor of legendary Berkeley restaurant Chez Panisse, has been cited as one of the most influential figures in food in the past 50 years, and has been called the mother of American food.
 
 One of the most visible supporters of the organic food movement, she is a pioneer of a culinary philosophy that maintains that cooking should be based on the finest and freshest seasonal ingredients that are produced sustainably and locally.
@@ -15,7 +17,9 @@ Waters's commitment to education led to the creation in 1996 of The Edible Schoo
 
 The success of The Edible Schoolyard led to the School Lunch Initiative, whose national agenda integrates a nutritious daily lunch and gardening experience into the academic curriculum of all public schools in the United States.
 
-## <a name="fiatlux"></a>Fiat Lux: Recognizing our pioneers
+***
+
+## Fiat Lux Award: Recognizing our pioneers
 They came to a brand-new university with no established traditions—hardly any buildings, even—because it offered them the chance to take risks, challenge themselves and their students, and start a place where they had the freedom to do new things.
 
 In an especially poignant moment during UC Santa Cruz's 50th year, we will bestow the Fiat Lux Award on our pioneer staff and faculty—those who took a leap of faith, helped launch a significant educational experiment, and made innovation part of the campus DNA.

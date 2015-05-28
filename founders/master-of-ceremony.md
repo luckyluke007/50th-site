@@ -1,13 +1,14 @@
 ---
 layout: post-save-the-date
-title: Master of Ceremony
+title: Master of Ceremony&#58; Kathryn Sullivan
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/master-of-ceremony.html
 exclude_from_search: true
 ---
 
-## Kathryn Sullivan
-Dynamic speaker Kathryn Sullivan is a former astronaut who now heads the National Oceanic and Atmospheric Administration (NOAA).
+<div class="caption">
+{% img full-size /css/assets/images/founders/sullivan-kathryn.jpg "Kathryn Sullivan" "Kathryn Sullivan" %}
+</div>Dynamic speaker Kathryn Sullivan is a former astronaut who now heads the National Oceanic and Atmospheric Administration (NOAA).
 
 Sullivan was the first American woman to walk in space and served on the shuttle mission that deployed the Hubble Space Telescope. In 2014, she was featured on Time magazine's list of the "100 Most Influential People in the World."
 
