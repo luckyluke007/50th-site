@@ -1372,3 +1372,48 @@ video {
       border-left: 1px solid $ucsc-light-blue;
     }
 }
+
+.ticket-title {
+    display: block;
+    float: left;
+    @include media($mobile) {
+      @include span-columns(12);  
+    }
+    @include media($portrait) {
+      @include span-columns(12); 
+    }
+    @include media($tablet) {
+      @include span-columns(5); 
+    }
+    @include media($desktop) {
+      @include span-columns(5);  
+    }
+}
+.ticket-button {
+    display: block;
+    margin-left: 0 !important;
+    @include media($mobile) {
+      @include span-columns(12); 
+      margin-right: 2.35765% !important; 
+    }
+    @include media($portrait) {
+      @include span-columns(12);
+      margin-right: 2.35765% !important;  
+    }
+    @include media($tablet) {
+      @include span-columns(7); 
+      padding-left: 1em;
+      margin-right: 0 !important;
+
+    }
+    @include media($desktop) {
+      @include span-columns(7); 
+      padding-left: 1em; 
+      margin-right: 0 !important;
+    }
+}
+.ticket-border {
+    display: block;
+    border-bottom: 1px solid $ucsc-light-blue; 
+    margin-bottom: 1em;
+}

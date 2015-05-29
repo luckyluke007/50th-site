@@ -15,18 +15,11 @@ Join us for a once-in-a-lifetime evening and be part of the crowning event of UC
 
 This year’s Founders Celebration dinner will be unlike anything we have done before. Served in a pavilion overlooking Monterey Bay, Kathryn Sullivan (Stevenson ‘73), the first American woman to walk in space, will be our master of ceremonies as we honor chef and food activist Alice Waters with the Foundation Medal and our pioneer staff and faculty with the Fiat Lux Award in an electrifying night under the stars.
 
+<div class="single-column ticket-border"><div class="ticket-title">
+<h3>RSVP for Fiat Fifty! With Alice Waters</h3></div><div class="ticket-button"><a href="#" class="full-width-button"><h3 style="margin:0; padding:0; font-weight: 500;">Get Tickets!</h3></a></div></div>
 
-### RSVP for Fiat Fifty! With Alice Waters &nbsp;
-### <a href="#" class="full-width-button">Get Tickets!</a>
+<div class="single-column ticket-border"><div class="ticket-title"><h4>Were you staff or faculty in 1964–67? If so, we invite you to be our guest.</h4></div><div class="ticket-button"><a href="#" class="full-width-button">Be Our Guest</a></div><div>
 
+<div class="single-column">Were you a UC Santa Cruz student in 1965? <a href="/founders/pioneer-reunion.html">Get dinner ticket(s) and register for Pioneer Reunion event.</a></div>
 
-#### Were you staff or faculty in 1964–67? If so, we invite you to be our guest.
-<a href="#" class="full-width-button">Be Our Guest</a>
-
-Were you a UC Santa Cruz student in 1965? <a href="/founders/pioneer-reunion.html">See what we are planning for you.</a>
-
-***
-
-#### <div style="text-align:center">Our annual Founders celebration window will be bigger and better than ever. <br>Check back and stay tuned for details as they become available.</div>
-
-***
+<div class="single-column" style="text-align:center;"><hr><h4>Our annual Founders celebration window will be bigger and better than ever. <br>Check back and stay tuned for details as they become available.</h4><hr></div>
