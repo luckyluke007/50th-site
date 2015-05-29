@@ -3,6 +3,7 @@
     {% for tag in page.tags %}
         {% capture tagStr %}{{ tagStr }},{{ tag }}{% endcapture %}
     {% endfor %}
+<div class="clear">&nbsp;</div>
 <div class="social-share">
 	<h4>Share This Page</h4>
     <a class="social-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ url }}?ref=50yearsshare&via=ucsc&hashtags={{ tagStr }}" target="_blank" title="Share this post on Twitter">Twitter</a>

@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: 2015 Founders Celebration
+title: Save the date
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/index.html
 exclude_from_search: true
@@ -20,10 +20,10 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 ### <a href="#" class="full-width-button">Get Tickets!</a>
 
 
-#### Were you UC Santa Cruz staff or faculty in 1964–67? If so, we invite you to be our guest.
+#### Were you staff or faculty in 1964–67? If so, we invite you to be our guest.
 <a href="#" class="full-width-button">Be Our Guest</a>
 
-Were you a UC Santa Cruz student in 1965? <a href="#">See what we are planning for you.</a>
+Were you a UC Santa Cruz student in 1965? <a href="/founders/pioneer-reunion.html">See what we are planning for you.</a>
 
 ***
 

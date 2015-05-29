@@ -1325,3 +1325,50 @@ video {
     color: $ucsc-yellow;
     text-decoration: none;
 }
+
+//SAVE THE DATE FOUNDERS
+
+.award-title {
+    display: block;
+    float: left;
+    @include media($mobile) {
+      @include span-columns(12);  
+      border-bottom: 1px solid $ucsc-light-blue;
+    }
+    @include media($portrait) {
+      @include span-columns(12); 
+      border-bottom: 1px solid $ucsc-light-blue; 
+    }
+    @include media($tablet) {
+      @include span-columns(4); 
+      border-bottom: 0px solid $ucsc-light-blue; 
+    }
+    @include media($desktop) {
+      @include span-columns(4);  
+      border-bottom: 0px solid $ucsc-light-blue;
+    }
+}
+.honoree-content {
+    display: block;
+    margin-left: 0 !important;
+    @include media($mobile) {
+      @include span-columns(12); 
+      margin-right: 2.35765% !important; 
+    }
+    @include media($portrait) {
+      @include span-columns(12);
+      margin-right: 2.35765% !important;  
+    }
+    @include media($tablet) {
+      @include span-columns(8); 
+      padding-left: 1em;
+      margin-right: 0 !important;
+      border-left: 1px solid $ucsc-light-blue;
+    }
+    @include media($desktop) {
+      @include span-columns(8); 
+      padding-left: 1em; 
+      margin-right: 0 !important;
+      border-left: 1px solid $ucsc-light-blue;
+    }
+}
