@@ -16,7 +16,7 @@ Join us for a once-in-a-lifetime evening and be part of the crowning event of UC
 This year’s Founders Celebration dinner will be unlike anything we have done before. Served in a pavilion overlooking Monterey Bay, Kathryn Sullivan (Stevenson ‘73), the first American woman to walk in space, will be our master of ceremonies as we honor chef and food activist Alice Waters with the Foundation Medal and our pioneer staff and faculty with the Fiat Lux Award in an electrifying night under the stars.
 
 
-### RSVP for Fiat Fifty! With Alice Waters
+### RSVP for Fiat Fifty! With Alice Waters &nbsp;
 ### <a href="#" class="full-width-button">Get Tickets!</a>
 
 
