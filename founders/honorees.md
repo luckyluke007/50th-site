@@ -9,9 +9,9 @@ exclude_from_search: true
 <div class="award-title"><h2>Foundation Medal:</h2>
 <p><em>For extraordinary vision, literary achievement and commitment to sustainable food systems.</em></p></div>
 
-<div class="caption">
-{% img full-size /css/assets/images/founders/alicewaters.jpg "Alice Waters" "Alice Waters" %}
-</div><div class="honoree-content"><h3>Alice Waters</h3>
+<div class="honoree-content"><div class="caption">
+{% img full-size /css/assets/images/founders/alice-waters.jpg "Alice Waters" "Alice Waters" %}
+</div><h3>Alice Waters</h3>
 
 <p>Chef, restaurateur, activist, and author Alice Waters, proprietor of legendary Berkeley restaurant Chez Panisse, has been cited as one of the most influential figures in food in the past 50 years, and has been called the mother of American food.</p>
 
