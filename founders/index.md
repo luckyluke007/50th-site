@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: FIAT FIFTY&#58; SAVE THE DATE
+title: Fiat Fifty&#58; Save the date
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/index.html
 exclude_from_search: true

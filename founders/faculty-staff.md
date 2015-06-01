@@ -11,5 +11,7 @@ For our 50th anniversary we will honor the people that helped to open our doors 
 We look forward to celebrating with you.
 
 Please email or call Diana Hogue to RSVP:
+
 Phone: 831.459.5904
+
 Email: [dhogue@ucsc.edu](mailto:dhogue@ucsc.edu)
