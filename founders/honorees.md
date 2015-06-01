@@ -7,7 +7,7 @@ exclude_from_search: true
 ---
 
 <div class="award-title"><h2>Foundation Medal:</h2>
-<p><em>For extraordinary vision, literary achievement and commitment to sustainable food systems.</em></p></div>
+<p><em>For extraordinary vision, literary achievement and commitment to social justice</em></p></div>
 
 <div class="honoree-content"><div class="caption">
 {% img full-size /css/assets/images/founders/alice-waters.jpg "Alice Waters" "Alice Waters" %}
