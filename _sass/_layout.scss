@@ -1209,6 +1209,19 @@ video {
     }
 }
 
+// Fancy box thumbs
+
+.fancy-thumb {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+a.fancybox.fancy-thumb {
+    display: block;
+    @include span-columns(2);
+    float: left;
+}
 
 
 /**
