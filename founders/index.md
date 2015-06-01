@@ -21,8 +21,10 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 </div>
 <div class="single-column ticket-border">
 <div class="ticket-title"><h4>Were you staff or faculty in 1964–67? If so, we invite you to be our guest.</h4></div>
-<div class="ticket-button"><a href="#" class="full-width-button">Be Our Guest</a></div>
+<div class="ticket-button"><a href="/founders/pioneer-faculty-staff.html" class="full-width-button">Be Our Guest</a></div>
 </div>
 
-<div class="single-column">Were you a UC Santa Cruz student in 1965? <a href="/founders/pioneer-reunion.html">Get dinner ticket(s) and register for Pioneer Reunion event.</a></div>
+<div class="single-column ticket-border">
+<div class="ticket-title">Were you a UC Santa Cruz student in 1965? Get dinner ticket(s) and register for Pioneer Reunion event.</div><div class="ticket-button"><a href="/founders/pioneer-reunion.html" class="full-width-button">Get tickets and register</a></div></div>
+
 <div class="single-column"><hr><h4 style="text-align:center;">Our annual Founders celebration window will be bigger and better than ever. <br>Check back and stay tuned for details as they become available.</h4><hr></div>
