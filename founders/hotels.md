@@ -3,7 +3,6 @@ layout: post-save-the-date
 title: Places to Stay
 img: /css/assets/images/aw-2015/dream-inn.jpg
 permalink: /founders/hotels.html
-exclude_from_search: true
 ---
 
 ***

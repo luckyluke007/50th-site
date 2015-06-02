@@ -3,7 +3,6 @@ layout: post-save-the-date
 title: Fiat Fifty&#58; Save the date
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/index.html
-exclude_from_search: true
 ---
 # {% img full-size /css/assets/images/founders/fiat-fifty.svg "Fiat Fifty with Alice Waters" "Fiat Fifty with Alice Waters" %}
 
@@ -13,7 +12,7 @@ exclude_from_search: true
 
 Join us for a once-in-a-lifetime evening and be part of the crowning event of UC Santa Cruz’s 50th celebratory year.
 
-This year’s Founders Celebration dinner will be unlike anything we have done before. Served in a pavilion overlooking Monterey Bay, Kathryn Sullivan (Stevenson ‘73), the first American woman to walk in space, will be our master of ceremonies as we honor chef and food activist Alice Waters with the Foundation Medal and our pioneer staff and faculty with the Fiat Lux Award in an electrifying night under the stars.
+This year's Founders Celebration dinner will be unlike anything we've done before. Served in a pavilion overlooking the Monterey Bay, we will honor chef and food activist Alice Waters with the Foundation Medal and our pioneer staff and faculty with the Fiat Lux Award. The evening promises to be an electrifying night under the stars.
 
 <div class="single-column ticket-border">
 <div class="ticket-title"><h3>RSVP for Fiat Fifty! With Alice Waters</h3></div>

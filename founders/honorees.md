@@ -3,7 +3,6 @@ layout: post-save-the-date
 title: Honorees
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/honorees.html
-exclude_from_search: true
 ---
 
 <div class="award-title"><h2>Foundation Medal:</h2>
