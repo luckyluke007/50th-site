@@ -7,7 +7,7 @@ exclude_from_search: true
 ---
 
 <div class="award-title"><h2>Foundation Medal:</h2>
-<p><em>For extraordinary vision, literary achievement and commitment to sustainable food systems</em></p></div>
+<p><em>For launching a culinary revolution and teaching us values that transform lives and the world around us</em></p></div>
 
 <div class="honoree-content"><div class="caption">
 {% img full-size /css/assets/images/founders/alice-waters.jpg "Alice Waters" "Alice Waters" %}
@@ -23,7 +23,7 @@ exclude_from_search: true
 
 <div class="clear">&nbsp;</div>
 
-<div class="award-title"><h2>Fiat Lux Award</h2><p><em>For distinguished volunteer leadership and outstanding generosity to UC Santa Cruz since the founding of the campus</em></p> </div>
+<div class="award-title"><h2>Fiat Lux Award</h2><p><em>Presented with gratitude to pioneer faculty and staff (1964-67) in celebration of the 50th anniversary of UC Santa Cruz</em></p> </div>
 
 
 <div class="honoree-content"><h3>Recognizing our pioneer staff and faculty</h3>
