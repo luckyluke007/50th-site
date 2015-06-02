@@ -1341,6 +1341,15 @@ a.fancybox.fancy-thumb {
 
 //SAVE THE DATE FOUNDERS
 
+.honoree_full {
+    display: block;
+    @include span-columns(12);
+    border-top: 1px solid $ucsc-white;
+    border-bottom: 1px solid $ucsc-white;
+    padding: .75em 0 .75em 0;
+    margin: .75em 0 .75em 0;
+}
+
 .award-title {
     display: block;
     float: left;

@@ -27,6 +27,7 @@ exclude_from_search: true
 
 
 <div class="honoree-content"><h3>Recognizing our pioneer staff and faculty</h3>
+{% img honoree_full /css/assets/images/founders/trailer.jpg "1965 Trailers" "1965 Trailers" %}
 They came to a brand-new university with no established traditions—hardly any buildings, even—because it offered them the chance to take risks, challenge themselves and their students, and start a place where they had the freedom to do new things.
 
 In an especially poignant moment during UC Santa Cruz's 50th year, we will bestow the Fiat Lux Award on our pioneer staff and faculty—those who took a leap of faith, helped launch a significant educational experiment, and made innovation part of the campus DNA.</div>
