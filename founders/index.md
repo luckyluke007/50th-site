@@ -8,7 +8,7 @@ permalink: /founders/index.html
 
 ### A spectacular evening under the stars in celebration of trailblazers, radicals, and legends.
 
-#### **September 26, 2015, 6 p.m., East Field**<br />**Tickets:** $175 per person
+#### **September 26, 2015, 6 p.m., East Field, UC Santa Cruz**<br />**Tickets:** $175 per person
 
 Join us for a once-in-a-lifetime evening and be part of the crowning event of UC Santa Cruz’s 50th celebratory year.
 
