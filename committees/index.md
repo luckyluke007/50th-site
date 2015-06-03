@@ -55,7 +55,7 @@ The Leadership Committee is comprised of distinguished alumni who exemplify the 
 
 ### Shree Murthy, Graduate Division, 1996
 
-> Shree Murthy received her B.S. in Computer Science from Bangalore University in 1990, she graduated with an M.S. in Computer Science from the Indian Institute of Technology, Madras in 1993 and earned her Ph.D. in Computer Engineering in 1996.  Shree was a principal engineer at FutureWei Technologies, which is a wholly-owned subsidiary of Huawei Technologies, a leading global supplier of network equipment and solutions that has been called “China’s Cisco” by Forbes and the Wall Street Journal. Prior to joining FutureWei in 2011, she was a senior technical lead at Cisco Systems and a staff engineer at Sun Microsystems.  In 2013, Shree accepted a position with Dell/Force10 Networks as a Senior Principal Engineer.  Shree formerly served on the Baskin School of Engineering Alumni Advisory Committee.
+> Shree Murthy received her B.S. in Computer Science from Bangalore University in 1990, she graduated with an M.S. in Computer Science from the Indian Institute of Technology, Madras in 1993 and earned her Ph.D. in Computer Engineering in 1996. Shree is a Senior Principal Engineer at Dell/Force10 Networks. Prior to joining Dell in 2013, she was a Principal Engineer at FutureWei Technologies for 2 years and was a senior Technical Lead at Cisco Systems for 10 years. She has several publications and holds 17 patents in Networking field. Shree formerly served on the Baskin School of Engineering Alumni Advisory Committee.
 
 ### {% img float-right /css/assets/images/leadership-photos/ezequiel.png "Ezequiel" "Ezequiel" %} Ezequiel Olvera Jr., Oakes College, 2005
 
@@ -93,7 +93,7 @@ The Leadership Committee is comprised of distinguished alumni who exemplify the 
 
 > Lisa Witter is an experienced executive, social entrepreneur, communications strategist, writer, and commentator. Lisa is the co-author of The She Spot: Why Women are the Market for Changing the World and How to Reach Them and is partner and Chief Change Officer of Fenton Communications, the largest public interest communications firm in the country. She focuses on behavior change, innovation, women's issues, and global affairs for clients including Desmond Tutu's The Elders and The Ford Foundation. She was named by the World Economic Forum as a Young Global Leader in 2010. Lisa and her husband, technology consultant Christopher Brem, have two young sons.
 
-### Michael Woo, Cowell College, 1973
+### {% img float-right /css/assets/images/leadership-photos/michael.png "Michael Woo" "Michael Woo" %}Michael Woo, Cowell College, 1973
 
 > Michael Woo has served as Dean of Cal Poly Pomona's College of Environmental Design since 2009. A planning expert who has worked in the for-profit, nonprofit and government sectors, he was the first trained urban planner and the first Asian American elected to the Los Angeles City Council, where he served for eight years. A native of Los Angeles, Mike taught the undergraduate introduction to urban planning and development at USC for seven years and led a seminar at UCLA on urbanization in China prior to joining Cal Poly. He was honored with the 1993-94 Alumni Achievement Award; he served on the UCSC Foundation during 1995-98.
 
