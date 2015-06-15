@@ -1,6 +1,6 @@
 ---
 layout: original-page
-title:  "Adrienne Zihlman: professor Emerita of Anthropology"
+title:  "Adrienne Zihlman: The Role of Women in Evolution"
 date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/zihlman-adrienne.jpg

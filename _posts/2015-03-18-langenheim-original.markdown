@@ -19,8 +19,7 @@ Langenheim came to UC Santa Cruz from a research position at Harvard University 
 
 Now an eminent plant ecologist widely respected for her achievements, Langenheim began her career at a time when professional opportunities for women in science were limited. At UC Santa Cruz, she was the first female faculty member in the natural sciences (the only one for six years) and the first woman to be promoted to full professor. She later became the first woman to serve as president of the Association for Tropical Biology and the International Society of Chemical Ecology (which she founded), as well as the second woman president of the Ecological Society of America and the Society of Economic Botany.
 
-Langenheim traveled throughout the world in the course of field research that ranged from tropical to arctic and alpine environments. Her innovative use of chemical techniques to determine the plant origins of amber (fossilized resin) led to her research on the ecology of plant resins and their role in plant defense. Her 2003 book Plant Resins (Timber Press) is the only authoritative reference book on the subject. Now in her 90th year, Langenheim remains active in the campus community and in scientific societies.***
-
+Langenheim traveled throughout the world in the course of field research that ranged from tropical to arctic and alpine environments. Her innovative use of chemical techniques to determine the plant origins of amber (fossilized resin) led to her research on the ecology of plant resins and their role in plant defense. Her 2003 book Plant Resins (Timber Press) is the only authoritative reference book on the subject. Now in her 90th year, Langenheim remains active in the campus community and in scientific societies.
 ### Related Links
 
 - [Botanist Jean Langenheim recounts her life and times in The Odyssey of a Woman Field Scientist](http://news.ucsc.edu/2010/05/3771.html)

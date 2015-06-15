@@ -21,10 +21,10 @@ Noller, the Sinsheimer Professor of Molecular Biology at UC Santa Cruz, believed
 
 There are important practical reasons for studying the ribosome. Many of the most effective antibiotics work by targeting bacterial ribosomes, and findings by Noller and others have led to the development of novel antibiotics. Understanding the functional role of ribosomal RNA also provided a basis for ideas about the central role of RNA in the origin of life on Earth (the "RNA World" hypothesis).
 
-Noller, who came to UC Santa Cruz in 1968, said the atmosphere on campus was liberating. "There were not a lot of 'experts' around to discourage you from going in unusual directions," he wrote in an entertaining [essay on his career published in the Journal of Biological Chemistry in 2013](http://www.jbc.org/content/288/34/24872).***
+Noller, who came to UC Santa Cruz in 1968, said the atmosphere on campus was liberating. "There were not a lot of 'experts' around to discourage you from going in unusual directions," he wrote in an entertaining [essay on his career published in the Journal of Biological Chemistry in 2013](http://www.jbc.org/content/288/34/24872).
 
 ### Related Links
 
 - [Reflections: By Ribosome Possessed](http://www.jbc.org/content/288/34/24872)
 - [Researchers probe the machinery of cellular protein factories](http://news.ucsc.edu/2006/09/940.html)
-- [Study reveals key step in protein synthesis](http://news.ucsc.edu/2013/06/ribosome.html)
+- [Study reveals key step in protein synthesis](http://news.ucsc.edu/2013/06/ribosome.html)

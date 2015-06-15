@@ -21,9 +21,10 @@ The University Library's Regional History Project has now published an oral hist
 
 Sarah Rabkin, a Science Communication Program alumna and member of the UC Santa Cruz Writing Program faculty for many years, conducted the oral history interview with Wilkes, who retired in 2006. In her introduction, Rabkin wrote:
 
-> Wilkes credits UCSC's "freewheeling liberal arts atmosphere" with the personal, intellectual and professional flourishing of his students.... At UCSC, he says, they learned to "relax," to think more expansively, and to report and write about science with curiosity and enthusiasm.***
+> Wilkes credits UCSC's "freewheeling liberal arts atmosphere" with the personal, intellectual and professional flourishing of his students.... At UCSC, he says, they learned to "relax," to think more expansively, and to report and write about science with curiosity and enthusiasm.
+
 
 ### Related Links
 
 - [An Oral History with John Wilkes, Founder of UCSC's Science Communication Program](http://library.ucsc.edu/reg-hist/wilkes)
-- [Science Communication Program](http://scicom.ucsc.edu/)
+- [Science Communication Program](http://scicom.ucsc.edu/)
