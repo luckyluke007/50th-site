@@ -10,7 +10,7 @@ exclude_from_search: true
 
 {% img full-size /css/assets/images/founders/pioneer-class-title.jpg "Pioneer Class" "Pioneer Class" %}
 
-We are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 4 pm.  Save these dates and stay tuned for more information.
+As part of the 2015 Founders Celebration we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 4 pm.  Save these dates and stay tuned for more information.
 
 ***
 

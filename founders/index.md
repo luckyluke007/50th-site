@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: Fiat Fifty&#58; Save the date
+title: Founders Celebration Dinner&#58; Save the date
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/index.html
 ---
@@ -18,12 +18,12 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 <div class="ticket-title"><h3>RSVP for Fiat Fifty! With Alice Waters</h3></div>
 <div class="ticket-button"><a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1926&cid=3606" class="full-width-button"><h3 style="margin:0; padding:0; font-weight: 500;">Get Tickets!</h3></a></div>
 </div>
-<div class="single-column">
+<div class="single-column ticket-border">
 <div class="ticket-title"><h4>Were you staff or faculty in 1964–67? If so, we invite you to be our guest.</h4></div>
 <div class="ticket-button"><a href="/founders/pioneer-faculty-staff.html" class="full-width-button">Be Our Guest</a></div>
 </div>
-<!--
+
 <div class="single-column ticket-border">
-<div class="ticket-title">Were you a UC Santa Cruz student in 1965? Get dinner ticket(s) and register for Pioneer Reunion event.</div><div class="ticket-button"><a href="/founders/pioneer-reunion.html" class="full-width-button">Get tickets and register</a></div></div>
--->
+<div class="ticket-title">Were you a UC Santa Cruz student in 1965? Get dinner ticket(s) and register for Pioneer Reunion events.</div><div class="ticket-button"><a href="/founders/pioneer-reunion.html" class="full-width-button">Learn more and register</a></div></div>
+
 <div class="single-column"><hr><h4 style="text-align:center;">Our annual Founders celebration window will be bigger and better than ever. <br>Check back and stay tuned for details as they become available.</h4><hr></div>
