@@ -1221,6 +1221,7 @@ a.fancybox.fancy-thumb {
     display: block;
     @include span-columns(2);
     float: left;
+    margin-bottom: 2em;
 }
 
 
