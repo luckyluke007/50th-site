@@ -14,11 +14,12 @@ We are planning reunion gatherings and activities stretching from Friday, Septem
 
 ## Schedule of Events:
 
-- **Friday, September 24th: Pioneer Welcome Reception from 6-9pm Location TBD** <br />
-We will be welcoming back the Pioneer Class in style with appetizers and a no-host bar. This will be a time to mix and mingle with all those students on campus in 1965.
-- **Saturday, September 25th: Pioneer Reunion 9am-3:30pm at the East Field House** <br />
-Saturday will feature a full day of events from lectures to mingling to lunches, all under the one roof there was in 1965, the pioneers will once again be taking over the East Field House! The continental breakfast will be served at 9am, and the lunch will start at Noon.
-- **Sunday, September 26th: Pioneer Brunch from 10am-Noon at the Cowell Provost House** <br />A final event for the weekend, a time to relax on the Cowell Provost House lawn with a view of the bay over brunch.
+- **Friday, September 24: Pioneer Welcome Reception, 6-9 p.m., location TBD** <br />
+We will welcome back the Pioneer Class in style with appetizers and a no-host bar. This will be a time to mix and mingle with other students who were on campus in 1965.
+- **Saturday, September 25: Pioneer Reunion, 9 a.m.-3:30 p.m., East Field House** <br />
+Saturday will feature a full day of events from lectures to mingling to lunches, all under the one roof there was in 1965—in other words, the pioneers will once again be taking over the East Field House! The continental breakfast will be served at 9 a.m., and the lunch will start at noon.
+- **Sunday, September 26: Pioneer Brunch, 10 a.m.-noon, Cowell Provost House** <br />
+A final event for the weekend, a time to relax on the Cowell Provost House lawn with a view of the bay over brunch.
 
 
 <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button">RSVP now for pioneer reunion</a>
@@ -29,7 +30,7 @@ Saturday will feature a full day of events from lectures to mingling to lunches,
 
 #### Help Us Connect
 
-We currently have over 300 missing email addresses for the pioneer group, to help make this gathering complete, help us by sharing the word with those you know, as well as passing on any contact info for your fellow pioneers that we are missing. Below is a list organized first by location (trailer numbers from 1965 and the off campus crew), then by last name. Please email any updated email addresses, phone numbers or mailing addresses directly to Katie Linder at [klinder@ucsc.edu](mailto:klinder@ucsc.edu).
+We're missing more than 300 email addresses for the pioneer group. To help make this gathering complete, help us by sharing the word with those you know, as well as by passing on any contact info for your fellow pioneers that we're missing. Below is a list organized first by location (trailer numbers from 1965 and the off-campus crew), then by last name. Please email any updated email addresses, phone numbers, or mailing addresses directly to Katie Linder at [klinder@ucsc.edu](mailto:klinder@ucsc.edu).
 
 <iframe width="100%" height="400px" style="width:100%; max-height:400px; margin-bottom:1em;" src="https://docs.google.com/spreadsheets/d/1s623B6cEwdkUWzffO7Xu_2YLASD8LnoudTj_VsfiWNw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
