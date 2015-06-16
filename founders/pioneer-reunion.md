@@ -12,6 +12,8 @@ exclude_from_search: true
 
 We are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 4 pm.  Save these dates and stay tuned for more information.
 
+***
+
 ## Schedule of Events:
 
 - **Friday, September 24: Pioneer Welcome Reception, 6-9 p.m., location TBD** <br />
@@ -24,6 +26,8 @@ A final event for the weekend, a time to relax on the Cowell Provost House lawn 
 
 <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button">RSVP now for pioneer reunion</a>
 
+***
+
 ## See Who's Coming
 
 [Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
@@ -34,9 +38,13 @@ We're missing more than 300 email addresses for the pioneer group. To help make 
 
 <iframe width="100%" height="400px" style="width:100%; max-height:400px; margin-bottom:1em;" src="https://docs.google.com/spreadsheets/d/1s623B6cEwdkUWzffO7Xu_2YLASD8LnoudTj_VsfiWNw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+***
+
 ## Photo Gallery
 
 <a href="/css/assets/images/founders/photos/1.jpg" class="fancybox fancy-thumb" title="Unidentified student in daffodil patch outside the Cowell College dining hall, with the housing trailers in the background"><img src="/css/assets/images/founders/photos/1-thumb.jpg" class="fancy-thumb" alt="Unidentified student in daffodil patch outside the Cowell College dining hall, with the housing trailers in the background"></a><a href="/css/assets/images/founders/photos/2.jpg" class="fancybox fancy-thumb" title="Spring Thing, May 11-14, 1967: students on the East Field, with the housing trailers in the background"><img src="/css/assets/images/founders/photos/2-thumb.jpg" class="fancy-thumb" alt="Spring Thing, May 11-14, 1967: students on the East Field, with the housing trailers in the background"></a><a href="/css/assets/images/founders/photos/3.jpg" class="fancybox fancy-thumb" title="Pioneer Class: residents of Bitter End trailer"><img src="/css/assets/images/founders/photos/3-thumb.jpg" class="fancy-thumb" alt="Pioneer Class: residents of Bitter End trailer"></a><a href="/css/assets/images/founders/photos/4.jpg" class="fancybox fancy-thumb" title="Pioneer Class: residents of unidentified trailer"><img src="/css/assets/images/founders/photos/4-thumb.jpg" class="fancy-thumb" alt="Pioneer Class: residents of unidentified trailer"></a><a href="/css/assets/images/founders/photos/5.jpg" class="fancybox fancy-thumb" title="EPioneer Class: residents of Parnassus trailer: Maxine Kaye, Flinn Moore, Kathy Murphy, Suzanne Shellaby, Lynne Barber, Carole Sandillo, unidentified"><img src="/css/assets/images/founders/photos/5-thumb.jpg" class="fancy-thumb" alt="Pioneer Class: residents of Parnassus trailer: Maxine Kaye, Flinn Moore, Kathy Murphy, Suzanne Shellaby, Lynne Barber, Carole Sandillo, unidentified"></a><a href="/css/assets/images/founders/photos/6.jpg" class="fancybox fancy-thumb" title="Pioneer Class: residents of the Fighting Cocks trailer"><img src="/css/assets/images/founders/photos/6-thumb.jpg" class="fancy-thumb" alt="Pioneer Class: residents of the Fighting Cocks trailer"></a>
+
+***
 
 There is an all inclusive event fee of $50 to help subsidize the event cost (meals, event rentals, materials etc) throughout the entire weekend. If the cost is prohibitive to your attendance, please email [klinder@ucsc.edu](mailto:klinder@ucsc.edu) to ask about sponsorship.
 
