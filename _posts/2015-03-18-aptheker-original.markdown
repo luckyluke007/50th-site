@@ -5,7 +5,6 @@ date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/bettina-aptheker.jpg
 permalink: /original-thinkers/bettina-aptheker.html
-exclude_from_search: true
 alt: Bettina Aptheker
 tags: 
 - ucsc50

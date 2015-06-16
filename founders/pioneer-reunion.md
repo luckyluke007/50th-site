@@ -10,10 +10,35 @@ exclude_from_search: true
 
 {% img full-size /css/assets/images/founders/pioneer-class-title.jpg "Pioneer Class" "Pioneer Class" %}
 
+{% img full-size /css/assets/images/founders/pioneer-class-title-2.jpg "Pioneer Class" "Pioneer Class" %}
+
 We are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 4 pm.  Save these dates and stay tuned for more information.
 
-<a href="#" class="full-width-button">RSVP now for pioneer reunion</a>
+## Schedule of Events:
+
+- **Friday, September 24th: Pioneer Welcome Reception from 6-9pm Location TBD** <br />
+We will be welcoming back the Pioneer Class in style with appetizers and a no-host bar. This will be a time to mix and mingle with all those students on campus in 1965.
+- **Saturday, September 25th: Pioneer Reunion 9am-3:30pm at the East Field House** <br />
+Saturday will feature a full day of events from lectures to mingling to lunches, all under the one roof there was in 1965, the pioneers will once again be taking over the East Field House! The continental breakfast will be served at 9am, and the lunch will start at Noon.
+- **Sunday, September 26th: Pioneer Brunch from 10am-Noon at the Cowell Provost House** <br />A final event for the weekend, a time to relax on the Cowell Provost House lawn with a view of the bay over brunch.
+
+
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button">RSVP now for pioneer reunion</a>
+
+## See Who's Coming
+
+[Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
+
+#### Help Us Connect
+
+We currently have over 300 missing email addresses for the pioneer group, to help make this gathering complete, help us by sharing the word with those you know, as well as passing on any contact info for your fellow pioneers that we are missing. Below is a list organized first by location (trailer numbers from 1965 and the off campus crew), then by last name. Please email any updated email addresses, phone numbers or mailing addresses directly to Katie Linder at [klinder@ucsc.edu](mailto:klinder@ucsc.edu).
+
+<iframe width="100%" height="400px" style="width:100%; max-height:400px; margin-bottom:1em;" src="https://docs.google.com/spreadsheets/d/1s623B6cEwdkUWzffO7Xu_2YLASD8LnoudTj_VsfiWNw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+## Photo Gallery
+
+<a href="/css/assets/images/founders/photos/1.jpg" class="fancybox fancy-thumb" title="Pioneer Class: residents of the Fighting Cocks trailer"><img src="/css/assets/images/founders/photos/1-thumb.jpg" class="fancy-thumb" alt="Pioneer Class: residents of the Fighting Cocks trailer"></a><a href="/css/assets/images/founders/photos/2.jpg" class="fancybox fancy-thumb" title="Field House"><img src="/css/assets/images/founders/photos/2-thumb.jpg" class="fancy-thumb" alt="Field House"></a><a href="/css/assets/images/founders/photos/3.jpg" class="fancybox fancy-thumb" title="East Field House interior, with dining tables and unidentified students. December 1965"><img src="/css/assets/images/founders/photos/3-thumb.jpg" class="fancy-thumb" alt="East Field House interior, with dining tables and unidentified students. December 1965"></a><a href="/css/assets/images/founders/photos/4.jpg" class="fancybox fancy-thumb" title="East Field House interior, with dining tables and unidentified students. December 1965"><img src="/css/assets/images/founders/photos/4-thumb.jpg" class="fancy-thumb" alt="East Field House interior, with dining tables and unidentified students. December 1965"></a><a href="/css/assets/images/founders/photos/5.jpg" class="fancybox fancy-thumb" title="East Field House interior, with dining tables and unidentified students. December 1965"><img src="/css/assets/images/founders/photos/5-thumb.jpg" class="fancy-thumb" alt="East Field House interior, with dining tables and unidentified students. December 1965"></a><a href="/css/assets/images/founders/photos/6.jpg" class="fancybox fancy-thumb" title="East Field House interior, with dining tables and unidentified students. December 1965"><img src="/css/assets/images/founders/photos/6-thumb.jpg" class="fancy-thumb" alt="East Field House interior, with dining tables and unidentified students. December 1965"></a>
+
+
 
 Please email Katie Linder at [klinder@ucsc.edu](mailto:klinder@ucsc.edu) with questions.
-
-<a href="/css/assets/images/founders/pioneer-fight-cocks.jpg" class="fancybox fancy-thumb" title="Pioneer Class: residents of the Fighting Cocks trailer"><img src="/css/assets/images/founders/pioneer-fight-cocks-thumb.jpg" class="fancy-thumb" alt="Pioneer Class: residents of the Fighting Cocks trailer"></a><a href="/css/assets/images/founders/field-house.jpg" class="fancybox fancy-thumb" title="Field House"><img src="/css/assets/images/founders/field-house-thumb.jpg" class="fancy-thumb" alt="Field House"></a><a href="/css/assets/images/founders/field-house-study.jpg" class="fancybox fancy-thumb" title="East Field House interior, with dining tables and unidentified students. December 1965"><img src="/css/assets/images/founders/field-house-study-thumb.jpg" class="fancy-thumb" alt="East Field House interior, with dining tables and unidentified students. December 1965"></a>

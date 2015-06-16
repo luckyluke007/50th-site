@@ -6,7 +6,6 @@ categories: original-thinkers
 img: /css/assets/images/original-thinkers/gliessman.jpg
 permalink: /original-thinkers/steve-gliessman.html
 alt: Steve Gliessman
-exclude_from_search: true
 tags: 
 - ucsc50
 - original-thinkers
