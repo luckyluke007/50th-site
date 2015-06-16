@@ -16,11 +16,11 @@ We are planning reunion gatherings and activities stretching from Friday, Septem
 
 ## Schedule of Events:
 
-- **Friday, September 24: Pioneer Welcome Reception, 6-9 p.m., location TBD** <br />
+- **Friday, September 25: Pioneer Welcome Reception, 6-9 p.m., location TBD** <br />
 We will welcome back the Pioneer Class in style with appetizers and a no-host bar. This will be a time to mix and mingle with other students who were on campus in 1965.
-- **Saturday, September 25: Pioneer Reunion, 9 a.m.-3:30 p.m., East Field House** <br />
+- **Saturday, September 26: Pioneer Reunion, 9 a.m.-3:30 p.m., East Field House** <br />
 Saturday will feature a full day of events from lectures to mingling to lunches, all under the one roof there was in 1965—in other words, the pioneers will once again be taking over the East Field House! The continental breakfast will be served at 9 a.m., and the lunch will start at noon.
-- **Sunday, September 26: Pioneer Brunch, 10 a.m.-noon, Cowell Provost House** <br />
+- **Sunday, September 27: Pioneer Brunch, 10 a.m.-noon, Cowell Provost House** <br />
 A final event for the weekend, a time to relax on the Cowell Provost House lawn with a view of the bay over brunch.
 
 
