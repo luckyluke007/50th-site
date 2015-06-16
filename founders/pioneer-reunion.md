@@ -24,7 +24,7 @@ Saturday will feature a full day of events from lectures to mingling to lunches,
 A final event for the weekend, a time to relax on the Cowell Provost House lawn with a view of the bay over brunch.
 
 
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP now for pioneer reunion</a>
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP now for Pioneer Reunion</a>
 
 ***
 
