@@ -18,21 +18,23 @@ As part of the 2015 Founders Celebration we are planning reunion gatherings and 
 
 - **Friday, September 25: Pioneer Welcome Reception, 6-9 p.m., location TBD** <br />
 We will welcome back the Pioneer Class in style with appetizers and a no-host bar. This will be a time to mix and mingle with other students who were on campus in 1965.
+
 - **Saturday, September 26: Pioneer Reunion, 9 a.m.-3:30 p.m., East Field House** <br />
 Saturday will feature a full day of events from lectures to mingling to lunches, all under the one roof there was in 1965—in other words, the pioneers will once again be taking over the East Field House! The continental breakfast will be served at 9 a.m., and the lunch will start at noon.
+
 - **Sunday, September 27: Pioneer Brunch, 10 a.m.-noon, Cowell Provost House** <br />
 A final event for the weekend, a time to relax on the Cowell Provost House lawn with a view of the bay over brunch.
 
 
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP now for Pioneer Reunion</a>
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a>
 
 ***
 
-## See Who's Coming
+#### [See Who's Coming](http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1946&cid=3634&fid=3633)
 
 [Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
 
-#### Help Us Connect
+## Help Us Connect
 
 We're missing more than 300 email addresses for the pioneer group. To help make this gathering complete, help us by sharing the word with those you know, as well as by passing on any contact info for your fellow pioneers that we're missing. Below is a list organized first by location (trailer numbers from 1965 and the off-campus crew), then by last name. Please email any updated email addresses, phone numbers, or mailing addresses directly to Katie Linder at [klinder@ucsc.edu](mailto:klinder@ucsc.edu).
 
