@@ -30,9 +30,7 @@ A final event for the weekend, a time to relax on the Cowell Provost House lawn 
 
 ***
 
-<!-- 
 #### [See Who's Coming](http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1946&cid=3634&fid=3633)
--->
 
 [Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
 
