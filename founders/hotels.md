@@ -44,3 +44,16 @@ With rates from $229 per night for UC Santa Cruz alumni, this hotel is located j
 - **Group ID:** UC Santa Cruz 50th/Founders Celebration
 
 Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beaches and downtown shopping and dining are minutes from our door. Located just off Highway 1 and Highway 17 in downtown Santa Cruz, California.
+
+***
+
+### [Mission Inn](http://mission-inn.com/)
+
+{% img full-size /css/assets/images/aw-2015/mission-inn.jpg "Hotel Mission Inn" "Hotel Mission Inn" %} 
+
+- **2250 Mission Street | Santa Cruz, CA 95060**
+- **Reservation**: Please call to directly to make reservations 831-425-5455
+- **Rates**: Deluxe Queen — $179.95 Plus Tax | Kings $209.95 Plus Tax | Doubles $229.95 Plus Tax
+- **Group ID**: UCSC Anniversary 50 
+
+Located minutes from the beach, municipal wharf, the Santa Cruz Beach Boardwalk, downtown shopping, tennis, golf, running paths, historic home tours, redwood forests and UC Santa Cruz, the Mission Inn makes it easy to enjoy the best of Santa Cruz and the Monterey Bay.
