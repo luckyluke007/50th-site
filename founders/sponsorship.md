@@ -1,12 +1,10 @@
 ---
 layout: post-save-the-date
-title: Master of Ceremonies&#58; Kathryn Sullivan
+title: Sponsor Benefits
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/sponsorships.html
 exclude_from_search: true
 ---
-
-## Sponsor Benefits
 
 ***Increased Visibility:*** Sponsors of this historic event will automatically benefit from media promotion during the event's marketing campaign, providing exposure and visibility throughout the community.
 
