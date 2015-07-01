@@ -31,7 +31,9 @@ exclude_from_search: true
 - 8 dinner tickets
 - Handcrafted and engraved dish from Annieglass
 - Commemorative print created by the UC Santa Cruz Cowell Press
-**Please contact Howard Heevner**<br>
+
+
+**Please contact Howard Heevner**<br>
 **[hheevner@ucsc.edu](mailto:hheevner@ucsc.edu)**<br>
 **831.459.5226**
 
