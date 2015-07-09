@@ -1440,3 +1440,69 @@ a.fancybox.fancy-thumb {
     border-bottom: 1px solid $ucsc-light-blue; 
     margin-bottom: 1em;
 }
+
+//Founders Sponsors
+ul.top-sponsor {
+    display: block;
+    @include span-columns(12);
+    margin: 0 0 2em;
+    padding: 0;
+    clear: both;
+    li {
+        display: block;
+        height: 75px;
+        background: $ucsc-white;
+        text-align: center;
+        color: $ucsc-blue;
+        line-height: 1.1em;
+        margin:1em 1em 0 0;
+        @include media($portrait) {
+            @include span-columns(12);
+        }
+        @include media($tablet) {
+            @include span-columns(6);
+        }
+            span {
+                display: block;
+                position: relative;
+                top: 50%;
+                    -webkit-transform: translateY(-50%);
+                    -ms-transform: translateY(-50%);
+                    transform: translateY(-50%);
+                    -o-transform: translateY(-50%);
+            }
+
+    }
+}
+
+ul.secondary-sponsor {
+    display: block;
+    @include span-columns(12);
+    margin: 0 0 0 0;
+    padding: 0 0 2em 0;
+    li {
+        display: block;
+        height: 50px;
+        background: $ucsc-white;
+        text-align: center;
+        color: $ucsc-blue;
+        line-height: 1.1em;
+        margin-right: 1em;
+        @include media($portrait) {
+            @include span-columns(12);
+        }
+        @include media($tablet) {
+            @include span-columns(6);
+        }
+        span {
+            display: block;
+            position: relative;
+            top: 50%;
+                -webkit-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+                -o-transform: translateY(-50%);
+        }
+
+    }
+}
