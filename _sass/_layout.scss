@@ -1449,11 +1449,12 @@ ul.top-sponsor {
     clear: both;
     li {
         height: 75px;
-        background: $ucsc-white;
+        background: rgba($ucsc-white, 0.6);
         text-align: center;
         color: $ucsc-blue;
         line-height: 1.1em;
-        margin:1em 1em 0 0;
+        margin:1em 0 0 0;
+        @include border-radius(5px);
         @include media($portrait) {
             @include span-columns(12);
         }
@@ -1479,16 +1480,17 @@ ul.secondary-sponsor {
     padding: 0 0 2em 0;
     li {
         height: 50px;
-        background: $ucsc-white;
+        background: rgba($ucsc-white, 0.6);
         text-align: center;
         color: $ucsc-blue;
         line-height: 1.1em;
         margin-right: 1em;
+        @include border-radius(5px);
         @include media($portrait) {
             @include span-columns(12);
         }
         @include media($tablet) {
-            @include span-columns(6);
+            @include span-columns(5.8);
         }
         span {
             display: block;
