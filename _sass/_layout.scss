@@ -1443,13 +1443,11 @@ a.fancybox.fancy-thumb {
 
 //Founders Sponsors
 ul.top-sponsor {
-    display: block;
     @include span-columns(12);
     margin: 0 0 2em;
     padding: 0;
     clear: both;
     li {
-        display: block;
         height: 75px;
         background: $ucsc-white;
         text-align: center;
@@ -1460,7 +1458,7 @@ ul.top-sponsor {
             @include span-columns(12);
         }
         @include media($tablet) {
-            @include span-columns(6);
+            @include span-columns(5.8);
         }
             span {
                 display: block;
@@ -1476,12 +1474,10 @@ ul.top-sponsor {
 }
 
 ul.secondary-sponsor {
-    display: block;
     @include span-columns(12);
     margin: 0 0 0 0;
     padding: 0 0 2em 0;
     li {
-        display: block;
         height: 50px;
         background: $ucsc-white;
         text-align: center;

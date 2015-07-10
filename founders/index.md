@@ -31,9 +31,12 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 
 ## <center>Thank you to our sponsors</center>
 <ul class="top-sponsor">
-<li>{% img /css/assets/images/founders/ow-logo.gif "Ow Family Properties" "Ow Family Properties" %}</li>
+<li><span>{% img /css/assets/images/founders/ow-logo.gif "Ow Family Properties" "Ow Family Properties" %}</span></li><li><span><strong>Sarah C. Latham</strong><br />Vice Chancellor, Business and <br/>Administrative Services</span></li>
+<li><span><strong>Barry Swenson Builder</strong></span></li>
+<li><span><strong>Gordon and Tanya Ringold</strong></span></li>
 
-<li><span><strong>Sarah C. Latham</strong><br />Vice Chancellor, Business and <br/>Administrative Services</span></li>
+
+
 </ul>
 
 
