@@ -34,11 +34,13 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 <li><span>{% img /css/assets/images/founders/ow-logo.png "Ow Family Properties" "Ow Family Properties" %}</span></li><li><span><strong>Sarah C. Latham</strong><br />Vice Chancellor, Business and <br/>Administrative Services</span></li>
 <li><span><strong>Barry Swenson Builder</strong></span></li>
 <li><span><strong>Gordon and Tanya Ringold</strong></span></li>
-
-
-
 </ul>
 
+***
+
+<ul class="secondary-sponsor">
+<li><span>Santa Cruz Beach Boardwalk</span></li>
+</ul>
 
 ### <center>Thank you to our supporters who have donated a portion of their goods and/or services</center>
 <ul class="secondary-sponsor">
