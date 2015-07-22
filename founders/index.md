@@ -36,7 +36,6 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 <li><span><strong>Gordon and Tanya Ringold</strong></span></li>
 </ul>
 
-***
 
 <ul class="secondary-sponsor">
 <li><span>Santa Cruz Beach Boardwalk</span></li>
