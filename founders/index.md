@@ -38,7 +38,7 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 
 
 <ul class="secondary-sponsor">
-<li><span>Santa Cruz Beach Boardwalk</span></li>
+<li><span><strong>Santa Cruz Beach Boardwalk</strong></span></li>
 </ul>
 
 ### <center>Thank you to our supporters who have donated a portion of their goods and/or services</center>
