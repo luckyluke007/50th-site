@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: Founders Celebration Dinner&#58; Save the date
+title: Founders Celebration Dinner
 img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/index.html
 ---
