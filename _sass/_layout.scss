@@ -1484,7 +1484,7 @@ ul.secondary-sponsor {
         text-align: center;
         color: $ucsc-blue;
         line-height: 1.1em;
-        margin-right: 1em;
+        margin: 1em 1em 0 0;
         @include border-radius(5px);
         @include media($portrait) {
             @include span-columns(12);

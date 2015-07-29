@@ -34,14 +34,18 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 <li><span>{% img /css/assets/images/founders/ow-logo.png "Ow Family Properties" "Ow Family Properties" %}</span></li><li><span><strong>Sarah C. Latham</strong><br />Vice Chancellor, Business and <br/>Administrative Services</span></li>
 <li><span><strong>Barry Swenson Builder</strong></span></li>
 <li><span><strong>Gordon and Tanya Ringold</strong></span></li>
-</ul>
-
-
-<ul class="secondary-sponsor">
 <li><span><strong>Santa Cruz Beach Boardwalk</strong></span></li>
+<li><span><strong>Scharf Investments, LLC</strong></span></li>
+<li><span><strong>Anne Beroza (Stevenson '72)</strong></span></li>
+<li><span><strong>Linda S. Peterson, Stevenson '70</strong></span></li>
+<li><span><strong>UC Santa Cruz Foundation Campaign Committee Chair.</strong></span></li>
 </ul>
+
 
 ### <center>Thank you to our supporters who have donated a portion of their goods and/or services</center>
 <ul class="secondary-sponsor">
 <li>{% img /css/assets/images/founders/saintsbury-logo.png "Saintsbury" "Saintsbury" %}</li>
+<li><span><strong>Annieglass</strong></span></li>
+<li><span><strong>Gary Young</strong> (Crown, '73
+Poet, artist and Director of the UC Santa Cruz Cowell Press)</span></li>
 </ul>
