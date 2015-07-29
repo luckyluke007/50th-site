@@ -37,8 +37,7 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 <li><span><strong>Santa Cruz Beach Boardwalk</strong></span></li>
 <li><span><strong>Scharf Investments, LLC</strong></span></li>
 <li><span><strong>Anne Beroza (Stevenson '72)</strong></span></li>
-<li><span><strong>Linda S. Peterson, Stevenson '70</strong></span></li>
-<li><span><strong>UC Santa Cruz Foundation Campaign Committee Chair.</strong></span></li>
+<li><span><strong>Linda S. Peterson, Stevenson '70</strong> — UC Santa Cruz Foundation Campaign Committee Chair.</span></li>
 </ul>
 
 
@@ -46,6 +45,6 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 <ul class="secondary-sponsor">
 <li>{% img /css/assets/images/founders/saintsbury-logo.png "Saintsbury" "Saintsbury" %}</li>
 <li><span><strong>Annieglass</strong></span></li>
-<li><span><strong>Gary Young</strong> (Crown, '73
-Poet, artist and Director of the UC Santa Cruz Cowell Press)</span></li>
+<li><span><strong>Gary Young, Crown '73</strong> —
+Poet, artist & Director of the UCSC Cowell Press</span></li>
 </ul>
