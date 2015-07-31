@@ -25,12 +25,19 @@ Saturday will feature a full day of events from lectures to mingling to lunches,
 - **Sunday, September 27: Pioneer Brunch, 10 a.m.-noon, Cowell Provost House** <br />
 A final event for the weekend, a time to relax on the Cowell Provost House lawn with a view of the bay over brunch.
 
+- **Sunday, September 27: Pioneer Faculty Panel, 1-2 p.m., Location TBA** <br />
+A gathering at Cowell College with a few founding faculty members to speak about their experiences and memories of the early UC Santa Cruz days with the pioneer class students.
+
 
 <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a>
 
 ***
 
-#### [See Who's Coming](http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1946&cid=3634&fid=3633)
+### [See Who's Coming](http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1946&cid=3634&fid=3633)
+
+- On Saturday evening, a local Pioneer Class alumni will be hosting a casual get-together for the Pioneer Class from 6 p.m. to Midnight at his home.  This event is open to all pioneers, for those going to the Fiat Fifty event, feel free to join us after dinner.  This event will be BYO drinks and food, though some hors d’oeuvres will be served.  To find out more information about how to get there and how to register for this event, please email Amanda at [ammhill@ucsc.edu](mailto:ammhill@ucsc.edu).
+- **Looking for a place to stay?**<br />
+The alumni office and the Pioneer Reunion Committee want to make sure that everyone has a place to stay during the event. If you are interested in being a host, or are interested in housing for that weekend, please email Amanda Hill at ammhill@ucsc.edu. Once we get a sense of the housing that is available and the number of attendees who would like housing, we will follow up with you.
 
 [Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
 
