@@ -16,7 +16,7 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 
 <div class="single-column ticket-border">
 <div class="ticket-title"><h3>RSVP for Fiat Fifty! With Alice Waters</h3></div>
-<div class="ticket-button"><a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1926&cid=3606" class="full-width-button"><h3 style="margin:0; padding:0; font-weight: 500;">Get Tickets!</h3></a></div>
+<div class="ticket-button" style="color: #f8c325;"><strong>Tickets for the general public have sold out</strong>. If you would like to be placed on a waiting list, please contact Rachel Reed at (831) 459-5003</div>
 </div>
 <div class="single-column ticket-border">
 <div class="ticket-title"><h4>Were you staff or faculty in 1964–67? If so, we invite you to be our guest.</h4></div>
