@@ -31,20 +31,30 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 
 ## <center>Thank you to our sponsors</center>
 <ul class="top-sponsor">
-<li><span>{% img /css/assets/images/founders/ow-logo.png "Ow Family Properties" "Ow Family Properties" %}</span></li><li><span><strong>Sarah C. Latham</strong><br />Vice Chancellor, Business and <br/>Administrative Services</span></li>
-<li><span><strong>Barry Swenson Builder</strong></span></li>
-<li><span><strong>Gordon and Tanya Ringold</strong></span></li>
-<li><span><strong>Santa Cruz Beach Boardwalk</strong></span></li>
-<li><span><strong>Scharf Investments, LLC</strong></span></li>
-<li><span><strong>Anne Beroza (Stevenson '72)</strong></span></li>
-<li><span><strong>Linda S. Peterson, Stevenson '70</strong> — UC Santa Cruz Foundation Campaign Committee Chair.</span></li>
+<li><span>{% img /css/assets/images/founders/ow-logo.png "Ow Family Properties" "Ow Family Properties" %}</span></li>
+<li><span>{% img /css/assets/images/founders/diginity-dominican.png "Dignity Health Medical Group - Dominican" "Dignity Health Medical Group - Dominican" %}</span></li>
+<li><span>{% img /css/assets/images/founders/diginity-dominican-hospital.png "Dignity Health - Dominican Hospital" "Dignity Health - Dominican Hospital" %}</span></li>
+<li><span><strong>Gordon (Crown '72) and Tanya Ringold</strong></span></li>
 </ul>
 
+<ul class="top-sponsor">
+<li><span>{% img /css/assets/images/founders/barry-swanson.png "Barry Swanson - Builder Santa Cruz" "Barry Swanson - Builder Santa Cruz" %}</span></li>
+<li><span>{% img /css/assets/images/founders/boardwalk.png "Santa Cruz Beach Boardwalk" "Santa Cruz Beach Boardwalk" %}</span></li>
+<li><span><strong>{% img /css/assets/images/founders/scharf-investment.png "Scharf Investment, LLC" "Scharf Investment, LLC" %}</strong></span></li>
+</ul>
+
+<ul class="top-sponsor">
+<li><span><strong>Anne Beroza (Stevenson '72)</strong></span></li>
+<li><span><strong>Sarah C. Latham</strong><br />Vice Chancellor, Business and <br/>Administrative Services</span></li>
+<li><span><strong>Linda S. Peterson, Stevenson '70</strong> — UC Santa Cruz Foundation Campaign Committee Chair.</span></li>
+</ul>
 
 ### <center>Thank you to our supporters who have donated a portion of their goods and/or services</center>
 <ul class="secondary-sponsor">
 <li>{% img /css/assets/images/founders/saintsbury-logo.png "Saintsbury" "Saintsbury" %}</li>
+<li>{% img /css/assets/images/founders/stone-brewing.png "Stone Brewing Co." "Stone Brewing Co." %}</li>
 <li><span><strong>Annieglass</strong></span></li>
 <li><span><strong>Gary Young, Crown '73</strong> —
 Poet, artist & Director of the UCSC Cowell Press</span></li>
+<li><span><strong>UC Santa Cruz Cowell Press </strong></span></li>
 </ul>

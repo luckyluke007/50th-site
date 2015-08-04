@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.3.8)
-    backports (3.6.5)
+    backports (3.6.6)
     blankslate (2.1.2.4)
     celluloid (0.16.0)
       timers (~> 4.0.0)
@@ -35,7 +35,7 @@ GEM
       multi_json (~> 1.0)
       net-http-persistent (>= 2.7)
       net-http-pipeline
-    highline (1.7.2)
+    highline (1.7.3)
     hitimes (1.2.2)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
