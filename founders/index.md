@@ -33,10 +33,9 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 
 ###Redwood Sponsors:
 <ul class="top-sponsor">
-<li><span>{% img /css/assets/images/founders/ow-logo.png "Ow Family Properties" "Ow Family Properties" %}</span></li>
-<li><span>{% img /css/assets/images/founders/diginity-dominican.png "Dignity Health Medical Group - Dominican" "Dignity Health Medical Group - Dominican" %}</span></li>
-<li><span>{% img /css/assets/images/founders/diginity-dominican-hospital.png "Dignity Health - Dominican Hospital" "Dignity Health - Dominican Hospital" %}</span></li>
-<li><span><strong>Gordon (Crown '72) and Tanya Ringold</strong></span></li>
+<li class="full-size"><span>{% img /css/assets/images/founders/ow-logo.png "Ow Family Properties" "Ow Family Properties" %}</span></li>
+<li class="full-size"><span>{% img /css/assets/images/founders/diginity-dominican.png "Dignity Health Medical Group - Dominican" "Dignity Health Medical Group - Dominican" %}</span></li>
+<li class="full-size"><span><strong>Gordon (Crown '72) and Tanya Ringold</strong></span></li>
 </ul>
 
 ####Fieldhouse Sponsors:

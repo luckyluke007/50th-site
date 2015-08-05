@@ -1447,6 +1447,17 @@ ul.top-sponsor {
     margin: 0 0 2em;
     padding: 0;
     clear: both;
+    li.full-size {
+        height: 100px;
+        background: rgba($ucsc-white, 0.6);
+        color: $ucsc-blue;
+        line-height: 1.1em;
+        margin:1em 0 0 0;
+        font-size: 1.5em;
+        @include media($desktop) {
+            @include span-columns(12);
+        }
+    }
     li {
         height: 75px;
         background: rgba($ucsc-white, 0.6);
