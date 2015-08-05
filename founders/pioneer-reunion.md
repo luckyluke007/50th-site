@@ -33,13 +33,15 @@ A gathering at Cowell College with a few founding faculty members to speak about
 
 ***
 
-### [See Who's Coming](http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1946&cid=3634&fid=3633)
+<center><h3><a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1946&cid=3634&fid=3633">See Who's Coming</a></h3></center>
 
 - On Saturday evening, a local Pioneer Class alumni will be hosting a casual get-together for the Pioneer Class from 6 p.m. to Midnight at his home.  This event is open to all pioneers, for those going to the Fiat Fifty event, feel free to join us after dinner.  This event will be BYO drinks and food, though some hors d’oeuvres will be served.  To find out more information about how to get there and how to register for this event, please email Amanda at [ammhill@ucsc.edu](mailto:ammhill@ucsc.edu).
 - **Looking for a place to stay?**<br />
 The alumni office and the Pioneer Reunion Committee want to make sure that everyone has a place to stay during the event. If you are interested in being a host, or are interested in housing for that weekend, please email Amanda Hill at ammhill@ucsc.edu. Once we get a sense of the housing that is available and the number of attendees who would like housing, we will follow up with you.
 
-[Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
+#### [Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
+
+***
 
 ## Help Us Connect
 
