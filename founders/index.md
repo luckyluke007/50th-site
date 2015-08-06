@@ -53,7 +53,6 @@ This year’s Founders Celebration dinner will be unlike anything we have done b
 <li>{% img /css/assets/images/founders/saintsbury-logo.png "Saintsbury" "Saintsbury" %}</li>
 <li>{% img /css/assets/images/founders/stone-brewing.png "Stone Brewing Co." "Stone Brewing Co." %}</li>
 <li><span><strong>Annieglass</strong></span></li>
-<li><span><strong>Gary Young, Crown '73</strong> —
-Poet, artist & Director of the UCSC Cowell Press</span></li>
+<li><span><strong>Gary Young, Crown '73</strong></span></li>
 <li><span><strong>UC Santa Cruz Cowell Press </strong></span></li>
 </ul>
