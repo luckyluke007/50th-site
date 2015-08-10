@@ -145,6 +145,3 @@ DEPENDENCIES
   rdiscount
   s3_website
   travis
-
-BUNDLED WITH
-   1.10.5
