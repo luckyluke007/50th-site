@@ -1,28 +1,29 @@
+gems: ['jekyll-lunr-js-search']
+
 # Site settings
 title: UC Santa Cruz celebrates 50 years
 email: pio@ucsc.edu
 description: UC Santa Cruz celebrates 50 years - Events Information | News | Photo Galleries | Timeline
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://50years.ucsc.edu" # the base hostname & protocol for your site
+url: 'http://50years.ucsc.edu' # the base hostname & protocol for your site
+# baseurl: "" # the subpath of your site, e.g. /blog/
 
-twitter_username: ucsc
-github_username:  ucsc
+permalink: "/:title"
+timezone: America/Los_Angeles
 
 # Build settings
-exclude: ['.gitignore', 's3_website.yml', 'bower.json', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'Guardfile']
+exclude: ['.gitignore', 's3_website.yml', 'bower.json', 'Rakefile', 'Gemfile', 'Gemfile.lock', 'Guardfile', 'README.md']
 
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
 
-encoding:     "utf-8"
+encoding: 'utf-8'
 
-gems: ['jekyll-lunr-js-search']
+twitter_username: ucsc
+github_username:  ucsc
 
 lunr_search:
   js: 'js'
   excludes: [rss.xml, atom.xml]
 
-permalink: "/:title"
 
-timezone: America/Los_Angeles
