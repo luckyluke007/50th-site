@@ -15,16 +15,12 @@ Join us for a once-in-a-lifetime evening and be part of the crowning event of UC
 This year’s Founders Celebration dinner will be unlike anything we have done before. Served in a pavilion overlooking the Monterey Bay, Kathryn Sullivan (Cowell ‘73), the first American woman to walk in space, will be our master of ceremonies as we honor chef and food activist Alice Waters with the Foundation Medal and our pioneer staff and faculty with the Fiat Lux Award. The evening promises to be an electrifying night under the stars.
 
 <div class="single-column ticket-border">
-<div class="ticket-title"><h3>RSVP for Fiat Fifty! With Alice Waters</h3></div>
-<div class="ticket-button" style="color: #f8c325;"><strong>Tickets for the general public have sold out</strong>. If you would like to be placed on a waiting list, please contact Rachel Reed at (831) 459-5003</div>
-</div>
-<div class="single-column ticket-border">
-<div class="ticket-title"><h4>Were you staff or faculty in 1964–67? If so, we invite you to be our guest.</h4></div>
-<div class="ticket-button"><a href="/founders/pioneer-faculty-staff.html" class="full-width-button">Be Our Guest</a></div>
+<div class="ticket-title"><h3>Tickets for the Founders Celebration dinner have sold out</h3></div>
+<div class="ticket-button" style="color: #f8c325;">If you would like to be placed on a waiting list, please contact Rachel Reed at (831) 459-5003</div>
 </div>
 
 <div class="single-column ticket-border">
-<div class="ticket-title">Were you a UC Santa Cruz student in 1965? Get dinner ticket(s) and register for Pioneer Reunion events.</div><div class="ticket-button"><a href="/founders/pioneer-reunion.html" class="full-width-button">Learn more and register</a></div></div>
+<div class="ticket-title">Were you a UC Santa Cruz student in 1965? Register for Pioneer Reunion events.</div><div class="ticket-button"><a href="/founders/pioneer-reunion.html" class="full-width-button">Learn more about Pioneer Reunion Events</a></div></div>
 
 <div class="single-column"><hr><h4 style="text-align:center;">Our annual Founders celebration window will be bigger and better than ever. <br>Check back and stay tuned for details as they become available.</h4><hr></div>
 
