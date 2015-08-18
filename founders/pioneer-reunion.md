@@ -37,7 +37,7 @@ A gathering at Cowell College with a few founding faculty members to speak about
 
 - On Saturday evening, a local Pioneer Class alumni will be hosting a casual get-together for the Pioneer Class from 6 p.m. to Midnight at his home. This event is open to all pioneers, for those going to the Fiat Fifty event, feel free to join us after dinner. This event will be BYO drinks and food, though some hors d’oeuvres will be served. To find out more information about how to get there and how to register for this event, please email Katie at [klinder@ucsc.edu](mailto:klinder@ucsc.edu). [Click here to see a list of who has registered](https://docs.google.com/spreadsheets/d/1ytldMFR5r3rBzjsifA4K9--iI9aZBPH8H1aosgafHA0/pubhtml?gid=0&single=true).
 - **Want to be a host? Need a place to stay?**<br />
-The alumni office and the Pioneer Reunion Committee want to make sure that everyone has a place to stay during the event. If you are interested in being a host, or are interested in housing for that weekend, please email Katie Linder at [klinder@ucsc.edu](mailto:klinder@ucsc.edu). Once we get a sense of the housing that is available and the number of attendees who would like housing, we will follow up with you.
+The alumni office and the Pioneer Reunion Committee want to make sure that everyone has a place to stay during the event. If you are interested in being a host, or are interested in housing for that weekend, please email Laura Caldwell at [klinder@ucsc.edu](mailto:laura.caldwell@gmail.com). Once we get a sense of the housing that is available and the number of attendees who would like housing, we will follow up with you.
 
 #### [Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
 
