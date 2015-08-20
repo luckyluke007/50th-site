@@ -5,8 +5,9 @@ img: /css/assets/images/aw-2015/slider/2.jpg
 permalink: /founders/index_new.html
 exclude_from_search: true
 ---
-### UC Santa Cruz's 50th anniversary calls for a special Founders Celebration weekend featuring events highlighting the campus's audacious founding and distinctive standing.
+#### UC Santa Cruz's 50th anniversary calls for a special Founders Celebration weekend featuring events highlighting the campus's audacious founding and distinctive standing.
 
+## Faculty Research Lecture
 {% img full-size /css/assets/images/founders/susan-strome.jpg "Susan Strome - Faculty Research Lecture" "Susan Strome - Faculty Research Lecture" %}
 <!-- CONTAINER -->
 <div class="founder-container">
@@ -31,13 +32,14 @@ exclude_from_search: true
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
-<div class="founder-content"><h4>Faculty Research Lecture:  Beyond the DNA Code: Transmission of Developmental Instructions from Parents to Offspring</h4><p>Susan Strome, distinguished professor of molecular, cell, and developmental biology Professor Strome studies the development of germ cells—the cells that give rise to eggs and sperm. They are the only cells in the body that are immortal and provide a model for how parental experiences in humans can influence development of their children and grandchildren.</p></div>
+<div class="founder-content"><h4>Beyond the DNA Code: Transmission of Developmental Instructions from Parents to Offspring</h4><p>Susan Strome, distinguished professor of molecular, cell, and developmental biology Professor Strome studies the development of germ cells—the cells that give rise to eggs and sperm. They are the only cells in the body that are immortal and provide a model for how parental experiences in humans can influence development of their children and grandchildren.</p></div>
 <!--END CONTENT -->
 </div>
 <!-- END CONTAINER -->
 
 <hr style="width:100%">
 
+## Dr. J. Herman Blake
 {% img full-size /css/assets/images/founders/herman-blake.jpg "Dr. J. Herman Blake:  “Look’n M’ Face and Hear M’ Story”" "Dr. J. Herman Blake:  “Look’n M’ Face and Hear M’ Story”" %}
 
 <!-- CONTAINER -->
@@ -63,7 +65,7 @@ exclude_from_search: true
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
-<div class="founder-content"><h4>Dr. J. Herman Blake:  “Look’n M’ Face and Hear M’ Story”</h4><p>In honor of both the 50th anniversary of UCSC and his recently published oral history, Dr. J. Herman Blake will speak at McHenry Library on September 26, 2015 from 11:00 am- 12:30 pm.</p>
+<div class="founder-content"><h4>“Look’n M’ Face and Hear M’ Story”</h4><p>In honor of both the 50th anniversary of UCSC and his recently published oral history, Dr. J. Herman Blake will speak at McHenry Library on September 26, 2015 from 11:00 am- 12:30 pm.</p>
 <p>Dr. Blake is much beloved at UCSC, both as a charismatic and brilliant teacher/mentor and as the visionary leader who founded Oakes College.  He will speak about building communities during the course of his life, including his time at UCSC.</p>
 <p>The University Library is delighted to sponsor Dr. Blake’s visit to campus. Please join us for this memorable event which will be held outdoors on the Great Lawn of McHenry Library—don’t forget your hats and sunscreen.</p></div>
 <!--END CONTENT -->
@@ -73,6 +75,7 @@ exclude_from_search: true
 
 <hr style="width:100%">
 
+## True Originals: An Incubator of Stars
 {% img full-size /css/assets/images/founders/astronomy.jpg "Nebula”"Nebula" %}
 
 <!-- CONTAINER -->
@@ -98,7 +101,7 @@ exclude_from_search: true
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
-<div class="founder-content"><h4>True Originals: An Incubator of Stars<br />A conversation with extraordinary astrophysicist alumni, moderated by Chancellor George Blumenthal</h4><p><strong>Featuring</strong></p>
+<div class="founder-content"><h4>A conversation with extraordinary astrophysicist alumni, moderated by Chancellor George Blumenthal</h4><p><strong>Featuring</strong></p>
 <p><strong>Douglas Duncan (Ph.D. '80, astronomy)</strong><br />an astronomer at the University of Colorado, where he directs Fiske Planetarium, the most advanced planetarium in the country;</p>
 <p><strong>Steven Hawley (Ph.D. '77, astronomy)</strong> <br />professor of physics and astronomy at the University of Kansas, who made five space flights as a NASA astronaut and was inducted into the U.S. Astronaut Hall of Fame in 2007;</p>
 <p><strong>Geoffrey Marcy (Ph.D. '82, astronomy)</strong><br />professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in the discovery and characterization of planets around other stars.</p>
