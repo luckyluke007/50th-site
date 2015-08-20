@@ -1341,6 +1341,78 @@ a.fancybox.fancy-thumb {
 }
 
 //SAVE THE DATE FOUNDERS
+.founder-container {
+    @include span-columns(12);
+    margin: 1em 0 2em 0;
+}
+.founder-info {
+    @include media($mobile) {
+        @include span-columns(12);
+    }
+    @include media($portrait) {
+        @include span-columns(12);
+    }
+    @include media($tablet) {
+        @include span-columns(4);
+    }
+    @include media($desktop) {
+        @include span-columns(4);
+    }
+    ul, li, li:first {
+        @include span-columns(12);
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    li, li:first-child  {
+        padding: 0 .5em 0 .5em;
+    }
+    li:first-child {
+        margin: 0;
+    }
+    li {
+        margin: 1.5em 0;
+    }
+    // classes founder-info
+    h4:first-child {
+      @include span-columns(12);
+      border-bottom: 1px solid $ucsc-white;
+      text-transform: uppercase;
+      margin-bottom: .25em;
+      margin-top: 0em;
+    }
+    h4 {
+      @include span-columns(12);
+      border-bottom: 1px solid $ucsc-white;
+      text-transform: uppercase;
+      margin-bottom: .25em;
+      margin-top: 1em;
+    }
+    span {
+        display: block;
+    }
+}
+
+.founder-content {
+    @include media($mobile) {
+        padding: 0;
+        @include span-columns(12);
+    }
+    @include media($portrait) {
+        padding: 0;
+        @include span-columns(12);
+    }
+    @include media($tablet) {
+        padding: 0 .5em 0 .5em;
+        @include span-columns(8);
+    }
+    @include media($desktop) {
+        padding: 0 .5em 0 .5em;
+        @include span-columns(8);
+    }
+}
 
 .honoree_full {
     display: block;
