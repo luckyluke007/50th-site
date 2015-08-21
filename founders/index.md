@@ -36,8 +36,6 @@ permalink: /founders/index.html
 </div>
 <!-- END CONTAINER -->
 
-<hr style="width:100%">
-
 <!-- CONTAINER -->
 <div class="founder-container">
 <!-- EVENT INFO -->
@@ -72,8 +70,6 @@ permalink: /founders/index.html
 </div>
 <!-- END CONTAINER -->
 
-<hr style="width:100%">
-
 <!-- CONTAINER -->
 <div class="founder-container">
 <!-- EVENT INFO -->
@@ -105,7 +101,6 @@ permalink: /founders/index.html
 <!-- END CONTAINER -->
 
 <a name="true-originals"></a>
-<hr style="width:100%">
 
 <!-- CONTAINER -->
 <div class="founder-container">
@@ -145,12 +140,9 @@ permalink: /founders/index.html
 </div>
 <!-- END CONTAINER -->
 
-<hr style="width:100%">
-
-{% img full-size /css/assets/images/founders/fiat-fifty.svg "Fiat Fifty with Alice Waters" "Fiat Fifty with Alice Waters" %}
-
 <!-- CONTAINER -->
 <div class="founder-container">
+{% img full-size /css/assets/images/founders/fiat-fifty.svg "Fiat Fifty with Alice Waters" "Fiat Fifty with Alice Waters" %}
 <!-- EVENT INFO -->
 <div class="founder-info">
 <ul>
