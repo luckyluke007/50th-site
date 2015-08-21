@@ -139,6 +139,7 @@ exclude_from_search: true
 <p><strong>Douglas Duncan (Ph.D. '80, astronomy)</strong><br />an astronomer at the University of Colorado, where he directs Fiske Planetarium, the most advanced planetarium in the country;</p>
 <p><strong>Steven Hawley (Ph.D. '77, astronomy)</strong> <br />professor of physics and astronomy at the University of Kansas, who made five space flights as a NASA astronaut and was inducted into the U.S. Astronaut Hall of Fame in 2007;</p>
 <p><strong>Geoffrey Marcy (Ph.D. '82, astronomy)</strong><br />professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in the discovery and characterization of planets around other stars.</p>
+<p><strong>Caroline Morley (Ph.D. candidate UC Santa Cruz)</strong><br />Caroline is a 5th year graduate student at UC Santa Cruz, studying the atmospheres of exoplanets and brown dwarfs. </p>
 
 </div>
 <!-- END CONTENT -->
