@@ -31,7 +31,7 @@ permalink: /founders/index.html
 <!-- CONTENT -->
 <div class="founder-content">
 {% img full-size /css/assets/images/founders/susan-strome.jpg "Susan Strome - Faculty Research Lecture" "Susan Strome - Faculty Research Lecture" %}
-<h4>Beyond the DNA Code: Transmission of Developmental Instructions from Parents to Offspring</h4><p><strong>Susan Strome, distinguished professor of molecular, cell, and developmental biology</strong> Professor Strome studies the development of germ cells—the cells that give rise to eggs and sperm. The only cells in the body that are immortal, they provide a model for how parental experiences in humans can influence development of their children and grandchildren.</p></div>
+<h4>Beyond the DNA Code: Transmission of Developmental Instructions from Parents to Offspring</h4><p><strong>Susan Strome, distinguished professor of molecular, cell, and developmental biology</strong></p> <p>Professor Strome studies the development of germ cells—the cells that give rise to eggs and sperm. The only cells in the body that are immortal, they provide a model for how parental experiences in humans can influence development of their children and grandchildren.</p></div>
 <!--END CONTENT -->
 </div>
 <!-- END CONTAINER -->
