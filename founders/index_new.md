@@ -105,7 +105,7 @@ exclude_from_search: true
 </div>
 <!-- END CONTAINER -->
 
-
+<a name="true-originals"></a>
 <hr style="width:100%">
 
 <!-- CONTAINER -->
@@ -136,10 +136,10 @@ exclude_from_search: true
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
 <div class="founder-content">{% img full-size /css/assets/images/founders/astronomy.jpg "Nebula" "Nebula" %} <h4>A conversation with extraordinary astrophysicist alumni, moderated by Chancellor George Blumenthal</h4><p><strong>Featuring</strong></p>
-<p><strong>Douglas Duncan (Ph.D. '80, astronomy)</strong><br />an astronomer at the University of Colorado, where he directs Fiske Planetarium, the most advanced planetarium in the country;</p>
-<p><strong>Steven Hawley (Ph.D. '77, astronomy)</strong> <br />professor of physics and astronomy at the University of Kansas, who made five space flights as a NASA astronaut and was inducted into the U.S. Astronaut Hall of Fame in 2007;</p>
-<p><strong>Geoffrey Marcy (Ph.D. '82, astronomy)</strong><br />professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in the discovery and characterization of planets around other stars.</p>
-<p><strong>Caroline Morley, Astronomy Ph.D candidate</strong><br />2015 Chancellor's Fellowship, 2014 ARCS Recipient, 2012 Osterbook Fellowship, 2011 Harriet G. Jenkins Pre-doctoral Fellowship (NASA).</p>
+<p><strong><a href="/founders/douglas-duncan.html">Douglas Duncan (Ph.D. '80, astronomy)</a></strong><br />an astronomer at the University of Colorado, where he directs Fiske Planetarium, the most advanced planetarium in the country;</p>
+<p><strong><a href="/founders/steven-hawley.html">Steven Hawley (Ph.D. '77, astronomy)</a></strong> <br />professor of physics and astronomy at the University of Kansas, who made five space flights as a NASA astronaut and was inducted into the U.S. Astronaut Hall of Fame in 2007;</p>
+<p><strong><a href="/founders/geoffrey-marcy.html">Geoffrey Marcy (Ph.D. '82, astronomy)</a></strong><br />professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in the discovery and characterization of planets around other stars.</p>
+<p><strong><a href="/founders/caroline-morley.html">Caroline Morley, Astronomy Ph.D candidate</a></strong><br />2015 Chancellor's Fellowship, 2014 ARCS Recipient, 2012 Osterbook Fellowship, 2011 Harriet G. Jenkins Pre-doctoral Fellowship (NASA).</p>
 
 </div>
 <!-- END CONTENT -->
