@@ -25,10 +25,7 @@ exclude_from_search: true
 </li>
 <li>
 <h4>ADMISSION</h4>
-<span>N/A</span>
-</li>
-<li>
-<a href="#" class="full-width-button">Register Now</a>
+<span>Free</span>
 </li>
 </div>
 <!-- END EVENT INFO -->
@@ -37,6 +34,42 @@ exclude_from_search: true
 {% img full-size /css/assets/images/founders/susan-strome.jpg "Susan Strome - Faculty Research Lecture" "Susan Strome - Faculty Research Lecture" %}
 <h4>Beyond the DNA Code: Transmission of Developmental Instructions from Parents to Offspring</h4><p>Susan Strome, distinguished professor of molecular, cell, and developmental biology Professor Strome studies the development of germ cells—the cells that give rise to eggs and sperm. They are the only cells in the body that are immortal and provide a model for how parental experiences in humans can influence development of their children and grandchildren.</p></div>
 <!--END CONTENT -->
+</div>
+<!-- END CONTAINER -->
+
+<hr style="width:100%">
+
+<!-- CONTAINER -->
+<div class="founder-container">
+<!-- EVENT INFO -->
+<div class="founder-info">
+<ul>
+<li><h3>Pioneer Reunion</h3></li>
+<li>
+<h4>LOCATION</h4>
+<span><a href="/founders/pioneer-reunion.html">Click here for details</a></span>
+</li>
+<li>
+<h4>DATE</h4>
+<span>Sept. 25-27</span>
+</li>
+<li>
+<h4>ADMISSION</h4>
+<span>$50 per person</span>
+</li>
+<li>
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633
+" class="full-width-button">RSVP for Pioneer Reunion</a>
+</li>
+</div>
+<!-- END EVENT INFO -->
+<!-- CONTENT -->
+<div class="founder-content">
+{% img full-size /css/assets/images/founders/pioneer-class-title.jpg "Student in 1965" "Student in 1965" %}
+<h4>Celebrating the Incoming Class of 1965</h4>
+<p>As part of the 2015 Founders Celebration we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 3:30 pm. Save these dates and stay tuned for more information.</p>
+</div>
+<!-- END CONTENT -->
 </div>
 <!-- END CONTAINER -->
 
@@ -60,10 +93,7 @@ exclude_from_search: true
 </li>
 <li>
 <h4>ADMISSION</h4>
-<span>N/A</span>
-</li>
-<li>
-<a href="#" class="full-width-button">Register Now</a>
+<span>Free</span>
 </li>
 </div>
 <!-- END EVENT INFO -->
@@ -96,10 +126,11 @@ exclude_from_search: true
 </li>
 <li>
 <h4>ADMISSION</h4>
-<span>N/A</span>
+<span>$10 per person</span>
 </li>
 <li>
-<a href="#" class="full-width-button">Register Now</a>
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1980&cid=3686
+" class="full-width-button">Register Now</a>
 </li>
 </div>
 <!-- END EVENT INFO -->
