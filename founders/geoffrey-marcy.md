@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: Dr. Geoffrey Marcy
+title: Geoffrey Marcy
 img: /css/assets/images/founders/geoffrey-marcy.jpg
 permalink: /founders/geoffrey-marcy.html
 ---

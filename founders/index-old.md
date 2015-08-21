@@ -2,7 +2,8 @@
 layout: post-save-the-date
 title: Founders Celebration Dinner
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/index.html
+permalink: /founders/index.html-bak
+exclude_from_search: true
 ---
 # {% img full-size /css/assets/images/founders/fiat-fifty.svg "Fiat Fifty with Alice Waters" "Fiat Fifty with Alice Waters" %}
 

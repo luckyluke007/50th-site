@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: Dr. Steven Hawley
+title: Steven Hawley
 img: /css/assets/images/founders/steven-hawley.jpg
 permalink: /founders/steven-hawley.html
 ---

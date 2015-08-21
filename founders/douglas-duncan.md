@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: Dr. Douglas Duncan
+title: Douglas Duncan
 img: /css/assets/images/founders/douglas-duncan.jpg
 permalink: /founders/douglas-duncan.html
 ---
