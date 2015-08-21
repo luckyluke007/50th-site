@@ -1375,6 +1375,10 @@ a.fancybox.fancy-thumb {
     li {
         margin: 1.5em 0;
     }
+    h3 {
+        border-bottom: 3px solid $ucsc-yellow;
+        padding-bottom: .25em;
+    }
     // classes founder-info
     h4:first-child {
       @include span-columns(12);
@@ -1411,6 +1415,9 @@ a.fancybox.fancy-thumb {
     @include media($desktop) {
         padding: 0 .5em 0 .5em;
         @include span-columns(8);
+    }
+    img {
+        padding-bottom: .25em;
     }
 }
 
