@@ -35,7 +35,7 @@ permalink: /founders/index.html
 <!--END CONTENT -->
 </div>
 <!-- END CONTAINER -->
-
+<hr style="width:100%; clear: both;">
 <!-- CONTAINER -->
 <div class="founder-container">
 <!-- EVENT INFO -->
@@ -69,7 +69,7 @@ permalink: /founders/index.html
 <!-- END CONTENT -->
 </div>
 <!-- END CONTAINER -->
-
+<hr style="width:100%; clear: both;">
 <!-- CONTAINER -->
 <div class="founder-container">
 <!-- EVENT INFO -->
@@ -101,7 +101,7 @@ permalink: /founders/index.html
 <!-- END CONTAINER -->
 
 <a name="true-originals"></a>
-
+<hr style="width:100%; clear: both;">
 <!-- CONTAINER -->
 <div class="founder-container">
 <!-- EVENT INFO -->
@@ -139,7 +139,7 @@ permalink: /founders/index.html
 <!-- END CONTENT -->
 </div>
 <!-- END CONTAINER -->
-
+<hr style="width:100%; clear: both;">
 <!-- CONTAINER -->
 <div class="founder-container">
 {% img full-size /css/assets/images/founders/fiat-fifty.svg "Fiat Fifty with Alice Waters" "Fiat Fifty with Alice Waters" %}
