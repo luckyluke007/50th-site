@@ -1,7 +1,7 @@
 ---
 layout: post-save-the-date
 title: Pioneer Reunion&#58; Celebrating the Incoming Class of 1965
-img: /css/assets/images/aw-2015/slider/2.jpg
+img: /css/assets/images/founders/fiat-fifty.gif
 permalink: /founders/pioneer-reunion.html
 exclude_from_search: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post-save-the-date
 title: Master of Ceremonies&#58; Kathryn Sullivan
-img: /css/assets/images/aw-2015/slider/2.jpg
+img: /css/assets/images/founders/fiat-fifty.gif
 permalink: /founders/master-of-ceremony.html
 ---
 

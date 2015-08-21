@@ -1,7 +1,7 @@
 ---
 layout: post-save-the-date
 title: Founders Celebration Events
-img: /css/assets/images/aw-2015/slider/2.jpg
+img: /css/assets/images/founders/fiat-fifty.gif
 permalink: /founders/index_new.html
 exclude_from_search: true
 ---
