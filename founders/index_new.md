@@ -67,7 +67,7 @@ exclude_from_search: true
 <div class="founder-content">
 {% img full-size /css/assets/images/founders/pioneer-class-title.jpg "Student in 1965" "Student in 1965" %}
 <h4>Celebrating the Incoming Class of 1965</h4>
-<p>As part of the 2015 Founders Celebration we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 3:30 pm. Save these dates and stay tuned for more information.</p>
+<p>As part of the 2015 Founders Celebration we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 3:30 pm. <a href="/founders/pioneer-reunion.html">More information &raquo;</a></p>
 </div>
 <!-- END CONTENT -->
 </div>
