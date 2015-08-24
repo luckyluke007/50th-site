@@ -90,6 +90,10 @@ permalink: /founders/index.html
 <h4>ADMISSION</h4>
 <span>Free</span>
 </li>
+<li>
+<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1986&cid=3700
+" class="full-width-button">Register Now</a>
+</li>
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
