@@ -28,6 +28,7 @@ A final event for the weekend, a time to relax on the Cowell Provost House lawn 
 - **Sunday, September 27: Pioneer Faculty Panel, Time TBA, Location TBA** <br />
 A gathering at Cowell College with a few founding faculty members to speak about their experiences and memories of the early UC Santa Cruz days with the pioneer class students.
 
+<a href="http://50years.ucsc.edu/founders/documents/cowell-college-50th-anniversary-celebration.pdf" class="full-width-button" style="float: none !important;">Click here for a full detailed schedule of the reunion activities</a>
 
 <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a>
 
