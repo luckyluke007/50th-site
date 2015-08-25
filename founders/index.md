@@ -164,7 +164,7 @@ permalink: /founders/index.html
 </li>
 <li>
 <h4>SOLD OUT</h4>
-<span style="color:#f1b521;">If you would like to be placed on a waiting list, please contact Rachel Reed at <br />(831) 459-5003<./span>
+<span style="color:#f1b521;">If you would like to be placed on a waiting list, please contact Rachel Reed at <br />(831) 459-5003</span>
 </li>
 </div>
 <!-- END EVENT INFO -->
