@@ -20,7 +20,7 @@ permalink: /founders/index.html
 </li>
 <li>
 <h4>DATE/TIME</h4>
-<span>Sept. 25/TBA</span>
+<span>Sept. 25/7 p.m.</span>
 </li>
 <li>
 <h4>ADMISSION</h4>
