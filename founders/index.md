@@ -212,4 +212,5 @@ permalink: /founders/index.html
 <li>{% img /css/assets/images/founders/annieglass.png "Annie Glass" "Annie Glass" %}</li>
 <li><span><strong>Gary Young, Crown '73</strong></span></li>
 <li><span><strong>UC Santa Cruz Cowell Press </strong></span></li>
+<li><span><strong>The Center for Agroecology & Sustainable Food Systems (CASFS), UC Santa Cruz</strong></span></li>
 </ul>
