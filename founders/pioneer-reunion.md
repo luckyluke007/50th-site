@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: Pioneer Reunion&#58; Celebrating the Incoming Class of 1965
+title: Pioneer Reunion&#58; Celebrating the Original Students of UC Santa Cruz
 img: /css/assets/images/founders/fiat-fifty.gif
 permalink: /founders/pioneer-reunion.html
 exclude_from_search: true
