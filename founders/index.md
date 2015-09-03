@@ -97,7 +97,7 @@ permalink: /founders/index.html
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
-<div class="founder-content">{% img full-size /css/assets/images/founders/herman-blake.jpg "J. Herman Blake" "J. Herman Blake" %}<p>In honor of both UC Santa Cruz 50th anniversary and his recently published oral history, J. Herman Blake will speak at McHenry Library on September 26, 2015, from 11:00 a.m.-12:30 p.m.</p>
+<div class="founder-content">{% img full-size /css/assets/images/founders/herman-blake.jpg "J. Herman Blake" "J. Herman Blake" %}<h4>My Unique Journey: Learning Never Ends</h4><p>In honor of both UC Santa Cruz 50th anniversary and his recently published oral history, J. Herman Blake will speak at McHenry Library on September 26, 2015, from 11:00 a.m.-12:30 p.m.</p>
 <p>Blake is much beloved at UC Santa Cruz, both as a charismatic and brilliant teacher/mentor and as the visionary leader who founded Oakes College.  He will speak about building communities during the course of his life, including his time at UC Santa Cruz.</p>
 <p>The University Library is delighted to sponsor Blake’s visit to campus. Please join us for this memorable event, which will be held outdoors on the Great Lawn of McHenry Library—don’t forget your hats and sunscreen.</p></div>
 <!--END CONTENT -->
