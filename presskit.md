@@ -48,6 +48,26 @@ A selection of photos from the past 50 years.
 
 ## Upcoming events
 
-{% for event in site.data.events.events limit:10 %}
-- {{ event.event.event_date | date: "%B %-d" }}: [{{ event.event.title }}]({{ event.event.link }})
-{% endfor %}
+<ul class="post-list">
+    {% for event in site.data.events.events %}
+     {% assign eventdate = event.event.event_date | date: "%F" %}
+     {% assign sitedate = site.time | date: "%F" %}
+       {% if eventdate >= sitedate %}
+          <li>
+            <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
+            <div class="event-content">
+            {% if event.event.thumbnail.src != "" %}
+              <img src="{{ event.event.thumbnail.src }}" class="event-image" />
+            {% endif %}
+            <h2><a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a></h2>        
+            <p>
+            <span class="event-location">{{ event.event.location }} {{ event.event.location_details }}</span>
+            <span class="event-teaser">{{ event.event.teaser | strip_html | truncatewords:40 }}</span>
+            </p>
+            </div>
+          </li>
+          <div class="clear"></div>
+          {% else %}
+        {% endif %}
+    {% endfor %}
+  </ul>
