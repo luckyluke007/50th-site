@@ -19,6 +19,8 @@ An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Fran
 
 **Assorted charcuterie and local artisan cheese**
 
+***
+
 ## First Course
 **Swank Farms heirloom tomato carpaccio with lemon cucumbers, basil, chervil, and aioli**
 
