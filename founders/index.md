@@ -175,6 +175,7 @@ permalink: /founders/index.html
 <ul>
 <li><a href="/founders/honorees.html"><strong>Honorees</strong></a></li>
 <li><a href="/founders/master-of-ceremony.html"><strong>Master of Ceremonies</strong></a></li>
+<li><a href="/founders/menu.html"><strong>Menu</strong></a></li>
 <li><a href="/founders/faq.html"><strong>FAQ</strong></a></li>
 </ul>
 </div>
