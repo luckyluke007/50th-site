@@ -1,6 +1,6 @@
 ---
 layout: post-save-the-date
-title: Founders Celebration Menu
+title: Founders Celebration Dinner Menu
 img: /css/assets/images/founders/fiat-fifty.gif
 permalink: /founders/menu.html
 ---
