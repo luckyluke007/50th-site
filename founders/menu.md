@@ -4,7 +4,7 @@ title: Founders Celebration Menu
 img: /css/assets/images/founders/fiat-fifty.gif
 permalink: /founders/menu.html
 ---
-<center>
+
 **Swank Farms heirloom tomato carpaccio with lemon cucumbers, basil, chervil and aioli**
 
 ***
@@ -22,4 +22,4 @@ permalink: /founders/menu.html
 ***
 
 An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Franco and our local, organic farmers
-</center>
+
