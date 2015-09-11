@@ -7,7 +7,7 @@ permalink: /founders/menu.html
 
 An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Franco and our local, organic farmers
 
-## Appetizers
+## Passed Hors d'oeuvres
 
 **Black Mission and Kadota figs, Bellwether Farms fromage blanc, balsamic drizzle, fresh mint**
 
