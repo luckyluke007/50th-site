@@ -4,6 +4,9 @@ title: Fiat Fifty Dinner Menu
 img: /css/assets/images/founders/fiat-fifty.gif
 permalink: /founders/menu.html
 ---
+
+An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Franco and our local, organic farmers
+
 ## Appetizers
 
 **Black Mission and Kadota figs, Bellwether Farms Fromage Blanc, balsamic drizzle, fresh mint**
@@ -32,8 +35,4 @@ permalink: /founders/menu.html
 
 ## Third Course
 **Mission Hill Creamery Meyer lemon and wild blackberry ice cream bombe**
-
-
-
-An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Franco and our local, organic farmers
 
