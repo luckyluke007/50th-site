@@ -9,23 +9,23 @@ An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Fran
 
 ## Appetizers
 
-**Black Mission and Kadota figs, Bellwether Farms Fromage Blanc, balsamic drizzle, fresh mint**
+**Black Mission and Kadota figs, Bellwether Farms fromage blanc, balsamic drizzle, fresh mint**
 
-**Swank Farms sweet corn fritter, Kendall Farms creme fraiche, chive batonette**
+**Swank Farms sweet corn fritter, Kendall Farms cr&egrave;me fra&icirc;che, chive batonette**
 
 **UC Santa Cruz Farms little gem lettuce cups, Sea to Table sustainable shrimp, Haas avocado**
 
-**Foraged mushroom tartines, golden chanterelles, hen of the woods, crimini mushrooms, fresh thyme**
+**Foraged mushroom tartines, golden chanterelles, hen-of-the-woods, crimini mushrooms, fresh thyme**
 
-**Assorted charcuterie & local artisan cheese**
+**Assorted charcuterie and local artisan cheese**
 
 ## First Course
-**Swank Farms heirloom tomato carpaccio with lemon cucumbers, basil, chervil and aioli**
+**Swank Farms heirloom tomato carpaccio with lemon cucumbers, basil, chervil, and aioli**
 
 ***
 
 ## Second Course
-**Neiman Ranch grass fed braised beef short ribs, Iacopi butter beans, CASFS Delicata squash and salsa verde**
+**Niman Ranch grass-fed braised beef short ribs, Iacopi butter beans, CASFS delicata squash, and salsa verde**
 
 ***
 
