@@ -27,7 +27,7 @@ An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Fran
 ***
 
 ## Second Course
-**Niman Ranch grass-fed braised beef short ribs, Iacopi butter beans, CASFS delicata squash, and salsa verde**
+**BN Ranch filet of beef&#42;,Iacopi butter beans,CASFS delicata squash, and salsa verde**
 
 ***
 
@@ -37,4 +37,12 @@ An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Fran
 
 ## Third Course
 **Mission Hill Creamery Meyer lemon and wild blackberry ice cream bombe**
+
+***
+
+##Wines
+
+**Saintsbury is certified under the Napa Green Certified Land Program**
+
+
 
