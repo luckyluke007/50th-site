@@ -44,5 +44,7 @@ An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Fran
 
 **Saintsbury is certified under the Napa Green Certified Land Program**
 
+***
 
-
+*Last-minute entrée change sourced from BN Ranch
+and longtime friend of Chez Panisse Bill Niman.
