@@ -16,6 +16,7 @@ Alternatively, you can park in the large parking lot across the street.  You wil
 
 ## Saturday, September 26 - Sunday, September 9/27
 **Events located at UC Santa Cruz**
+[Click here for a campus parking map](/founders/documents/parking-map-pioneer-reunion.pdf)
 
 Complimentary parking will be available for Pioneer Reunion guests in the East Remote Parking Lot on Saturday, September 26 and Sunday, September 27. As the East Remote Parking Lot is a 10-15 minute walk that includes a large hill, we will have shuttles running from the kiosk that is in the rear of the parking lot, up to the event locations on both days. 
 
