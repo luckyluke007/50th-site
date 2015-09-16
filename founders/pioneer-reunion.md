@@ -30,6 +30,8 @@ A gathering at Cowell College with a few founding faculty members to speak about
 
 <a href="http://50years.ucsc.edu/founders/pioneer-schedules.html" class="full-width-button" style="float: none !important;">Click here for a full detailed schedule of the reunion activities</a>
 
+<a href="http://50years.ucsc.edu/founders/reunion-parking-info.html" class="full-width-button" style="float: none !important;">Click here for parking information</a>
+
 <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a>
 
 ***
