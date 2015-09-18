@@ -116,7 +116,7 @@ permalink: /founders/index.html
 </li>
 <li>
 <h4>LOCATION</h4>
-<span>Digital Arts Research Center</span>
+<span>Music Recital Hall</span>
 </li>
 <li>
 <h4>DATE/TIME</h4>
