@@ -22,15 +22,12 @@ We will welcome back the Pioneer Class in style with appetizers and a no-host ba
 - **Saturday, September 26: Pioneer Reunion, 9 a.m.-3:30 p.m., East Field House** <br />
 Saturday will feature a full day of events from lectures to mingling to lunches, all under the one roof there was in 1965—in other words, the pioneers will once again be taking over the East Field House! The continental breakfast will be served at 9 a.m., and the lunch will start at noon.
 
-- **Sunday, September 27: Pioneer Brunch, 10 a.m.-noon, Cowell Provost House** <br />
-A final event for the weekend, a time to relax on the Cowell Provost House lawn with a view of the bay over brunch.
+- **Sunday, September 27: Pioneer Brunch, Service of Remembrance & Faculty Reflections 10 a.m.-2 p.m., Cowell Provost House** <br />
+Join us for our closing activities. We will start with a Brunch overlooking the beautiful view from the Provost House Lawn, then take time to remember those who have passed, and end the evening with a stroll up to Cowell College to hear reflections from Pioneer Faculty.
 
-- **Sunday, September 27: Pioneer Faculty Panel, Time TBA, Location TBA** <br />
-A gathering at Cowell College with a few founding faculty members to speak about their experiences and memories of the early UC Santa Cruz days with the pioneer class students.
+<a href="http://50years.ucsc.edu/founders/pioneer-schedules.html" class="full-width-button" style="float: none !important;">Full Schedule of Events</a>
 
-<a href="http://50years.ucsc.edu/founders/pioneer-schedules.html" class="full-width-button" style="float: none !important;">Click here for a full detailed schedule of the reunion activities</a>
-
-<a href="http://50years.ucsc.edu/founders/reunion-parking-info.html" class="full-width-button" style="float: none !important;">Click here for parking information</a>
+<a href="http://50years.ucsc.edu/founders/reunion-parking-info.html" class="full-width-button" style="float: none !important;">Parking Information</a>
 
 <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a>
 
@@ -39,8 +36,6 @@ A gathering at Cowell College with a few founding faculty members to speak about
 <center><h3><a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1946&cid=3634&fid=3633">See Who's Coming</a></h3></center>
 
 - On Saturday evening, a local Pioneer Class alumni will be hosting a casual get-together for the Pioneer Class from 6 p.m. to Midnight at his home. This event is open to all pioneers, for those going to the Fiat Fifty event, feel free to join us after dinner. This event will be BYO drinks and food, though some hors d’oeuvres will be served. To find out more information about how to get there and how to register for this event, please email Katie at [klinder@ucsc.edu](mailto:klinder@ucsc.edu). [Click here to see a list of who has registered](https://docs.google.com/spreadsheets/d/1ytldMFR5r3rBzjsifA4K9--iI9aZBPH8H1aosgafHA0/pubhtml?gid=0&single=true).
-- **Want to be a host? Need a place to stay?**<br />
-The alumni office and the Pioneer Reunion Committee want to make sure that everyone has a place to stay during the event. If you are interested in being a host, or are interested in housing for that weekend, please email Laura Caldwell at [klinder@ucsc.edu](mailto:laura.caldwell@gmail.com). Once we get a sense of the housing that is available and the number of attendees who would like housing, we will follow up with you.
 
 #### [Connect on Facebook](https://www.facebook.com/groups/848465011856725/?notif_t=group_r2j_approved)
 
