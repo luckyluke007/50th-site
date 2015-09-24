@@ -27,6 +27,11 @@ permalink: /founders/faq.html
 
 ***
 
+#### Q: Do I need a paper ticket?
+> A: No. You do not need a paper ticket. We will have a list of all of our guests, and will be checking them in at the door.
+
+***
+
 #### Q: How long will the evening be?
 > A: The reception begins at 6 p.m. Dinner starts at 7 p.m. The dinner and program will end around 9:30 p.m.; dancing and stargazing will go until about 11 p.m. 
 
