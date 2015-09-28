@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fiat Fifty"
+title:  "Fiat Lux — Fiat Fifty"
 date:   2015-09-28
 categories: videos
 img: /css/assets/images/posts/fiat-fifty/main.jpg
