@@ -5,7 +5,6 @@ img: /css/assets/images/founders/fiat-fifty.gif
 permalink: /founders/index.html
 ---
 #### UC Santa Cruz's 50th anniversary calls for a special Founders Celebration weekend featuring events highlighting the campus's audacious founding and distinctive standing.
-
 <!-- CONTAINER -->
 <div class="founder-container">
 <!-- EVENT INFO -->
