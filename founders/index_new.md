@@ -1,9 +1,19 @@
 ---
 layout: post-save-the-date
-title: Founders Celebration
+title: Founders Celebration - Thank You!
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/index.html
+permalink: /founders/index-new.html
+exclude_from_search: true
 ---
+
+<iframe class="iframe-youtube" src="https://www.youtube.com/embed/XuQ97WS9loU" frameborder="0" allowfullscreen></iframe>
+
+
+<div style="padding:1em; margin-top:1em; background: #fff;"><div class="storify"><iframe src="//storify.com/ucsc/celebrating-50-years/embed?border=false" width="100%" height="750" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/ucsc/celebrating-50-years.js?border=false"></script><noscript>[<a href="//storify.com/ucsc/celebrating-50-years" target="_blank">View the story "Founders Weekend 2015" on Storify</a>]</noscript></div>
+</div>
+
+***
+
 
 #### UC Santa Cruz's 50th anniversary calls for a special Founders Celebration weekend featuring events highlighting the campus's audacious founding and distinctive standing.
 <!-- CONTAINER -->
