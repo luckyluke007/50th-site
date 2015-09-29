@@ -19,6 +19,8 @@ permalink: /founders/index.html
 ***
 
 
+## Founders 2015 Events
+
 #### UC Santa Cruz's 50th anniversary calls for a special Founders Celebration weekend featuring events highlighting the campus's audacious founding and distinctive standing.
 <!-- CONTAINER -->
 <div class="founder-container">
@@ -68,10 +70,7 @@ permalink: /founders/index.html
 <h4>ADMISSION</h4>
 <span>$50 per person</span>
 </li>
-<li>
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633
-" class="full-width-button">RSVP for Pioneer Reunion</a>
-</li>
+</ul>
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
@@ -104,10 +103,7 @@ permalink: /founders/index.html
 <h4>ADMISSION</h4>
 <span>Free</span>
 </li>
-<li>
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1986&cid=3700
-" class="full-width-button">Register Now</a>
-</li>
+</ul>
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
@@ -140,10 +136,7 @@ permalink: /founders/index.html
 <h4>ADMISSION</h4>
 <span>$10 per person</span>
 </li>
-<li>
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1980&cid=3686
-" class="full-width-button">Register Now</a>
-</li>
+</ul>
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
@@ -180,11 +173,7 @@ professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in
 <h4>ADMISSION</h4>
 <span>$175 per person</span>
 </li>
-<li>
-<h4>SOLD OUT</h4>
-<span style="color:#f1b521;">If you would like to be placed on a waiting list, please contact Rachel Reed at 
-<br />(831) 459-5003</span>
-</li>
+</ul>
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
