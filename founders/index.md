@@ -8,8 +8,9 @@ permalink: /founders/index.html
 <iframe class="iframe-youtube" src="https://www.youtube.com/embed/XuQ97WS9loU" frameborder="0" allowfullscreen></iframe>
 
 
-<div style="padding:1em; margin-top:1em; background: #fff;"><div class="storify"><iframe src="//storify.com/ucsc/celebrating-50-years/embed?border=false" width="100%" frameborder="no" allowtransparency="true"></iframe><script src="//storify.com/ucsc/celebrating-50-years.js?border=false"></script><noscript>[<a href="//storify.com/ucsc/celebrating-50-years" target="_blank">View the story "Founders Weekend 2015" on Storify</a>]</noscript></div>
-</div>
+- [Highlights from Founders 2015](https://storify.com/ucsc/celebrating-50-years)
+- [View photos](https://www.flickr.com/photos/ucsantacruz/sets/72157659102905566)
+- [Fiat Lux video](https://www.youtube.com/watch?v=TJCCrT1Eb_c)
 
 ***
 
