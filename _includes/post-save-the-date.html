@@ -1,15 +1,7 @@
 <img src="/css/assets/images/founders/forkit-share-your-passion.jpg" "Fork - Share your passion" class="full-size" style="border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -o-border-radius: .25em; margin-bottom: 1em;">
 
 <div class="side-container">
-<h3><a href="/founders/index.html">Founders Celebration &raquo;</a></h3>
-<ul>
-<li style="font-size: 1.25em;"><a href="https://www.flickr.com/photos/ucsantacruz/sets/72157659102905566">Flickr Album &raquo;</a></li>
-<li style="font-size: 1.25em;"><a href="https://www.youtube.com/watch?v=TJCCrT1Eb_c">Fiat Lux - Fiat Fifty &raquo;</a></li>
-</ul>
-</div>
-
-<div class="side-container">
-<h3><a href="/events.html">Latest Events</a></h3>
+<h3><a href="/events.html">Upcoming Events</a></h3>
 <ul class="post-list">
     {% for event in site.data.events.events %}
      {% assign eventdate = event.event.event_date | date: "%F" %}
