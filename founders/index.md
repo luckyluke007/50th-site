@@ -8,9 +8,9 @@ permalink: /founders/index.html
 <iframe class="iframe-youtube" src="https://www.youtube.com/embed/XuQ97WS9loU" frameborder="0" allowfullscreen></iframe>
 
 <ul class="highlight-list">
-<li><a href="https://storify.com/ucsc/celebrating-50-years">Storify: a summary of Founder's 2015</a></li>
-<li><a href="https://www.flickr.com/photos/ucsantacruz/sets/72157659102905566">See photos from the evening on Flickr</a></li>
-<li><a href="https://www.youtube.com/watch?v=TJCCrT1Eb_c">Watch "Fiat Lux - Fiat Fifty" on YouTube</a></li>
+<li><a href="https://storify.com/ucsc/celebrating-50-years">Stories, photos, videos, tweets and more:<br>a rich summary of Founders 2015</a></li>
+<li><a href="https://www.flickr.com/photos/ucsantacruz/sets/72157659102905566">See photos from the evening</a></li>
+<li><a href="https://www.youtube.com/watch?v=TJCCrT1Eb_c">Watch "Fiat Lux - Fiat Fifty"</a></li>
 </ul>
 
 <br>
