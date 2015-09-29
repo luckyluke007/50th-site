@@ -1614,3 +1614,17 @@ ul.secondary-sponsor {
 
     }
 }
+
+.highlight-list {
+  padding:1em;
+  border:2px solid rgba(255,255,255,0.55);
+  background-color: rgba(255,255,255,0.15);
+  border-radius: 8px;
+  margin:1em 0;
+}
+
+.highlight-list li {
+  padding:0.25em 0.5em 0.25em 0;
+  margin-left: 2em;
+  font-size: 1.4em;
+}

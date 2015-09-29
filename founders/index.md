@@ -7,10 +7,14 @@ permalink: /founders/index.html
 
 <iframe class="iframe-youtube" src="https://www.youtube.com/embed/XuQ97WS9loU" frameborder="0" allowfullscreen></iframe>
 
+<ul class="highlight-list">
+<li><a href="https://storify.com/ucsc/celebrating-50-years">Storify: a summary of Founder's 2015</a></li>
+<li><a href="https://www.flickr.com/photos/ucsantacruz/sets/72157659102905566">See photos from the evening on Flickr</a></li>
+<li><a href="https://www.youtube.com/watch?v=TJCCrT1Eb_c">Watch "Fiat Lux - Fiat Fifty" on YouTube</a></li>
+</ul>
 
-- [Highlights from Founders 2015](https://storify.com/ucsc/celebrating-50-years)
-- [View photos](https://www.flickr.com/photos/ucsantacruz/sets/72157659102905566)
-- [Fiat Lux video](https://www.youtube.com/watch?v=TJCCrT1Eb_c)
+<br>
+<br>
 
 ***
 
@@ -144,10 +148,14 @@ permalink: /founders/index.html
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
 <div class="founder-content">{% img full-size /css/assets/images/founders/astronomy.jpg "Nebula" "Nebula" %} <h4>A conversation with extraordinary astrophysicist alumni, moderated by Chancellor George Blumenthal</h4><p><strong>Featuring</strong></p>
-<p><strong><a href="/founders/douglas-duncan.html">Douglas Duncan (Ph.D. '80, astronomy),</a></strong><br />an astronomer at the University of Colorado, where he directs Fiske Planetarium, the most advanced planetarium in the country;</p>
-<p><strong><a href="/founders/steven-hawley.html">Steven Hawley (Ph.D. '77, astronomy),</a></strong> <br />professor of physics and astronomy at the University of Kansas, who made five space flights as a NASA astronaut and was inducted into the U.S. Astronaut Hall of Fame in 2007;</p>
-<p><strong><a href="/founders/geoffrey-marcy.html">Geoffrey Marcy (Ph.D. '82, astronomy),</a></strong><br />professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in the discovery and characterization of planets around other stars;</p>
-<p><strong><a href="/founders/caroline-morley.html">Caroline Morley, astronomy Ph.D candidate,</a></strong><br />2015 Chancellor's Fellowship, 2014 ARCS recipient, 2012 Osterbook Fellowship, 2011 Harriet G. Jenkins Pre-doctoral Fellowship (NASA).</p>
+<p><strong><a href="/founders/douglas-duncan.html">Douglas Duncan (Ph.D. '80, astronomy),</a></strong><br />
+an astronomer at the University of Colorado, where he directs Fiske Planetarium, the most advanced planetarium in the country;</p>
+<p><strong><a href="/founders/steven-hawley.html">Steven Hawley (Ph.D. '77, astronomy),</a></strong> <br />
+professor of physics and astronomy at the University of Kansas, who made five space flights as a NASA astronaut and was inducted into the U.S. Astronaut Hall of Fame in 2007;</p>
+<p><strong><a href="/founders/geoffrey-marcy.html">Geoffrey Marcy (Ph.D. '82, astronomy),</a></strong><br />
+professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in the discovery and characterization of planets around other stars;</p>
+<p><strong><a href="/founders/caroline-morley.html">Caroline Morley, astronomy Ph.D candidate,</a></strong><br />
+2015 Chancellor's Fellowship, 2014 ARCS recipient, 2012 Osterbook Fellowship, 2011 Harriet G. Jenkins Pre-doctoral Fellowship (NASA).</p>
 
 </div>
 <!-- END CONTENT -->
@@ -174,12 +182,14 @@ permalink: /founders/index.html
 </li>
 <li>
 <h4>SOLD OUT</h4>
-<span style="color:#f1b521;">If you would like to be placed on a waiting list, please contact Rachel Reed at <br />(831) 459-5003</span>
+<span style="color:#f1b521;">If you would like to be placed on a waiting list, please contact Rachel Reed at 
+<br />(831) 459-5003</span>
 </li>
 </div>
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
-<div class="founder-content"><h4>A spectacular evening under the stars in celebration of trailblazers, radicals, and legends.</h4>
+<div class="founder-content"><h4>A spectacular evening under the stars in celebration of trailblazers, radicals, and legends.
+</h4>
 <p>Join us for a once-in-a-lifetime evening and be part of the crowning event of UC Santa Cruz’s 50th celebratory year.</p>
 <p>This year’s Founders Celebration dinner will be unlike anything we have done before. Served in a pavilion overlooking the Monterey Bay, Kathryn Sullivan (Cowell ‘73), the first American woman to walk in space, will be our master of ceremonies as we honor chef and food activist Alice Waters with the Foundation Medal and our pioneer staff and faculty with the Fiat Lux Award. The evening promises to be an electrifying night under the stars.</p>
 <ul>
