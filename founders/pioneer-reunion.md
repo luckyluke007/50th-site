@@ -8,7 +8,23 @@ exclude_from_search: true
 
 {% include fancybox.html %}
 
-{% img full-size /css/assets/images/founders/pioneer-class-title.jpg "Pioneer Class" "Pioneer Class" %}
+{% img full-size /css/assets/images/founders/pioneer-title.jpg "Pioneer Reunion event" "Pioneer Reunion event" %}
+
+Thank you for joining us for our celebration of the original students of UC Santa Cruz. The weekend was a wonderful return to the magical UC Santa Cruz campus; the activities started by looking out over the iconic Santa Cruz beach, then we came together and hunkered down in the Field House once again, and finished the weekend honoring pioneer faculty and mingling on the Cowell Provost House Lawn. This was truly a weekend to remember, we hope that you stay a while and explore the photo galleries and resources for pioneer students.
+
+## Look Back
+
+<ul class="highlight-list">
+<li><a href="https://www.flickr.com/photos/125282631@N08/sets/72157658847473429/#For%20more%20photos,%20click%20here%20to%20view%20the%20complete%20album">Photo Gallery</a></li>
+</ul>
+
+## Keep Exploring
+
+<ul class="highlight-list">
+<li><a href="https://docs.google.com/a/ucsc.edu/forms/d/1O3xRZfo7kJ8Ube0iYOLZAzIjrU92lk2dpccrIiQlFZ4/viewform#Submit%20your%20memory%20book%20response%20here">Contribute to the Memory Book</a></li>
+<li><a href="http://alumni.ucsc.edu/pioneer-memory-book/">Visit the Pioneer Class Home Page</a></li>
+<li><a href="https://www.facebook.com/groups/848465011856725/">Join the Pioneer Facebook Group</a></li>
+</ul>
 
 As part of the 2015 Founders Celebration we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 3:30 pm. 
 
@@ -27,7 +43,7 @@ Join us for our closing activities. We will start with a Brunch overlooking the 
 
 <a href="http://50years.ucsc.edu/founders/pioneer-schedules.html" class="full-width-button" style="float: none !important;">Full Schedule of Events</a>
 
-<a href="http://50years.ucsc.edu/founders/reunion-parking-info.html" class="full-width-button" style="float: none !important;">Parking Information</a>
+<!-- <a href="http://50years.ucsc.edu/founders/reunion-parking-info.html" class="full-width-button" style="float: none !important;">Parking Information</a> -->
 
 <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a>
 
