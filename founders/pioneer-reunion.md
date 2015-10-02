@@ -45,7 +45,7 @@ Join us for our closing activities. We will start with a Brunch overlooking the 
 
 <!-- <a href="http://50years.ucsc.edu/founders/reunion-parking-info.html" class="full-width-button" style="float: none !important;">Parking Information</a> -->
 
-<a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a>
+<!-- <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a> -->
 
 ***
 
