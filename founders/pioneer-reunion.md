@@ -26,9 +26,12 @@ Thank you for joining us for our celebration of the original students of UC Sant
 <li><a href="https://www.facebook.com/groups/848465011856725/">Join the Pioneer Facebook Group</a></li>
 </ul>
 
-As part of the 2015 Founders Celebration we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 3:30 pm. 
+<br>
+<br>
 
 ***
+
+As part of the 2015 Founders Celebration we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 3:30 pm. 
 
 ## Schedule of Events:
 
