@@ -31,7 +31,7 @@ Thank you for joining us for our celebration of the original students of UC Sant
 
 ***
 
-As part of the 2015 Founders Celebration we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with special reunion program on Saturday from 9:30 am until 3:30 pm. 
+As part of the 2015 Founders Celebration we held reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, 2015, with special reunion program on Saturday from 9:30 am until 3:30 pm
 
 ## Schedule of Events:
 
@@ -50,6 +50,8 @@ Join us for our closing activities. We will start with a Brunch overlooking the 
 
 <!-- <a href="https://securelb.imodules.com/s/1069/index.aspx?sid=1069&gid=1&pgid=1945&cid=3633" class="full-width-button" style="float: none !important;">RSVP for Pioneer Reunion</a> -->
 
+<!--
+
 ***
 
 <center><h3><a href="http://connect.ucsc.edu/s/1069/index.aspx?sid=1069&gid=1&pgid=1946&cid=3634&fid=3633">See Who's Coming</a></h3></center>
@@ -65,6 +67,8 @@ Join us for our closing activities. We will start with a Brunch overlooking the 
 We're missing more than 300 email addresses for the pioneer group. To help make this gathering complete, help us by sharing the word with those you know, as well as by passing on any contact info for your fellow pioneers that we're missing. Below is a list organized first by location (trailer numbers from 1965 and the off-campus crew), then by last name. Please email any updated email addresses, phone numbers, or mailing addresses directly to Katie Linder at [klinder@ucsc.edu](mailto:klinder@ucsc.edu).
 
 <iframe width="100%" height="400px" style="width:100%; max-height:400px; margin-bottom:1em;" src="https://docs.google.com/spreadsheets/d/1s623B6cEwdkUWzffO7Xu_2YLASD8LnoudTj_VsfiWNw/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+-->
 
 ***
 
