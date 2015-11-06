@@ -2,7 +2,8 @@
 layout: main-aw
 title: Alumni Weekend 2015
 img: /css/assets/images/aw-2015/slider/2.jpg
-permalink: /alumniweekend2015/index.html
+permalink: /alumniweekend2015/index-2015case.html
+exclude_from_search: true
 ---
 
 # <span class="light">ALUMNI WEEKEND 2015 | APRIL 23-26</span><br /><span class="yellow">THANK YOU FOR</span> COMING HOME.
