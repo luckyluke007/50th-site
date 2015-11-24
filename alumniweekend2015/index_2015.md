@@ -2,7 +2,7 @@
 layout: main-aw
 title: Alumni Weekend 2015
 img: /css/assets/images/aw-2015/slider/2.jpg
-permalink: /alumniweekend2015/index.html
+permalink: /alumniweekend2015/index-2015case.html
 ---
 
 # <span class="light">ALUMNI WEEKEND 2015</span><br /><span class="yellow">THIS WEEKEND IS FOR YOU.</span> COME HOME.
