@@ -4,7 +4,8 @@ title:  "Student support gives major boost to Quarry reopening"
 date:   2015-03-26
 categories: forward
 img: /css/assets/images/posts/the-quarry/main.jpg
-alt: Quarry Amphitheater circa 1966 (photo by Brandeis Photography) 
+alt: Quarry Amphitheater circa 1966 (photo by Brandeis Photography)
+permalink: /the-quarry.html
 tags: 
 - ucsc50
 - original-vision

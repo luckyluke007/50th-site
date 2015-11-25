@@ -7,7 +7,6 @@ description: UC Santa Cruz celebrates 50 years - Events Information | News | Pho
 url: 'http://50years.ucsc.edu' # the base hostname & protocol for your site
 # baseurl: "" # the subpath of your site, e.g. /blog/
 
-permalink: "/:title"
 timezone: America/Los_Angeles
 
 # Build settings
