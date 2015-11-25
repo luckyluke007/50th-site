@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Caroline Morley
 img: /css/assets/images/founders/caroline-morley.jpg
-permalink: /founders/caroline-morley.html
 ---
 
 Ph.D. candidate UC Santa Cruz

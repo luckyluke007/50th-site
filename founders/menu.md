@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Fiat Fifty Dinner Menu
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/menu.html
 ---
 
 An Alice Waters menu produced by UC Santa Cruz Catering and Head Chef Vince Franco and our local, organic farmers

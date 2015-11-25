@@ -5,7 +5,6 @@ date:   2014-12-10
 categories: forward
 img: /css/assets/images/posts/climate-change/main.jpg
 arthor: By Tim Stephens
-permalink: climate-change
 alt: UC Santa Cruz student working
 tags: 
 - ucsc50

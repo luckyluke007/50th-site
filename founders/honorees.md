@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Honorees
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/honorees.html
 ---
 
 <div class="award-title"><h2>Foundation Medal:</h2>

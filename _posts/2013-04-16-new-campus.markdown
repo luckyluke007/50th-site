@@ -4,7 +4,6 @@ title:  "Road to '65: Creating a design for the new campus"
 date:   2013-04-16
 categories: past
 img: /css/assets/images/posts/new-campus/main.jpg
-permalink: new-campus
 alt: Regents photo
 tags: 
 - ucsc50

@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: UC Santa Cruz celebrates 50 amazing years with an amazing night
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/index.html
 ---
 
 <iframe class="iframe-youtube" src="https://www.youtube.com/embed/XuQ97WS9loU" frameborder="0" allowfullscreen></iframe>
@@ -60,7 +59,7 @@ permalink: /founders/index.html
 <li><h3>Pioneer Reunion</h3></li>
 <li>
 <h4>LOCATION</h4>
-<span><a href="/founders/pioneer-reunion.html">Click here for details</a></span>
+<span><a href="/founders/pioneer-reunion/">Click here for details</a></span>
 </li>
 <li>
 <h4>DATE</h4>
@@ -77,7 +76,7 @@ permalink: /founders/index.html
 <div class="founder-content">
 {% img full-size /css/assets/images/founders/pioneer-class-title.jpg "Student in 1965" "Student in 1965" %}
 <h4>Celebrating the Original Students of UC Santa Cruz</h4>
-<p>As part of the 2015 Founders Celebration, we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with a special reunion program on Saturday from 9:30 a.m. until 3:30 p.m. <a href="/founders/pioneer-reunion.html">More information &raquo;</a></p>
+<p>As part of the 2015 Founders Celebration, we are planning reunion gatherings and activities stretching from Friday, September 25, through Sunday, September 27, with a special reunion program on Saturday from 9:30 a.m. until 3:30 p.m. <a href="/founders/pioneer-reunion/">More information &raquo;</a></p>
 </div>
 <!-- END CONTENT -->
 </div>
@@ -141,13 +140,13 @@ permalink: /founders/index.html
 <!-- END EVENT INFO -->
 <!-- CONTENT -->
 <div class="founder-content">{% img full-size /css/assets/images/founders/astronomy.jpg "Nebula" "Nebula" %} <h4>A conversation with extraordinary astrophysicist alumni, moderated by Chancellor George Blumenthal</h4><p><strong>Featuring</strong></p>
-<p><strong><a href="/founders/douglas-duncan.html">Douglas Duncan (Ph.D. '80, astronomy),</a></strong><br />
+<p><strong><a href="/founders/douglas-duncan/">Douglas Duncan (Ph.D. '80, astronomy),</a></strong><br />
 an astronomer at the University of Colorado, where he directs Fiske Planetarium, the most advanced planetarium in the country;</p>
-<p><strong><a href="/founders/steven-hawley.html">Steven Hawley (Ph.D. '77, astronomy),</a></strong> <br />
+<p><strong><a href="/founders/steven-hawley/">Steven Hawley (Ph.D. '77, astronomy),</a></strong> <br />
 professor of physics and astronomy at the University of Kansas, who made five space flights as a NASA astronaut and was inducted into the U.S. Astronaut Hall of Fame in 2007;</p>
-<p><strong><a href="/founders/geoffrey-marcy.html">Geoffrey Marcy (Ph.D. '82, astronomy),</a></strong><br />
+<p><strong><a href="/founders/geoffrey-marcy/">Geoffrey Marcy (Ph.D. '82, astronomy),</a></strong><br />
 professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in the discovery and characterization of planets around other stars;</p>
-<p><strong><a href="/founders/caroline-morley.html">Caroline Morley, astronomy Ph.D candidate,</a></strong><br />
+<p><strong><a href="/founders/caroline-morley/">Caroline Morley, astronomy Ph.D candidate,</a></strong><br />
 2015 Chancellor's Fellowship, 2014 ARCS recipient, 2012 Osterbook Fellowship, 2011 Harriet G. Jenkins Pre-doctoral Fellowship (NASA).</p>
 
 </div>
@@ -182,10 +181,10 @@ professor of astronomy at UC Berkeley, who is one of the pioneers and leaders in
 <p>Join us for a once-in-a-lifetime evening and be part of the crowning event of UC Santa Cruz’s 50th celebratory year.</p>
 <p>This year’s Founders Celebration dinner will be unlike anything we have done before. Served in a pavilion overlooking the Monterey Bay, Kathryn Sullivan (Cowell ‘73), the first American woman to walk in space, will be our master of ceremonies as we honor chef and food activist Alice Waters with the Foundation Medal and our pioneer staff and faculty with the Fiat Lux Award. The evening promises to be an electrifying night under the stars.</p>
 <ul>
-<li><a href="/founders/honorees.html"><strong>Honorees</strong></a></li>
-<li><a href="/founders/master-of-ceremony.html"><strong>Master of Ceremonies</strong></a></li>
-<li><a href="/founders/menu.html"><strong>Menu</strong></a></li>
-<li><a href="/founders/faq.html"><strong>FAQ</strong></a></li>
+<li><a href="/founders/honorees/"><strong>Honorees</strong></a></li>
+<li><a href="/founders/master-of-ceremony/"><strong>Master of Ceremonies</strong></a></li>
+<li><a href="/founders/menu/"><strong>Menu</strong></a></li>
+<li><a href="/founders/faq/"><strong>FAQ</strong></a></li>
 </ul>
 </div>
 <!-- END CONTENT -->

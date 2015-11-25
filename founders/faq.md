@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: FAQ
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/faq.html
 ---
 
 #### Q: Is Alice Water actually cooking?

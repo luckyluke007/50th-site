@@ -33,7 +33,7 @@ title: Events
         </div>
       </section>
     <h3>Thank you for coming and celebrating with us!</h3>
-    <p>Check out the <a href="/events-recap.html">events recap</a>.</p>
+    <p>Check out the <a href="/events-recap/">events recap</a>.</p>
     <ul class="post-list">
     {% for event in site.data.events.events %}
      {% assign eventdate = event.event.event_date | date: "%F" %}
@@ -43,7 +43,7 @@ title: Events
             <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
             <div class="event-content">
             {% if event.event.thumbnail.src != "" %}
-              <img src="{{ event.event.thumbnail.src }}" class="event-image" />
+              <img src="{{ event.event.thumbnail.src }}" class="event-image" alt="Event thumbnail" />
             {% endif %}
             <h2><a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a></h2>        
             <p>

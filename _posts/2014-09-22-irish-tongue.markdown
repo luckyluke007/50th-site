@@ -4,7 +4,6 @@ title:  "Linguists receive $260,000 grant to study endangered Irish language"
 date:   2014-09-22
 categories: forward
 img: /css/assets/images/posts/irish-tongue/main.jpg
-permalink: language
 alt: Jaye Padgett - photo
 tags: 
 - ucsc50
@@ -13,7 +12,7 @@ tags:
 ---
 
 <div class="caption">
-{% img full-size /css/assets/images/posts/irish-tongue/padgett.jpg %}
+{% img full-size /css/assets/images/posts/irish-tongue/padgett.jpg "Jaye Padgett" %}
 UC Santa Cruz Professor of Linguistics Jaye Padgett in Ireland</div>{% include article-sharing.html %}“Although we all have tongues, we are surprisingly bad at knowing precisely what they're doing or conveying that to others,” says UC Santa Cruz professor of linguistics Jaye Padgett.
 
 Tongue motion, it turns out, is crucial to the documentation of endangered languages.
@@ -29,7 +28,7 @@ UC Santa Cruz researchers are working hard to document the Irish language. Even 
 But one unusual feature of the Irish language is that every consonant comes in two varieties--one where the tongue is raised and pushed forward, and one where it is raised and retracted. So, one important goal of the researchers is to document this contrast--using real-time tongue imaging.
 
 <div class="caption">
-{% img full-size /css/assets/images/posts/irish-tongue/grant-recent-250.jpg %}
+{% img full-size /css/assets/images/posts/irish-tongue/grant-recent-250.jpg "Grant McGuire" %}
 UC Santa Cruz Assistant Professor of Linguistics Grant McGuire</div>“We do this using a portable ultrasound machine which allows us to non-invasively capture video of the tongue's surface while it moves during speech,” says Padgett. “Analysis of this ultrasound data will also allow us to answer more general questions about speech production.”
 
 The use of ultrasound in speech research is still in its early stages. Other ways of capturing tongue motion can be dangerous (x-ray video), or more expensive and less portable (MRI). To date, there are very few ultrasound studies of languages outside of English and other dominant languages, and there are none of Irish. 

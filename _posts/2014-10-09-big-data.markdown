@@ -4,7 +4,6 @@ title:  "UC Santa Cruz leads $11 million Center for Big Data in Translational Ge
 date:   2014-10-09
 categories: forward
 img: /css/assets/images/posts/big-data/main.jpg
-permalink: genomics
 alt: Student standing in front monitors
 tags: 
 - ucsc50

@@ -61,61 +61,61 @@ permalink: /alumniweekend2015/index-2015case.html
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/7.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/7.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Biggest fan!</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/8.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/8.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Whoosh</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/9.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/9.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Beach days</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/10.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/10.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Celebration</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/11.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/11.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Research</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/12.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/12.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Going places</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/13.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/13.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Pride</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/14.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/14.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Purpose</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/15.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/15.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Love</h2>
 						</figcaption>
 					</figure>
 					<figure data-dummy>
-						<a href="#" class="photostack-img">{% img /css/assets/images/aw-2015/slider/16.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
+						<a href="/alumniweekend2015/" class="photostack-img">{% img /css/assets/images/aw-2015/slider/16.jpg "Alumni Weekend" "Alumni Weekend" %}</a>
 						<figcaption>
 							<h2 class="photostack-title">Slug tribes</h2>
 						</figcaption>

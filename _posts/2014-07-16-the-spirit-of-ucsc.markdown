@@ -6,7 +6,6 @@ categories: nextvideo
 img: /css/assets/images/posts/the-spirit-of-ucsc/main.jpg
 alt: The Spirit of UCSC - Video
 nextvideo: https://www.youtube.com/watch?v=IsNigSEvdJg&feature=youtu.be
-permalink: the-spirit
 tags: 
 - ucsc50
 - thespiritucsc

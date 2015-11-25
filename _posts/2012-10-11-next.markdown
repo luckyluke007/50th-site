@@ -3,7 +3,6 @@ layout: post
 title:  "The Campaign for UC Santa Cruz"
 date:   2012-10-11
 categories: next
-permalink: next-50
 tags: 
 - ucsc50
 - next50

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Press Kit
-permalink: /press-photos/index.html
 ---
 ##Pre Campus Photo
 

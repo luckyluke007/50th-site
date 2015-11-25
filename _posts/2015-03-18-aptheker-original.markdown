@@ -4,7 +4,6 @@ title:  "Bettina Aptheker: Building Feminist Studies at UC Santa Cruz"
 date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/bettina-aptheker.jpg
-permalink: /original-thinkers/bettina-aptheker.html
 alt: Bettina Aptheker
 tags: 
 - ucsc50
@@ -20,7 +19,9 @@ Students often describe their time in Aptheker’s class as a “life-changing e
 
 Aptheker’s 2006 book, Intimate Politics: How I Grew Up Red, Fought for Free Speech and Became A Feminist Rebel, tells the fascinating story of her life. Described by the Chronicle of Higher Education as a “stunning memoir,” it traces her role in major historical and political events ranging from her co-leadership of the Free Speech Movement in Berkeley, the movement against the war in Vietnam, and the trial of Angela Davis, to the building of the Women's Studies Department at UC Santa Cruz. 
 
-Aptheker, who received her Ph.D. in History of Consciousness from UC Santa Cruz, has been honored with the “Award for Excellence in Education” by the California chapter of the National Organization for Women. She was recently named a prestigious University of California Presidential Chair in Feminist Critical Race and Ethnic Studies at UC Santa Cruz, and is currently teaching a course on feminism and social justice.***
+Aptheker, who received her Ph.D. in History of Consciousness from UC Santa Cruz, has been honored with the “Award for Excellence in Education” by the California chapter of the National Organization for Women. She was recently named a prestigious University of California Presidential Chair in Feminist Critical Race and Ethnic Studies at UC Santa Cruz, and is currently teaching a course on feminism and social justice.
+
+***
 
 ### Related Links
 

@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Steven Hawley
 img: /css/assets/images/founders/steven-hawley.jpg
-permalink: /founders/steven-hawley.html
 ---
 
 Alumnus: Astronomy Ph.D. 1977

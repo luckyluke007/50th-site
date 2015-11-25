@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Douglas Duncan
 img: /css/assets/images/founders/douglas-duncan.jpg
-permalink: /founders/douglas-duncan.html
 ---
 
 Alumnus: Astronomy Ph.D. 1980 | [dduncan@colorado.edu](mailto:dduncan@colorado.edu)

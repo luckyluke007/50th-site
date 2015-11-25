@@ -4,7 +4,6 @@ title:  "1975-1984"
 date:   2013-11-27
 categories: photo
 img: /css/assets/images/posts/second-decade/main.jpg
-permalink: 1975-1984
 alt: Rock the Quarry - Video
 tags: 
 - ucsc50

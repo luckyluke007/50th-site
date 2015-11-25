@@ -4,7 +4,6 @@ title:  "Adrienne Zihlman: The Role of Women in Evolution"
 date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/zihlman-adrienne.jpg
-permalink: /original-thinkers/adrienne-zihlman.html
 alt: Adriene Zilman
 tags: 
 - ucsc50

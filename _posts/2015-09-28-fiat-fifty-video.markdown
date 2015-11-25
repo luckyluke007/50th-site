@@ -5,7 +5,6 @@ date:   2015-09-28
 categories: videos
 img: /css/assets/images/posts/fiat-fifty/main.jpg
 alt: UC Santa Cruz Fiat Fifty
-permalink: fiat-fifty
 tags: 
 - ucsc50
 - academic

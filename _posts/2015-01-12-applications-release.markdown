@@ -4,7 +4,6 @@ title:  "In 50th year, UC Santa Cruz sees unprecedented undergraduate interest"
 date:   2015-01-12
 categories: forward
 img: /css/assets/images/posts/applications-release/main.jpg
-permalink: applications-release
 alt: UC Santa Cruz students
 tags: 
 - ucsc50

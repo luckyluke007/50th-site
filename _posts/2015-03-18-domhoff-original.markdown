@@ -1,10 +1,10 @@
 ---
 layout: original-page
-title:  "G. William Domhoff: Authority on power structure documented the 1 percent "
+title:  "G. William Domhoff: Authority on power structure documented the 1 percent 
+"
 date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/domhoff.jpg
-permalink: /original-thinkers/william-domhoff.html
 alt: William Domhoff
 tags: 
 - ucsc50
@@ -12,7 +12,9 @@ tags:
 - ucsantacruz
 ---
 
-{% img /css/assets/images/original-thinkers/domhoff.jpg "Bill Dohmoff" "Bill Dohmoff" %}Long before the Occupy Wall Street movement camped out in New York’s Zuccotti Park, UC Santa Cruz Professor Bill Domhoff chronicled the disproportionate power and influence of the 1 percent.Domhoff, a professor of psychology and sociology, was a founding UCSC faculty member. He became a pioneer in two fields, the study of U.S. power relations and the theory and practice of quantitative dream analysis
+{% img /css/assets/images/original-thinkers/domhoff.jpg "Bill Dohmoff" "Bill Dohmoff" %}Long before the Occupy Wall Street movement camped out in New York’s Zuccotti Park, UC Santa Cruz Professor Bill Domhoff chronicled the disproportionate power and influence of the 1 percent.
+
+Domhoff, a professor of psychology and sociology, was a founding UCSC faculty member. He became a pioneer in two fields, the study of U.S. power relations and the theory and practice of quantitative dream analysis
 
 He is widely regarded as the foremost authority on the structure of power in the United States. His 1967 book Who Rules America (published 44 years before Occupy Wall Street) is a classic in sociology.
 

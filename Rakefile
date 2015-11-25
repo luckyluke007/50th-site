@@ -1,5 +1,6 @@
 require 'rake'
 require 'net/http'
+require 'html/proofer'
 
 task :default => :fetch
 
@@ -20,4 +21,12 @@ task :fetch do
         puts "Fetched events from calendar feed: #{name}"
     end
     system('bundle exec jekyll build')
+end
+
+# Test the build
+desc "Build the site and test with HTML Proofer"
+task :test do
+  sh "bundle exec jekyll build"
+  HTML::Proofer.new("./_site", {:disable_external => true}).run
+  # TODO: sh "scss-lint"
 end

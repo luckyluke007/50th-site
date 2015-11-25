@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Geoffrey Marcy
 img: /css/assets/images/founders/geoffrey-marcy.jpg
-permalink: /founders/geoffrey-marcy.html
 ---
 
 Alumnus: Astronomy Ph.D. 1982

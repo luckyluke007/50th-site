@@ -6,7 +6,6 @@ categories: videos
 img: /css/assets/images/dedication.jpg
 alt: A very special moment in our history
 video: https://www.youtube.com/watch?v=0LfakJersWE
-permalink: dedication
 tags: 
 - ucsc50
 - 50thdedication
@@ -32,4 +31,4 @@ Fiat Slug!
 
 ### Related Link
 
-- [Listen to 1964 ceremony](/dedication/audio.html)
+- [Listen to 1964 ceremony](/founders-rock-audio/)

@@ -2,7 +2,6 @@
 layout: default-black
 title: Who says
 img: /css/assets/images/whosays/space-shuttle.jpg
-permalink: /whosays/
 ---
 # Welcome to UC Santa Cruz
 

@@ -2,7 +2,6 @@
 layout: post-aw
 title: Events Recap
 img: /css/assets/images/aw-2015/events/wine-reception.jpg
-permalink: /alumniweekend2015/events.html
 ---
 {% include flexslider.html %}
  <!-- <section class="slider">
@@ -55,7 +54,7 @@ permalink: /alumniweekend2015/events.html
         <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
         <div class="event-content">
         {% if event.event.event.thumbnail.src != "" %}
-          <img src="{{ event.event.thumbnail.src }}" class="event-image" />
+          <img src="{{ event.event.thumbnail.src }}" class="event-image" alt="Event Thumbnail"/>
         {% endif %}
         <h2>
           <a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a>

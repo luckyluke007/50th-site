@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 50th Anniversary Leadership Committee
-permalink: committees/index.html
 ---
 {% img full-size /css/assets/images/50th-leadership-committee.jpg "50th Leadership Committee Photo" "50th Leadership Committee Photo" %}
 

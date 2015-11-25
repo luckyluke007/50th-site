@@ -5,7 +5,6 @@ date:   2015-03-13
 categories: past
 img: /css/assets/images/posts/original-vision/main.jpg
 alt: Circa 1963. A caravan of Regents on one of their many visits to Cowell Ranch, the future site of UC Santa Cruz.  
-permalink: original-vision
 tags: 
 - ucsc50
 - original-vision

@@ -2,7 +2,6 @@
 layout: default-black
 title: Who says you need a medical school to defeat cancer?
 img: /css/assets/images/whosays/genomics.jpg
-permalink: /whosays/genomics.html
 ---
 
 # Welcome to UC Santa Cruz

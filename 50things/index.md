@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 50 things you might not know about UC Santa Cruz...
-permalink: /50-things/index.html
 ---
 
 You know about UCSC's mascot—the slow, humble, neon-yellow banana slug, a choice at once both eccentric and defiant.

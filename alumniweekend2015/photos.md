@@ -2,7 +2,6 @@
 layout: post-aw
 title: Photos
 img: /css/assets/images/aw-2015/aw-photos.jpg
-permalink: /alumniweekend2015/photos.html
 ---
 
 {% img full-size /css/assets/images/aw-2015/aw-photos.jpg "Alumni Weekend 2015 Banner" "Alumni Weekend 2015 Banner" %}

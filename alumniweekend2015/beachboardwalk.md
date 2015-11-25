@@ -2,7 +2,6 @@
 layout: post-aw
 title: Exclusive alumni discounts at the Santa Cruz Beach Boardwalk
 img: http://www.beachboardwalk.com/rides/data1/images/980x323_ride_seaswings01.jpg
-permalink: /alumniweekend2015/beachboardwalk.html
 exclude_from_search: true
 ---
 

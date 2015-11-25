@@ -2,11 +2,10 @@
 layout: post-aw
 title: Friday Events
 img: /css/assets/images/aw-2015/events/wine-reception.jpg
-permalink: /alumniweekend2015/events_thursday_friday.html
 exclude_from_search: true
 ---
 
-View events by day:<div class="events-days"><a href="/alumniweekend2015/events.html" class="day">All Events</a> <span class="onpage">Fri</span> <a href="events_sunday.html" class="day">Sun</a></div>
+View events by day:<div class="events-days"><a href="/alumniweekend2015/events/" class="day">All Events</a> <span class="onpage">Fri</span> <a href="/alumniweekend2015/events_sunday/" class="day">Sun</a></div>
   <ul class="post-list">
     {% for event in site.data.alumniweekend.events %}
       {% assign eventdate = event.event.event_date | date: "%F" %}
@@ -16,7 +15,7 @@ View events by day:<div class="events-days"><a href="/alumniweekend2015/events.h
         <span class="post-meta event-date">{{ event.event.event_date | date: "%b" }}<br/ >{{ event.event.event_date | date: "%-d" }}</span>
         <div class="event-content">
         {% if event.event.event.thumbnail.src != "" %}
-          <img src="{{ event.event.thumbnail.src }}" class="event-image" />
+          <img src="{{ event.event.thumbnail.src }}" class="event-image" alt="Event Thumbnail"/>
         {% endif %}
         <h2>
           <a class="post-link" href="{{ event.event.link }}">{{ event.event.title }}</a>

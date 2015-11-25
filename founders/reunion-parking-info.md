@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Parking & Shuttles for the Pioneer Reunion
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/reunion-parking-info.html
 ---
 
 ## Friday, September 25

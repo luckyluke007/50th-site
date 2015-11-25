@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Sponsor Benefits
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/sponsorship.html
 ---
 
 ***Increased Visibility:*** Sponsors of this historic event will automatically benefit from media promotion during the event's marketing campaign, providing exposure and visibility throughout the community.
@@ -49,7 +48,7 @@ permalink: /founders/sponsorship.html
 - Handcrafted and engraved dish from Annieglass
 - Commemorative print created by the UC Santa Cruz Cowell Press
 
-**Please contact Howard Heevner**<br>
+**Please contact Howard Heevner**<br>
 **[hheevner@ucsc.edu](mailto:hheevner@ucsc.edu)**<br>
 **831.459.5226**
 

@@ -1,7 +1,6 @@
 ---
 layout: timeline
 title: Timeline
-permalink: timeline.html
 ---
 <div class="timeline">
     <h1>{{ page.title }}</h1>

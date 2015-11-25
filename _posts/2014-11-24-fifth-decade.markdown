@@ -4,7 +4,6 @@ title:  "2005-2014"
 date:   2013-11-24
 categories: photo
 img: /css/assets/images/posts/fifth-decade/main.jpg
-permalink: 2005-2014
 alt: Student sit on the Porter wave
 tags: 
 - ucsc50

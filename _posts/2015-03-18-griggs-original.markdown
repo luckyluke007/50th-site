@@ -4,7 +4,6 @@ title:  "Gary Griggs: a voice of reason amid coastal conflicts"
 date:   2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/gary-griggs.jpg
-permalink: /original-thinkers/gary-griggs.html
 alt: Gary Griggs
 tags: 
 - ucsc50
@@ -20,4 +19,4 @@ Griggs has been trying to bring attention to coastal hazards and geologic proces
 
 Griggs' book Living with the Changing California Coast (first published in 1985, revised and updated in 2005) is an essential resource for coastal planners and residents. Coauthored with two former students, the book offers practical information and advice, as well as an appreciation for one of the most beautiful coastlines in the world and the forces that have shaped it.
 
-Griggs has written several other books since then, including Introduction to California's Beaches and Coast, California Coast from the Air, and most recently Our Ocean Backyard: Collected Essays. In 2009, he was recognized by the California Coastal Commission and Sunset magazine as one of "California's Coastal Heroes."
+Griggs has written several other books since then, including Introduction to California's Beaches and Coast, California Coast from the Air, and most recently Our Ocean Backyard: Collected Essays. In 2009, he was recognized by the California Coastal Commission and Sunset magazine as one of "California's Coastal Heroes."

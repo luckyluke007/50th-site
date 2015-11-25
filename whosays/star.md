@@ -2,7 +2,6 @@
 layout: default-black
 title: Who says
 img: /css/assets/images/whosays/star.jpg
-permalink: /whosays/star.html
 ---
 
 # Welcome to UC Santa Cruz

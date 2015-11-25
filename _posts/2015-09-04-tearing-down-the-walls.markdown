@@ -4,7 +4,6 @@ title:  "Tearing down the walls"
 date:   2015-09-04
 categories: past
 img: /css/assets/images/posts/tearing-down/main.jpg
-permalink: tearing-down-the-walls
 alt: Regents visiting site for UC Santa Cruz campus
 tags: 
 - ucsc50

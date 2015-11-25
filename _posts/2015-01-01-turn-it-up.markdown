@@ -6,7 +6,6 @@ categories: videos
 img: /css/assets/images/posts/50-years-young/main.jpg
 alt: The Spirit of UCSC - Video
 nextvideo: https://www.youtube.com/embed/Jt8pgr52iQY
-permalink: 50-years-young
 tags: 
 - ucsc50
 - 50yearsyoung

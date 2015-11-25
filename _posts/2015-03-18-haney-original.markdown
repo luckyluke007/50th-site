@@ -4,7 +4,6 @@ title:  "Craig Haney: A career dedicated to social justice"
 date: 2015-03-18
 categories: original-thinkers
 img: /css/assets/images/original-thinkers/haney.jpg
-permalink: /original-thinkers/craig-haney.html
 alt: Craig Haney
 tags: 
 - ucsc50
@@ -28,4 +27,4 @@ In recent years, policy makers have begun to take notice. In August 2013, revers
 
 "We cannot simply prosecute or incarcerate our way to becoming a safer country," he said. 
 
-Just last month, New York City officials said they would eliminate the use of solitary confinement for all inmates age 21 and younger at the notorious Rikers Island prison. 
+Just last month, New York City officials said they would eliminate the use of solitary confinement for all inmates age 21 and younger at the notorious Rikers Island prison. 

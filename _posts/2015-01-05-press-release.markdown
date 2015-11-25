@@ -3,7 +3,6 @@ layout: post
 title:  "A bold experiment realized, UC Santa Cruz turns 50"
 date:   2015-01-05
 categories: press-release
-permalink: press-release
 excerpt: Campus celebrates its trailblazing history and groundbreaking impact on the world 
 tags: 
 - ucsc50

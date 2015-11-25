@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Happy Anniversary UC Santa Cruz
-permalink: /timeline/users-content/lotte-marcus.html
 ---
 You permitted the then 38 year old woman and young  mother, with  checkered and multiple school backgrounds  acquired as a Shanghai Jewish refugee,- from Vienna to Shanghai (1938 to1947) to Berkeley  (1951) to Monterey (1955) to UC Santa Cruz (1965) : 18 years after my immigration, I became one of the first older women to return to a campus – not to chaperon but to mix with the 18 year olds with whom I shared my classes.
 

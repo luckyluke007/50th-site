@@ -6,7 +6,6 @@ categories: videos
 img: /css/assets/images/posts/audacious-academic/main.jpg
 alt: UC Santa Cruz Audacious and Academic from the start - Video
 nextvideo: https://www.youtube.com/embed/3d8yE0D38zM
-permalink: audacious-academic
 tags: 
 - ucsc50
 - academic

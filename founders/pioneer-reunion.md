@@ -2,7 +2,6 @@
 layout: post-save-the-date
 title: Pioneer Reunion&#58; Celebrating the Original Students of UC Santa Cruz
 img: /css/assets/images/founders/fiat-fifty.gif
-permalink: /founders/pioneer-reunion.html
 exclude_from_search: true
 ---
 
@@ -44,7 +43,7 @@ Saturday will feature a full day of events from lectures to mingling to lunches,
 - **Sunday, September 27: Pioneer Brunch, Service of Remembrance & Faculty Reflections 10 a.m.-2 p.m., Cowell Provost House** <br />
 Join us for our closing activities. We will start with a Brunch overlooking the beautiful view from the Provost House Lawn, then take time to remember those who have passed, and end the evening with a stroll up to Cowell College to hear reflections from Pioneer Faculty.
 
-<a href="http://50years.ucsc.edu/founders/pioneer-schedules.html" class="full-width-button" style="float: none !important;">Full Schedule of Events</a>
+<a href="/founders/pioneer-schedules/" class="full-width-button" style="float: none !important;">Full Schedule of Events</a>
 
 <!-- <a href="http://50years.ucsc.edu/founders/reunion-parking-info.html" class="full-width-button" style="float: none !important;">Parking Information</a> -->
 

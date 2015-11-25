@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Participation
-permalink: participation.html
 ---
 {% img full-size /css/assets/images/volunteer.jpg "Volunteers" "Volunteers" %}
 
@@ -32,4 +31,4 @@ The Smith Renaissance Society serves the college dreams of independent students 
 
 ## Social Media
 
-See what is happening on social media channels. [Join the conversation](/ucsc50.html).
+See what is happening on social media channels. [Join the conversation](/ucsc50/).
