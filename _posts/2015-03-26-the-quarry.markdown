@@ -5,7 +5,6 @@ date:   2015-03-26
 categories: forward
 img: /css/assets/images/posts/the-quarry/main.jpg
 alt: Quarry Amphitheater circa 1966 (photo by Brandeis Photography) 
-permalink: /student-support-quarry
 tags: 
 - ucsc50
 - original-vision
