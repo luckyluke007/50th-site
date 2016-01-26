@@ -2,7 +2,6 @@
 layout: post-aw
 title: Places to Stay
 img: /css/assets/images/aw-2015/dream-inn.jpg
-exclude_from_search: true
 ---
 
 ***
